@@ -1,0 +1,39 @@
+GY 경복궁 Master - Studio 시험 임포트
+
+아래 Master FBX 하나만 가져옵니다.
+
+1. C:/Work/blender/GY_Gyeongbokgung/FBX_Master/GY_GYEONGBOKGUNG_MASTER.fbx
+
+OVERDARE Studio 작업 순서
+
+1. Home 탭에서 Import3D 또는 BulkImport를 엽니다.
+2. 위 두 FBX를 선택합니다.
+3. 아래 설정을 사용합니다.
+
+- Import Only as Model: On
+- Insert in Workspace: On
+- Insert Using Scene Position: On
+- Set Model Instance Pivot to Scene Origin: On
+- World Forward: Front
+- World Up: Top
+- Scale Unit: CM
+- Merge Meshes: Off
+- Make Double Sided: Off
+- Invert Negative Faces: Off
+
+첫 확인 기준
+
+- 지면 전체 크기: 약 180m x 310m
+- 원점 주변: 최소 20m x 20m의 비어 있는 스폰 광장
+- 광화문 중심: 원점에서 북쪽으로 약 30m
+- 광화문 중앙 통로 폭: 약 8m
+- 광화문이 옆으로 눕거나 뒤집히지 않아야 함
+- 지면과 광화문이 같은 기준점에 정렬되어야 함
+- UCX_EXP_GY_GYEONGBOKGUNG_MASTER 충돌 메시가 시각 메시로 따로 보이지 않아야 함
+
+중요
+
+- Blender FBX가 단위 정보를 포함하므로 Scale Unit은 반드시 CM을 사용합니다.
+- 크기나 방향이 틀리면 Studio에서 임의로 회전/스케일하지 않습니다.
+- 임포트 결과를 그대로 둔 상태에서 에이전트에게 완료했다고 알려 주세요.
+- 에이전트가 Studio 계층과 크기를 읽고 Blender FBX 설정을 수정할지 판단합니다.

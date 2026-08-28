@@ -1,0 +1,23 @@
+GY Gyeongbokgung - OVERDARE Import Guide
+
+Current status: Phase 1 mobile blockout. This is not final historical-detail art.
+
+OVERDARE import settings:
+- Format: FBX
+- Scale Unit: Meter
+- World Up: Top
+- World Forward: verify using GUIDE_NORTH_ARROW; palace axis points Blender +Y
+- Merge Meshes: Off
+- Import Only as Model: On for zone hierarchy
+- Master layout pivot: Scene Origin
+- Ground alignment: Blender Z=0 should map to OVERDARE ground top Y=0
+- Spawn: world origin is a clear 20m x 20m area; Gwanghwamun is 30m north
+- Collision: UCX_ meshes are closed and kept separate from visual meshes
+
+Performance targets:
+- Every imported mesh must remain under 30,000 triangles
+- Low-end visible budget target: 70,000 vertices and 70 draw calls
+- Default texture target: 512 x 512
+
+Next production step:
+- Confirm layout and player scale before adding detailed roof, columns, dancheong atlas, UVs, and LODs.

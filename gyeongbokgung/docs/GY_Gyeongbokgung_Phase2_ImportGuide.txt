@@ -1,0 +1,14 @@
+GY Gyeongbokgung Phase 2 - OVERDARE Import Guide
+
+Use files from FBX_Phase2. Import one zone at a time.
+- Scale Unit: Meter
+- World Up: Top
+- World Forward: verify palace north axis; Blender palace axis is +Y
+- Merge Meshes: Off (each FBX already contains one merged render mesh)
+- Import Only as Model: On
+- Keep matching UCX_EXP_ZONE_* collision mesh in the same FBX
+- Align Blender Z=0 to OVERDARE ground top Y=0
+- World origin remains a clear 20m x 20m spawn area
+- Gwanghwamun remains 30m north of spawn
+
+Edit the detailed source collections in the .blend file. Use PHASE2_MERGED_EXPORT only for optimized import/export.

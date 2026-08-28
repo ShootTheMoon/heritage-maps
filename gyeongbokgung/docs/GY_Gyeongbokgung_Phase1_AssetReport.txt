@@ -1,0 +1,34 @@
+{
+  "project": "GY Gyeongbokgung",
+  "phase": "Phase 1 Blockout",
+  "output_root": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung",
+  "blend_file": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\GY_Gyeongbokgung.blend",
+  "unit_system": "METRIC",
+  "length_unit": "METERS",
+  "generated_meshes": 77,
+  "visual_meshes": 53,
+  "collision_meshes": 24,
+  "vertices": 694,
+  "triangles": 1080,
+  "largest_mesh_triangles": {
+    "name": "SM_Gyeonghoeru_Column_0_0_Blockout",
+    "triangles": 28
+  },
+  "zone_object_counts": {
+    "ZONE_01_ENTRANCE": 8,
+    "ZONE_02_HEUNGNYEMUN": 6,
+    "ZONE_03_GEUNJEONGMUN": 6,
+    "ZONE_04_GEUNJEONGJEON": 7,
+    "ZONE_05_CORRIDORS": 7,
+    "ZONE_06_GYEONGHOERU": 16
+  },
+  "spawn_safe_zone_20m_blockers": [],
+  "open_or_nonmanifold_ucx": [],
+  "negative_scale_objects": [],
+  "unapplied_scale_objects": [],
+  "visual_meshes_below_ground": [],
+  "main_gate_passage_width_m": 8.0,
+  "spawn_to_gwanghwamun_m": 30.0,
+  "overdare_single_mesh_triangle_limit": 30000,
+  "validation_passed": true
+}

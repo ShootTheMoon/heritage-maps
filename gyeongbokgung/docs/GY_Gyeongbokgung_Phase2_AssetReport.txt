@@ -1,0 +1,140 @@
+{
+  "project": "GY Gyeongbokgung",
+  "phase": "Phase 2 Detailed Mobile Layout",
+  "output_root": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung",
+  "blend_file": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\GY_Gyeongbokgung.blend",
+  "source_visual_mesh_objects": 1521,
+  "source_collision_objects": 25,
+  "module_sources": 13,
+  "hero_detail_objects": 187,
+  "secondary_detail_objects": 163,
+  "merged_export_render_meshes": 7,
+  "merged_export_collision_meshes": 7,
+  "merged_export_stats": [
+    {
+      "name": "EXP_ZONE_01_ENTRANCE",
+      "vertices": 4116,
+      "triangles": 6932,
+      "material_slots": 10,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_02_HEUNGNYEMUN",
+      "vertices": 1850,
+      "triangles": 3112,
+      "material_slots": 9,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_03_GEUNJEONGMUN",
+      "vertices": 1850,
+      "triangles": 3112,
+      "material_slots": 9,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_04_GEUNJEONGJEON",
+      "vertices": 5124,
+      "triangles": 8616,
+      "material_slots": 7,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_05_CORRIDORS",
+      "vertices": 1206,
+      "triangles": 2100,
+      "material_slots": 5,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_06_GYEONGHOERU",
+      "vertices": 4494,
+      "triangles": 7784,
+      "material_slots": 8,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "EXP_ZONE_07_GROUND",
+      "vertices": 1848,
+      "triangles": 3236,
+      "material_slots": 7,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "merged_visible_vertices_total": 20488,
+  "merged_draw_call_estimate": 55,
+  "largest_merged_mesh_triangles": 8616,
+  "spawn_safe_zone_20m_blockers": [],
+  "open_or_nonmanifold_export_ucx": [],
+  "fbx_exports": [
+    {
+      "zone": "ZONE_01_ENTRANCE",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_01_ENTRANCE.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_02_HEUNGNYEMUN",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_02_HEUNGNYEMUN.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_03_GEUNJEONGMUN",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_03_GEUNJEONGMUN.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_04_GEUNJEONGJEON",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_04_GEUNJEONGJEON.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_05_CORRIDORS",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_05_CORRIDORS.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_06_GYEONGHOERU",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_06_GYEONGHOERU.fbx",
+      "success": true
+    },
+    {
+      "zone": "ZONE_07_GROUND",
+      "path": "C:\\Users\\29\\Desktop\\blender\\GY_Gyeongbokgung\\FBX_Phase2\\GY_ZONE_07_GROUND.fbx",
+      "success": true
+    }
+  ],
+  "validation_targets": {
+    "single_mesh_triangles_max": 30000,
+    "visible_vertices_low_end": 70000,
+    "draw_calls_low_end": 70
+  },
+  "validation_passed": true
+}
