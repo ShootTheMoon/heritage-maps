@@ -1,0 +1,6002 @@
+[
+{
+"className": "Part",
+"name": "COL_TER_1000",
+"props": {
+"position": [
+-30509.3,
+106.3,
+-39107.3
+],
+"size": [
+218.6,
+100.0,
+217.3
+],
+"orientation": [
+8.594,
+0.0,
+-10.695
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1001",
+"props": {
+"position": [
+-30515.9,
+114.0,
+-39289.3
+],
+"size": [
+226.6,
+100.0,
+220.3
+],
+"orientation": [
+-13.021,
+0.0,
+-18.587
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1002",
+"props": {
+"position": [
+-30310.2,
+61.7,
+-39102.6
+],
+"size": [
+219.3,
+100.0,
+215.3
+],
+"orientation": [
+2.989,
+0.0,
+-11.746
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1003",
+"props": {
+"position": [
+-30312.7,
+45.0,
+-39286.9
+],
+"size": [
+222.3,
+100.0,
+222.7
+],
+"orientation": [
+-15.656,
+0.0,
+-14.664
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1004",
+"props": {
+"position": [
+-30821.8,
+170.9,
+-39584.4
+],
+"size": [
+465.4,
+100.0,
+441.5
+],
+"orientation": [
+-20.298,
+0.0,
+-25.882
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1005",
+"props": {
+"position": [
+-30921.1,
+118.0,
+-39882.0
+],
+"size": [
+239.2,
+100.0,
+233.0
+],
+"orientation": [
+-23.428,
+0.0,
+-24.929
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1006",
+"props": {
+"position": [
+-30914.0,
+3.7,
+-40063.4
+],
+"size": [
+234.4,
+100.0,
+324.5
+],
+"orientation": [
+-49.744,
+0.0,
+-16.265
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1007",
+"props": {
+"position": [
+-30720.9,
+11.4,
+-39883.9
+],
+"size": [
+237.9,
+100.0,
+228.9
+],
+"orientation": [
+-20.745,
+0.0,
+-24.692
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1008",
+"props": {
+"position": [
+-30713.6,
+-67.3,
+-40070.0
+],
+"size": [
+227.7,
+100.0,
+271.0
+],
+"orientation": [
+-38.634,
+0.0,
+-15.776
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1009",
+"props": {
+"position": [
+-30517.4,
+38.3,
+-39482.2
+],
+"size": [
+230.6,
+100.0,
+231.2
+],
+"orientation": [
+-22.351,
+0.0,
+-20.412
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1010",
+"props": {
+"position": [
+-30513.1,
+-11.9,
+-39693.2
+],
+"size": [
+222.4,
+100.0,
+217.0
+],
+"orientation": [
+-8.072,
+0.0,
+-15.209
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1011",
+"props": {
+"position": [
+-30308.0,
+-6.1,
+-39486.9
+],
+"size": [
+217.8,
+100.0,
+222.4
+],
+"orientation": [
+-15.351,
+0.0,
+-9.202
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1012",
+"props": {
+"position": [
+-30301.9,
+-53.3,
+-39695.0
+],
+"size": [
+215.1,
+100.0,
+216.0
+],
+"orientation": [
+-5.754,
+0.0,
+-2.149
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1013",
+"props": {
+"position": [
+-30506.1,
+-55.8,
+-39887.3
+],
+"size": [
+216.6,
+100.0,
+221.8
+],
+"orientation": [
+-14.782,
+0.0,
+-7.041
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1014",
+"props": {
+"position": [
+-30485.3,
+-75.4,
+-40090.6
+],
+"size": [
+224.6,
+100.0,
+218.9
+],
+"orientation": [
+-11.291,
+0.0,
+17.103
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1015",
+"props": {
+"position": [
+-30303.1,
+-82.2,
+-39891.5
+],
+"size": [
+215.4,
+100.0,
+218.0
+],
+"orientation": [
+-9.791,
+0.0,
+-3.537
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1016",
+"props": {
+"position": [
+-30300.7,
+-99.4,
+-40100.2
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+0.228,
+0.0,
+-0.812
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1017",
+"props": {
+"position": [
+-31709.0,
+145.6,
+-40255.3
+],
+"size": [
+233.2,
+100.0,
+492.0
+],
+"orientation": [
+-65.211,
+0.0,
+-10.353
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1018",
+"props": {
+"position": [
+-31697.4,
+-89.4,
+-40500.0
+],
+"size": [
+215.3,
+100.0,
+215.0
+],
+"orientation": [
+0.003,
+0.0,
+3.019
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1019",
+"props": {
+"position": [
+-31509.9,
+67.8,
+-40256.6
+],
+"size": [
+233.0,
+100.0,
+445.1
+],
+"orientation": [
+-62.286,
+0.0,
+-11.393
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1020",
+"props": {
+"position": [
+-31494.7,
+-85.0,
+-40526.2
+],
+"size": [
+216.6,
+100.0,
+250.2
+],
+"orientation": [
+31.747,
+0.0,
+6.101
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1021",
+"props": {
+"position": [
+-31592.5,
+214.8,
+-40836.4
+],
+"size": [
+424.9,
+100.0,
+605.8
+],
+"orientation": [
+47.388,
+0.0,
+8.631
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1022",
+"props": {
+"position": [
+-31310.9,
+-22.8,
+-40261.6
+],
+"size": [
+227.8,
+100.0,
+339.0
+],
+"orientation": [
+-51.888,
+0.0,
+-12.641
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1023",
+"props": {
+"position": [
+-31295.3,
+-68.2,
+-40534.7
+],
+"size": [
+216.7,
+100.0,
+294.1
+],
+"orientation": [
+44.223,
+0.0,
+5.409
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1024",
+"props": {
+"position": [
+-31109.5,
+-81.9,
+-40276.7
+],
+"size": [
+219.8,
+100.0,
+242.1
+],
+"orientation": [
+-28.269,
+0.0,
+-10.942
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1025",
+"props": {
+"position": [
+-31096.5,
+-61.4,
+-40533.8
+],
+"size": [
+215.9,
+100.0,
+287.2
+],
+"orientation": [
+42.708,
+0.0,
+4.053
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1026",
+"props": {
+"position": [
+-31203.6,
+222.1,
+-40835.1
+],
+"size": [
+417.0,
+100.0,
+578.7
+],
+"orientation": [
+44.794,
+0.0,
+-4.083
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1027",
+"props": {
+"position": [
+-31688.2,
+426.5,
+-41131.9
+],
+"size": [
+225.2,
+100.0,
+280.3
+],
+"orientation": [
+41.081,
+0.0,
+13.698
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1028",
+"props": {
+"position": [
+-31689.0,
+622.8,
+-41334.9
+],
+"size": [
+225.2,
+100.0,
+301.1
+],
+"orientation": [
+45.644,
+0.0,
+12.751
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1029",
+"props": {
+"position": [
+-31494.7,
+480.9,
+-41134.5
+],
+"size": [
+217.2,
+100.0,
+293.1
+],
+"orientation": [
+44.014,
+0.0,
+6.107
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1030",
+"props": {
+"position": [
+-31512.8,
+645.8,
+-41321.7
+],
+"size": [
+223.6,
+100.0,
+238.9
+],
+"orientation": [
+26.709,
+0.0,
+-14.794
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1031",
+"props": {
+"position": [
+-31607.6,
+729.1,
+-41605.8
+],
+"size": [
+419.8,
+100.0,
+417.8
+],
+"orientation": [
+6.75,
+0.0,
+-8.774
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1032",
+"props": {
+"position": [
+-31215.5,
+476.3,
+-41220.3
+],
+"size": [
+440.2,
+100.0,
+457.4
+],
+"orientation": [
+25.276,
+0.0,
+-18.069
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1033",
+"props": {
+"position": [
+-31316.0,
+618.8,
+-41519.3
+],
+"size": [
+228.3,
+100.0,
+234.1
+],
+"orientation": [
+24.106,
+0.0,
+-18.673
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1034",
+"props": {
+"position": [
+-31308.1,
+697.4,
+-41708.9
+],
+"size": [
+217.8,
+100.0,
+218.3
+],
+"orientation": [
+10.391,
+0.0,
+-9.344
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1035",
+"props": {
+"position": [
+-31120.9,
+582.4,
+-41516.7
+],
+"size": [
+238.0,
+100.0,
+230.0
+],
+"orientation": [
+21.515,
+0.0,
+-24.663
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1036",
+"props": {
+"position": [
+-31136.6,
+678.1,
+-41702.0
+],
+"size": [
+308.7,
+100.0,
+215.4
+],
+"orientation": [
+3.4,
+0.0,
+-47.028
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1037",
+"props": {
+"position": [
+-30898.6,
+-138.0,
+-40296.4
+],
+"size": [
+215.1,
+100.0,
+215.5
+],
+"orientation": [
+-4.075,
+0.0,
+1.628
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1038",
+"props": {
+"position": [
+-30892.6,
+-48.0,
+-40530.1
+],
+"size": [
+218.5,
+100.0,
+267.1
+],
+"orientation": [
+37.51,
+0.0,
+8.489
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1039",
+"props": {
+"position": [
+-30694.9,
+-134.4,
+-40316.7
+],
+"size": [
+216.2,
+100.0,
+227.3
+],
+"orientation": [
+19.621,
+0.0,
+5.871
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1040",
+"props": {
+"position": [
+-30697.1,
+-42.2,
+-40522.4
+],
+"size": [
+215.4,
+100.0,
+238.9
+],
+"orientation": [
+26.719,
+0.0,
+3.3
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1041",
+"props": {
+"position": [
+-30901.8,
+122.2,
+-40732.1
+],
+"size": [
+215.2,
+100.0,
+275.9
+],
+"orientation": [
+39.943,
+0.0,
+-2.06
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1042",
+"props": {
+"position": [
+-30916.0,
+202.4,
+-40919.4
+],
+"size": [
+228.2,
+100.0,
+234.2
+],
+"orientation": [
+24.17,
+0.0,
+-18.607
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1043",
+"props": {
+"position": [
+-30712.4,
+66.7,
+-40720.2
+],
+"size": [
+222.8,
+100.0,
+235.0
+],
+"orientation": [
+24.605,
+0.0,
+-14.385
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1044",
+"props": {
+"position": [
+-30721.3,
+140.7,
+-40914.0
+],
+"size": [
+238.1,
+100.0,
+225.3
+],
+"orientation": [
+18.04,
+0.0,
+-25.152
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1045",
+"props": {
+"position": [
+-30483.9,
+-95.9,
+-40315.7
+],
+"size": [
+227.6,
+100.0,
+227.1
+],
+"orientation": [
+19.414,
+0.0,
+18.782
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1046",
+"props": {
+"position": [
+-30499.1,
+-38.0,
+-40513.7
+],
+"size": [
+215.0,
+100.0,
+223.0
+],
+"orientation": [
+15.951,
+0.0,
+1.084
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1047",
+"props": {
+"position": [
+-30298.2,
+-80.4,
+-40309.0
+],
+"size": [
+215.1,
+100.0,
+218.3
+],
+"orientation": [
+10.391,
+0.0,
+2.03
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1048",
+"props": {
+"position": [
+-30298.8,
+-47.9,
+-40505.4
+],
+"size": [
+215.1,
+100.0,
+216.2
+],
+"orientation": [
+6.191,
+0.0,
+1.411
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1049",
+"props": {
+"position": [
+-30407.5,
+48.7,
+-40802.9
+],
+"size": [
+419.6,
+100.0,
+415.7
+],
+"orientation": [
+3.312,
+0.0,
+-8.675
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1050",
+"props": {
+"position": [
+-30917.4,
+296.4,
+-41118.0
+],
+"size": [
+230.5,
+100.0,
+231.6
+],
+"orientation": [
+22.59,
+0.0,
+-20.346
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1051",
+"props": {
+"position": [
+-30939.9,
+396.8,
+-41297.1
+],
+"size": [
+348.0,
+100.0,
+215.9
+],
+"orientation": [
+-5.567,
+0.0,
+-52.959
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1052",
+"props": {
+"position": [
+-30738.3,
+185.5,
+-41089.6
+],
+"size": [
+336.4,
+100.0,
+226.4
+],
+"orientation": [
+-18.939,
+0.0,
+-49.951
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1053",
+"props": {
+"position": [
+-30729.9,
+182.5,
+-41297.5
+],
+"size": [
+264.7,
+100.0,
+215.4
+],
+"orientation": [
+-3.559,
+0.0,
+-36.728
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1054",
+"props": {
+"position": [
+-30838.0,
+259.0,
+-41598.7
+],
+"size": [
+631.2,
+100.0,
+415.3
+],
+"orientation": [
+-2.245,
+0.0,
+-49.503
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1055",
+"props": {
+"position": [
+-30401.3,
+12.5,
+-41200.9
+],
+"size": [
+415.1,
+100.0,
+415.1
+],
+"orientation": [
+1.087,
+0.0,
+-1.498
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1056",
+"props": {
+"position": [
+-30400.8,
+-13.2,
+-41600.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+-0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1057",
+"props": {
+"position": [
+-31614.0,
+746.1,
+-41982.1
+],
+"size": [
+434.4,
+100.0,
+446.1
+],
+"orientation": [
+-21.905,
+0.0,
+-16.304
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1058",
+"props": {
+"position": [
+-31618.6,
+389.1,
+-42368.4
+],
+"size": [
+470.6,
+100.0,
+560.7
+],
+"orientation": [
+-42.86,
+0.0,
+-21.792
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1059",
+"props": {
+"position": [
+-31223.9,
+567.2,
+-41973.0
+],
+"size": [
+501.1,
+100.0,
+522.2
+],
+"orientation": [
+-37.944,
+0.0,
+-28.571
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1060",
+"props": {
+"position": [
+-31218.3,
+264.7,
+-42369.8
+],
+"size": [
+465.5,
+100.0,
+540.4
+],
+"orientation": [
+-40.419,
+0.0,
+-21.528
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1061",
+"props": {
+"position": [
+-31718.6,
+164.6,
+-42668.4
+],
+"size": [
+242.8,
+100.0,
+287.8
+],
+"orientation": [
+-42.858,
+0.0,
+-21.8
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1062",
+"props": {
+"position": [
+-31713.4,
+49.4,
+-42883.7
+],
+"size": [
+223.6,
+100.0,
+227.5
+],
+"orientation": [
+-19.726,
+0.0,
+-15.564
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1063",
+"props": {
+"position": [
+-31516.0,
+105.8,
+-42670.7
+],
+"size": [
+232.8,
+100.0,
+269.8
+],
+"orientation": [
+-38.277,
+0.0,
+-18.684
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1064",
+"props": {
+"position": [
+-31501.1,
+-2.7,
+-42899.2
+],
+"size": [
+215.1,
+100.0,
+215.0
+],
+"orientation": [
+-0.955,
+0.0,
+-1.317
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1065",
+"props": {
+"position": [
+-31607.0,
+79.3,
+-43198.5
+],
+"size": [
+419.0,
+100.0,
+415.2
+],
+"orientation": [
+-1.741,
+0.0,
+-8.035
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1066",
+"props": {
+"position": [
+-31201.7,
+62.8,
+-42797.8
+],
+"size": [
+415.2,
+100.0,
+415.4
+],
+"orientation": [
+-2.498,
+0.0,
+-1.977
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1067",
+"props": {
+"position": [
+-31199.9,
+-20.9,
+-43200.5
+],
+"size": [
+415.0,
+100.0,
+415.0
+],
+"orientation": [
+0.559,
+0.0,
+0.171
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1068",
+"props": {
+"position": [
+-30831.0,
+218.1,
+-41990.2
+],
+"size": [
+531.0,
+100.0,
+428.1
+],
+"orientation": [
+-14.451,
+0.0,
+-38.276
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1069",
+"props": {
+"position": [
+-30921.9,
+99.1,
+-42279.4
+],
+"size": [
+243.2,
+100.0,
+240.1
+],
+"orientation": [
+-27.296,
+0.0,
+-26.033
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1070",
+"props": {
+"position": [
+-30902.7,
+24.1,
+-42494.7
+],
+"size": [
+215.3,
+100.0,
+216.1
+],
+"orientation": [
+-6.121,
+0.0,
+-3.128
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1071",
+"props": {
+"position": [
+-30703.6,
+18.5,
+-42295.3
+],
+"size": [
+215.5,
+100.0,
+215.9
+],
+"orientation": [
+-5.397,
+0.0,
+-4.124
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1072",
+"props": {
+"position": [
+-30698.1,
+-13.5,
+-42500.0
+],
+"size": [
+215.1,
+100.0,
+215.0
+],
+"orientation": [
+0.015,
+0.0,
+2.18
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1073",
+"props": {
+"position": [
+-30400.8,
+-13.2,
+-42000.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+-0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1074",
+"props": {
+"position": [
+-30400.8,
+-13.2,
+-42400.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1075",
+"props": {
+"position": [
+-30599.6,
+-9.6,
+-43000.0
+],
+"size": [
+815.0,
+100.0,
+815.0
+],
+"orientation": [
+0.028,
+0.0,
+0.466
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1076",
+"props": {
+"position": [
+-31000.4,
+0.2,
+-44199.9
+],
+"size": [
+1615.1,
+100.0,
+1615.0
+],
+"orientation": [
+-0.104,
+0.0,
+-0.477
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1077",
+"props": {
+"position": [
+-31401.8,
+-4.1,
+-45400.0
+],
+"size": [
+815.5,
+100.0,
+815.0
+],
+"orientation": [
+-0.001,
+0.0,
+-2.038
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1078",
+"props": {
+"position": [
+-31601.9,
+4.1,
+-45998.8
+],
+"size": [
+415.3,
+100.0,
+415.1
+],
+"orientation": [
+-1.367,
+0.0,
+-2.139
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1079",
+"props": {
+"position": [
+-31600.2,
+34.3,
+-46407.6
+],
+"size": [
+415.0,
+100.0,
+419.7
+],
+"orientation": [
+8.748,
+0.0,
+-0.215
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1080",
+"props": {
+"position": [
+-31201.5,
+-11.0,
+-45999.5
+],
+"size": [
+415.2,
+100.0,
+415.0
+],
+"orientation": [
+-0.544,
+0.0,
+-1.722
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1081",
+"props": {
+"position": [
+-31201.0,
+27.4,
+-46409.5
+],
+"size": [
+415.1,
+100.0,
+422.4
+],
+"orientation": [
+10.906,
+0.0,
+-1.189
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1082",
+"props": {
+"position": [
+-30601.6,
+-29.0,
+-45399.6
+],
+"size": [
+815.4,
+100.0,
+815.0
+],
+"orientation": [
+-0.446,
+0.0,
+-1.835
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1083",
+"props": {
+"position": [
+-30801.8,
+-24.2,
+-45999.6
+],
+"size": [
+415.2,
+100.0,
+415.0
+],
+"orientation": [
+-0.475,
+0.0,
+-2.014
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1084",
+"props": {
+"position": [
+-30803.5,
+13.2,
+-46408.3
+],
+"size": [
+416.0,
+100.0,
+420.6
+],
+"orientation": [
+9.557,
+0.0,
+-4.013
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1085",
+"props": {
+"position": [
+-30402.6,
+-42.5,
+-45999.6
+],
+"size": [
+415.5,
+100.0,
+415.0
+],
+"orientation": [
+-0.459,
+0.0,
+-2.926
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1086",
+"props": {
+"position": [
+-30405.6,
+-19.8,
+-46403.5
+],
+"size": [
+417.6,
+100.0,
+416.0
+],
+"orientation": [
+3.986,
+0.0,
+-6.462
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1087",
+"props": {
+"position": [
+-31400.5,
+235.5,
+-47016.7
+],
+"size": [
+815.0,
+100.0,
+863.9
+],
+"orientation": [
+19.534,
+0.0,
+-0.521
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1088",
+"props": {
+"position": [
+-31409.4,
+605.2,
+-47822.5
+],
+"size": [
+833.2,
+100.0,
+915.2
+],
+"orientation": [
+27.288,
+0.0,
+-10.787
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1089",
+"props": {
+"position": [
+-30608.9,
+141.7,
+-47013.8
+],
+"size": [
+829.0,
+100.0,
+848.2
+],
+"orientation": [
+16.235,
+0.0,
+-10.237
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1090",
+"props": {
+"position": [
+-30603.1,
+493.8,
+-47821.4
+],
+"size": [
+816.9,
+100.0,
+900.1
+],
+"orientation": [
+25.33,
+0.0,
+-3.56
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1091",
+"props": {
+"position": [
+-31412.6,
+1065.4,
+-48626.4
+],
+"size": [
+853.0,
+100.0,
+970.2
+],
+"orientation": [
+33.116,
+0.0,
+-14.639
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1092",
+"props": {
+"position": [
+-31403.4,
+1615.8,
+-49426.9
+],
+"size": [
+817.6,
+100.0,
+965.1
+],
+"orientation": [
+32.645,
+0.0,
+-3.858
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1093",
+"props": {
+"position": [
+-30598.1,
+956.5,
+-48629.0
+],
+"size": [
+815.9,
+100.0,
+997.4
+],
+"orientation": [
+35.478,
+0.0,
+2.157
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1094",
+"props": {
+"position": [
+-30599.5,
+1552.6,
+-49431.0
+],
+"size": [
+815.1,
+100.0,
+1033.7
+],
+"orientation": [
+38.253,
+0.0,
+0.518
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1095",
+"props": {
+"position": [
+-31389.1,
+1984.3,
+-50216.3
+],
+"size": [
+837.1,
+100.0,
+864.0
+],
+"orientation": [
+19.552,
+0.0,
+12.584
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1096",
+"props": {
+"position": [
+-31386.8,
+2098.5,
+-50998.7
+],
+"size": [
+844.3,
+100.0,
+815.3
+],
+"orientation": [
+-1.514,
+0.0,
+15.271
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1097",
+"props": {
+"position": [
+-30602.9,
+2070.8,
+-50220.7
+],
+"size": [
+816.6,
+100.0,
+894.2
+],
+"orientation": [
+24.51,
+0.0,
+-3.33
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1098",
+"props": {
+"position": [
+-30600.7,
+2204.5,
+-50997.7
+],
+"size": [
+815.1,
+100.0,
+815.9
+],
+"orientation": [
+-2.68,
+0.0,
+-0.831
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1099",
+"props": {
+"position": [
+-29791.8,
+2117.5,
+-29388.0
+],
+"size": [
+826.7,
+100.0,
+839.7
+],
+"orientation": [
+-14.048,
+0.0,
+9.444
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1100",
+"props": {
+"position": [
+-29804.8,
+1789.5,
+-30174.5
+],
+"size": [
+820.0,
+100.0,
+946.7
+],
+"orientation": [
+-30.84,
+0.0,
+-5.473
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1101",
+"props": {
+"position": [
+-29005.3,
+2155.8,
+-29384.7
+],
+"size": [
+820.0,
+100.0,
+855.6
+],
+"orientation": [
+-17.885,
+0.0,
+-6.11
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1102",
+"props": {
+"position": [
+-28999.6,
+1734.9,
+-30171.5
+],
+"size": [
+815.0,
+100.0,
+988.5
+],
+"orientation": [
+-34.74,
+0.0,
+0.414
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1103",
+"props": {
+"position": [
+-29810.1,
+1254.4,
+-30972.2
+],
+"size": [
+839.8,
+100.0,
+986.5
+],
+"orientation": [
+-34.57,
+0.0,
+-11.67
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1104",
+"props": {
+"position": [
+-29802.6,
+755.0,
+-31773.2
+],
+"size": [
+816.5,
+100.0,
+962.4
+],
+"orientation": [
+-32.394,
+0.0,
+-2.951
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1105",
+"props": {
+"position": [
+-28996.7,
+1177.7,
+-30972.4
+],
+"size": [
+817.5,
+100.0,
+974.7
+],
+"orientation": [
+-33.527,
+0.0,
+3.745
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1106",
+"props": {
+"position": [
+-28998.8,
+711.4,
+-31777.1
+],
+"size": [
+815.3,
+100.0,
+915.1
+],
+"orientation": [
+-27.274,
+0.0,
+1.419
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1107",
+"props": {
+"position": [
+-29792.6,
+258.6,
+-32576.9
+],
+"size": [
+826.5,
+100.0,
+920.1
+],
+"orientation": [
+-27.891,
+0.0,
+8.537
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1108",
+"props": {
+"position": [
+-29797.2,
+26.6,
+-33396.3
+],
+"size": [
+816.3,
+100.0,
+817.2
+],
+"orientation": [
+-4.26,
+0.0,
+3.206
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1109",
+"props": {
+"position": [
+-29001.9,
+287.1,
+-32578.1
+],
+"size": [
+815.7,
+100.0,
+904.9
+],
+"orientation": [
+-25.97,
+0.0,
+-2.214
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1110",
+"props": {
+"position": [
+-29001.4,
+11.5,
+-33390.5
+],
+"size": [
+815.3,
+100.0,
+829.8
+],
+"orientation": [
+-10.943,
+0.0,
+-1.611
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1111",
+"props": {
+"position": [
+-29401.7,
+-51.3,
+-34599.7
+],
+"size": [
+1615.9,
+100.0,
+1615.0
+],
+"orientation": [
+-0.387,
+0.0,
+-1.971
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1112",
+"props": {
+"position": [
+-29800.9,
+-33.0,
+-35802.8
+],
+"size": [
+815.1,
+100.0,
+816.2
+],
+"orientation": [
+3.161,
+0.0,
+-1.008
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1113",
+"props": {
+"position": [
+-29800.8,
+-23.4,
+-36600.0
+],
+"size": [
+815.1,
+100.0,
+815.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1114",
+"props": {
+"position": [
+-29001.5,
+-51.7,
+-35801.2
+],
+"size": [
+815.3,
+100.0,
+815.2
+],
+"orientation": [
+1.404,
+0.0,
+-1.676
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1115",
+"props": {
+"position": [
+-29003.4,
+-47.5,
+-36600.1
+],
+"size": [
+816.9,
+100.0,
+815.0
+],
+"orientation": [
+0.15,
+0.0,
+-3.898
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1116",
+"props": {
+"position": [
+-29800.8,
+-23.4,
+-37400.0
+],
+"size": [
+815.1,
+100.0,
+815.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1117",
+"props": {
+"position": [
+-29800.8,
+-23.4,
+-38200.0
+],
+"size": [
+815.1,
+100.0,
+815.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1118",
+"props": {
+"position": [
+-29204.4,
+-46.3,
+-37200.1
+],
+"size": [
+416.5,
+100.0,
+415.0
+],
+"orientation": [
+0.064,
+0.0,
+-5.009
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1119",
+"props": {
+"position": [
+-29304.1,
+-38.0,
+-37500.0
+],
+"size": [
+215.7,
+100.0,
+215.0
+],
+"orientation": [
+0.015,
+0.0,
+-4.684
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1120",
+"props": {
+"position": [
+-29298.4,
+-5.9,
+-37704.8
+],
+"size": [
+215.1,
+100.0,
+215.9
+],
+"orientation": [
+5.463,
+0.0,
+1.821
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1121",
+"props": {
+"position": [
+-29099.4,
+-8.7,
+-37505.9
+],
+"size": [
+215.0,
+100.0,
+216.4
+],
+"orientation": [
+6.833,
+0.0,
+0.7
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1122",
+"props": {
+"position": [
+-29079.2,
+67.1,
+-37721.0
+],
+"size": [
+240.1,
+100.0,
+240.5
+],
+"orientation": [
+27.53,
+0.0,
+24.63
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1123",
+"props": {
+"position": [
+-28902.1,
+-69.1,
+-37100.4
+],
+"size": [
+215.2,
+100.0,
+215.0
+],
+"orientation": [
+0.454,
+0.0,
+-2.36
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1124",
+"props": {
+"position": [
+-28901.6,
+-67.2,
+-37300.5
+],
+"size": [
+215.1,
+100.0,
+215.0
+],
+"orientation": [
+0.593,
+0.0,
+-1.87
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1125",
+"props": {
+"position": [
+-28699.7,
+-72.9,
+-37100.6
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+0.733,
+0.0,
+0.362
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1126",
+"props": {
+"position": [
+-28691.3,
+-5.1,
+-37312.6
+],
+"size": [
+218.3,
+100.0,
+221.9
+],
+"orientation": [
+14.859,
+0.0,
+10.054
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1127",
+"props": {
+"position": [
+-28781.9,
+227.2,
+-37630.5
+],
+"size": [
+464.9,
+100.0,
+544.5
+],
+"orientation": [
+40.935,
+0.0,
+21.262
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1128",
+"props": {
+"position": [
+-29169.8,
+193.2,
+-38010.1
+],
+"size": [
+523.4,
+100.0,
+428.4
+],
+"orientation": [
+14.639,
+0.0,
+37.201
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1129",
+"props": {
+"position": [
+-29162.3,
+233.7,
+-38401.3
+],
+"size": [
+623.9,
+100.0,
+415.3
+],
+"orientation": [
+2.231,
+0.0,
+48.91
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1130",
+"props": {
+"position": [
+-28871.8,
+373.1,
+-37926.9
+],
+"size": [
+284.3,
+100.0,
+278.6
+],
+"orientation": [
+40.641,
+0.0,
+34.374
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1131",
+"props": {
+"position": [
+-28864.7,
+545.0,
+-38120.2
+],
+"size": [
+329.5,
+100.0,
+258.7
+],
+"orientation": [
+34.843,
+0.0,
+44.881
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1132",
+"props": {
+"position": [
+-28682.0,
+471.8,
+-37932.0
+],
+"size": [
+241.4,
+100.0,
+289.6
+],
+"orientation": [
+43.259,
+0.0,
+21.128
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1133",
+"props": {
+"position": [
+-28687.2,
+646.9,
+-38121.9
+],
+"size": [
+223.6,
+100.0,
+239.4
+],
+"orientation": [
+26.943,
+0.0,
+14.842
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1134",
+"props": {
+"position": [
+-28864.5,
+641.5,
+-38297.5
+],
+"size": [
+299.0,
+100.0,
+215.5
+],
+"orientation": [
+-4.035,
+0.0,
+45.169
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1135",
+"props": {
+"position": [
+-28880.9,
+543.4,
+-38482.7
+],
+"size": [
+234.1,
+100.0,
+230.8
+],
+"orientation": [
+-22.034,
+0.0,
+22.514
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1136",
+"props": {
+"position": [
+-28693.5,
+652.9,
+-38291.1
+],
+"size": [
+216.8,
+100.0,
+218.3
+],
+"orientation": [
+-10.391,
+0.0,
+7.469
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1137",
+"props": {
+"position": [
+-28685.3,
+574.2,
+-38480.5
+],
+"size": [
+226.0,
+100.0,
+234.1
+],
+"orientation": [
+-24.106,
+0.0,
+17.062
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1138",
+"props": {
+"position": [
+-29801.5,
+78.2,
+-38998.9
+],
+"size": [
+815.4,
+100.0,
+815.2
+],
+"orientation": [
+-1.226,
+0.0,
+-1.729
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1139",
+"props": {
+"position": [
+-30002.3,
+-53.7,
+-39594.8
+],
+"size": [
+415.4,
+100.0,
+417.2
+],
+"orientation": [
+-5.967,
+0.0,
+-2.661
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1140",
+"props": {
+"position": [
+-30000.8,
+-79.8,
+-40000.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+-0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1141",
+"props": {
+"position": [
+-29701.9,
+-56.4,
+-39494.8
+],
+"size": [
+215.1,
+100.0,
+216.1
+],
+"orientation": [
+-6.009,
+0.0,
+-2.145
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1142",
+"props": {
+"position": [
+-29703.5,
+-90.2,
+-39690.9
+],
+"size": [
+215.5,
+100.0,
+218.4
+],
+"orientation": [
+-10.504,
+0.0,
+-3.98
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1143",
+"props": {
+"position": [
+-29503.1,
+-54.8,
+-39485.8
+],
+"size": [
+215.4,
+100.0,
+223.6
+],
+"orientation": [
+-16.509,
+0.0,
+-3.511
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1144",
+"props": {
+"position": [
+-29517.4,
+-112.5,
+-39684.4
+],
+"size": [
+230.0,
+100.0,
+227.1
+],
+"orientation": [
+-19.414,
+0.0,
+-20.413
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1145",
+"props": {
+"position": [
+-29603.7,
+-49.6,
+-40010.1
+],
+"size": [
+416.2,
+100.0,
+423.5
+],
+"orientation": [
+11.682,
+0.0,
+-4.299
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1146",
+"props": {
+"position": [
+-29270.9,
+157.9,
+-38702.5
+],
+"size": [
+261.2,
+100.0,
+215.4
+],
+"orientation": [
+3.521,
+0.0,
+35.611
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1147",
+"props": {
+"position": [
+-29262.2,
+161.3,
+-38910.6
+],
+"size": [
+331.0,
+100.0,
+226.4
+],
+"orientation": [
+18.934,
+0.0,
+49.159
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1148",
+"props": {
+"position": [
+-29060.5,
+365.9,
+-38702.8
+],
+"size": [
+341.9,
+100.0,
+215.8
+],
+"orientation": [
+5.272,
+0.0,
+52.159
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1149",
+"props": {
+"position": [
+-29083.9,
+265.3,
+-38881.8
+],
+"size": [
+228.1,
+100.0,
+231.6
+],
+"orientation": [
+-22.595,
+0.0,
+18.742
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1150",
+"props": {
+"position": [
+-29280.0,
+116.4,
+-39085.8
+],
+"size": [
+235.1,
+100.0,
+225.4
+],
+"orientation": [
+-18.07,
+0.0,
+23.583
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1151",
+"props": {
+"position": [
+-29289.1,
+42.7,
+-39279.5
+],
+"size": [
+221.0,
+100.0,
+235.3
+],
+"orientation": [
+-24.778,
+0.0,
+12.583
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1152",
+"props": {
+"position": [
+-29085.4,
+171.4,
+-39080.4
+],
+"size": [
+225.9,
+100.0,
+234.2
+],
+"orientation": [
+-24.171,
+0.0,
+16.996
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1153",
+"props": {
+"position": [
+-29098.6,
+90.0,
+-39268.3
+],
+"size": [
+215.1,
+100.0,
+273.9
+],
+"orientation": [
+-39.411,
+0.0,
+1.635
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1154",
+"props": {
+"position": [
+-28885.3,
+417.5,
+-38680.5
+],
+"size": [
+226.0,
+100.0,
+234.1
+],
+"orientation": [
+-24.106,
+0.0,
+17.062
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1155",
+"props": {
+"position": [
+-28885.4,
+328.2,
+-38880.4
+],
+"size": [
+225.9,
+100.0,
+234.2
+],
+"orientation": [
+-24.181,
+0.0,
+16.978
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1156",
+"props": {
+"position": [
+-28683.6,
+507.8,
+-38682.0
+],
+"size": [
+228.6,
+100.0,
+231.3
+],
+"orientation": [
+-22.396,
+0.0,
+19.121
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1157",
+"props": {
+"position": [
+-28685.0,
+420.4,
+-38876.2
+],
+"size": [
+227.9,
+100.0,
+245.9
+],
+"orientation": [
+-29.991,
+0.0,
+17.51
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1158",
+"props": {
+"position": [
+-28796.6,
+187.0,
+-39164.9
+],
+"size": [
+416.8,
+100.0,
+578.2
+],
+"orientation": [
+-44.749,
+0.0,
+3.862
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1159",
+"props": {
+"position": [
+-29305.5,
+-65.8,
+-39477.1
+],
+"size": [
+216.6,
+100.0,
+240.4
+],
+"orientation": [
+-27.458,
+0.0,
+-6.331
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1160",
+"props": {
+"position": [
+-29309.3,
+-159.9,
+-39682.7
+],
+"size": [
+219.0,
+100.0,
+228.6
+],
+"orientation": [
+-20.572,
+0.0,
+-10.701
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1161",
+"props": {
+"position": [
+-29107.8,
+-79.2,
+-39469.1
+],
+"size": [
+219.1,
+100.0,
+271.6
+],
+"orientation": [
+-38.803,
+0.0,
+-8.964
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1162",
+"props": {
+"position": [
+-29101.6,
+-172.5,
+-39703.2
+],
+"size": [
+215.1,
+100.0,
+215.4
+],
+"orientation": [
+3.698,
+0.0,
+-1.869
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1163",
+"props": {
+"position": [
+-29289.4,
+-92.7,
+-39931.2
+],
+"size": [
+222.8,
+100.0,
+274.7
+],
+"orientation": [
+39.647,
+0.0,
+12.26
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1164",
+"props": {
+"position": [
+-29280.5,
+-2.6,
+-40119.8
+],
+"size": [
+236.0,
+100.0,
+236.6
+],
+"orientation": [
+25.485,
+0.0,
+22.977
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1165",
+"props": {
+"position": [
+-29086.1,
+-30.6,
+-39937.2
+],
+"size": [
+235.0,
+100.0,
+331.4
+],
+"orientation": [
+50.794,
+0.0,
+16.167
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1166",
+"props": {
+"position": [
+-29079.4,
+101.6,
+-40120.1
+],
+"size": [
+238.8,
+100.0,
+237.8
+],
+"orientation": [
+26.172,
+0.0,
+24.274
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1167",
+"props": {
+"position": [
+-28904.4,
+-98.5,
+-39465.9
+],
+"size": [
+216.5,
+100.0,
+289.3
+],
+"orientation": [
+-43.194,
+0.0,
+-5.084
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1168",
+"props": {
+"position": [
+-28890.6,
+-120.4,
+-39723.2
+],
+"size": [
+219.7,
+100.0,
+242.0
+],
+"orientation": [
+28.213,
+0.0,
+10.887
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1169",
+"props": {
+"position": [
+-28704.9,
+-108.0,
+-39465.7
+],
+"size": [
+216.9,
+100.0,
+290.9
+],
+"orientation": [
+-43.53,
+0.0,
+-5.646
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1170",
+"props": {
+"position": [
+-28689.2,
+-64.0,
+-39738.2
+],
+"size": [
+227.2,
+100.0,
+336.2
+],
+"orientation": [
+51.493,
+0.0,
+12.453
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1171",
+"props": {
+"position": [
+-28780.9,
+199.2,
+-40027.7
+],
+"size": [
+465.5,
+100.0,
+515.1
+],
+"orientation": [
+36.883,
+0.0,
+22.503
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1172",
+"props": {
+"position": [
+-29998.4,
+-49.3,
+-40406.1
+],
+"size": [
+415.2,
+100.0,
+418.0
+],
+"orientation": [
+6.994,
+0.0,
+1.838
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1173",
+"props": {
+"position": [
+-30098.8,
+-26.6,
+-40703.0
+],
+"size": [
+215.1,
+100.0,
+215.4
+],
+"orientation": [
+3.428,
+0.0,
+1.384
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1174",
+"props": {
+"position": [
+-30093.1,
+-13.6,
+-40905.1
+],
+"size": [
+217.0,
+100.0,
+216.1
+],
+"orientation": [
+5.887,
+0.0,
+7.957
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1175",
+"props": {
+"position": [
+-29888.4,
+5.6,
+-40711.5
+],
+"size": [
+221.0,
+100.0,
+220.9
+],
+"orientation": [
+13.733,
+0.0,
+13.471
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1176",
+"props": {
+"position": [
+-29889.9,
+21.1,
+-40901.7
+],
+"size": [
+219.2,
+100.0,
+215.1
+],
+"orientation": [
+1.991,
+0.0,
+11.62
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1177",
+"props": {
+"position": [
+-29698.4,
+-52.9,
+-40306.8
+],
+"size": [
+215.1,
+100.0,
+216.9
+],
+"orientation": [
+7.812,
+0.0,
+1.783
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1178",
+"props": {
+"position": [
+-29693.0,
+-4.7,
+-40513.3
+],
+"size": [
+217.2,
+100.0,
+222.6
+],
+"orientation": [
+15.595,
+0.0,
+8.075
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1179",
+"props": {
+"position": [
+-29487.9,
+-16.0,
+-40307.0
+],
+"size": [
+221.2,
+100.0,
+217.1
+],
+"orientation": [
+8.299,
+0.0,
+13.975
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1180",
+"props": {
+"position": [
+-29483.6,
+34.7,
+-40518.0
+],
+"size": [
+228.6,
+100.0,
+231.3
+],
+"orientation": [
+22.388,
+0.0,
+19.133
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1181",
+"props": {
+"position": [
+-29688.4,
+47.1,
+-40712.6
+],
+"size": [
+221.0,
+100.0,
+222.1
+],
+"orientation": [
+15.063,
+0.0,
+13.383
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1182",
+"props": {
+"position": [
+-29691.3,
+59.0,
+-40896.2
+],
+"size": [
+218.1,
+100.0,
+215.6
+],
+"orientation": [
+-4.47,
+0.0,
+10.037
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1183",
+"props": {
+"position": [
+-29485.3,
+110.3,
+-40710.1
+],
+"size": [
+224.7,
+100.0,
+219.6
+],
+"orientation": [
+12.18,
+0.0,
+17.112
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1184",
+"props": {
+"position": [
+-29492.3,
+97.4,
+-40891.2
+],
+"size": [
+217.5,
+100.0,
+218.2
+],
+"orientation": [
+-10.202,
+0.0,
+8.853
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1185",
+"props": {
+"position": [
+-30096.7,
+-7.2,
+-41098.7
+],
+"size": [
+215.4,
+100.0,
+215.1
+],
+"orientation": [
+-1.457,
+0.0,
+3.835
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1186",
+"props": {
+"position": [
+-30100.8,
+-18.3,
+-41300.0
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1187",
+"props": {
+"position": [
+-29896.9,
+6.1,
+-41090.8
+],
+"size": [
+215.4,
+100.0,
+218.5
+],
+"orientation": [
+-10.638,
+0.0,
+3.597
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1188",
+"props": {
+"position": [
+-29900.8,
+-21.7,
+-41300.0
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1189",
+"props": {
+"position": [
+-30000.8,
+-20.0,
+-41600.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1190",
+"props": {
+"position": [
+-29697.3,
+18.8,
+-41084.0
+],
+"size": [
+215.3,
+100.0,
+226.1
+],
+"orientation": [
+-18.699,
+0.0,
+3.084
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1191",
+"props": {
+"position": [
+-29700.8,
+-25.1,
+-41300.0
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+-0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1192",
+"props": {
+"position": [
+-29498.4,
+30.0,
+-41078.7
+],
+"size": [
+215.1,
+100.0,
+236.0
+],
+"orientation": [
+-25.182,
+0.0,
+1.786
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1193",
+"props": {
+"position": [
+-29500.8,
+-28.5,
+-41300.0
+],
+"size": [
+215.0,
+100.0,
+215.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1194",
+"props": {
+"position": [
+-29600.8,
+-26.8,
+-41600.0
+],
+"size": [
+415.1,
+100.0,
+415.0
+],
+"orientation": [
+0.0,
+0.0,
+-0.974
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1195",
+"props": {
+"position": [
+-29179.2,
+158.2,
+-40415.7
+],
+"size": [
+460.1,
+100.0,
+441.4
+],
+"orientation": [
+20.269,
+0.0,
+24.596
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1196",
+"props": {
+"position": [
+-29173.9,
+284.2,
+-40797.4
+],
+"size": [
+484.3,
+100.0,
+415.7
+],
+"orientation": [
+-3.454,
+0.0,
+31.489
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1197",
+"props": {
+"position": [
+-28881.0,
+244.8,
+-40310.3
+],
+"size": [
+232.1,
+100.0,
+220.2
+],
+"orientation": [
+12.883,
+0.0,
+22.349
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1198",
+"props": {
+"position": [
+-28884.0,
+308.7,
+-40517.5
+],
+"size": [
+227.7,
+100.0,
+230.3
+],
+"orientation": [
+21.737,
+0.0,
+18.608
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+},
+{
+"className": "Part",
+"name": "COL_TER_1199",
+"props": {
+"position": [
+-28683.7,
+322.6,
+-40305.0
+],
+"size": [
+226.7,
+100.0,
+216.2
+],
+"orientation": [
+6.134,
+0.0,
+19.068
+],
+"anchored": true,
+"mobility": "Static",
+"raw": {
+"Transparency": 1.0,
+"CanCollide": true,
+"CastShadow": false,
+"CanTouch": false,
+"Material": "Unlit"
+}
+}
+}
+]

@@ -1,0 +1,16 @@
+{
+ "spawns_engine_cm": {
+  "Red": [
+   -36300.0,
+   457.1,
+   -39600.0
+  ],
+  "Blue": [
+   -23700.0,
+   242.9,
+   -40400.0
+  ]
+ },
+ "container": "SGK_Sangok",
+ "note": "SpawnLocation은 JSN_Spawn_Red/Blue를 복제→개명→위치 (TeamColor 유지). build_setup() 이 ENGINE_X0/Z0 기준으로 생성"
+}

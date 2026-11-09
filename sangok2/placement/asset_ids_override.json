@@ -1,0 +1,50 @@
+{
+ "MST_PINE_L1": {
+  "meshId": "44748400",
+  "textureId": "44747100"
+ },
+ "MST_PINE_L2": {
+  "meshId": "44747800",
+  "textureId": "44748100"
+ },
+ "MST_PINE_L3": {
+  "meshId": "44748500",
+  "textureId": "44747200"
+ },
+ "MST_PINE_M1": {
+  "meshId": "44747900",
+  "textureId": "44748200"
+ },
+ "MST_PINE_M2": {
+  "meshId": "44748600",
+  "textureId": "44748300"
+ },
+ "MST_PINE_M3": {
+  "meshId": "44748000",
+  "textureId": "44747300"
+ },
+ "MST_PINE_S1": {
+  "meshId": "44748700",
+  "textureId": "44747400"
+ },
+ "MST_PINE_S2": {
+  "meshId": "44751100",
+  "textureId": "44747600"
+ },
+ "MST_PINE_XL1": {
+  "meshId": "44749200",
+  "textureId": "44747500"
+ },
+ "MST_PINE_XL2": {
+  "meshId": "44749300",
+  "textureId": "44749100"
+ },
+ "MST_SAPLING1": {
+  "meshId": "44751200",
+  "textureId": "44747700"
+ },
+ "MST_SAPLING2": {
+  "meshId": "44751300",
+  "textureId": "44750100"
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "MST_PINE_L1": {
+  "name": "SGK3_MST_PINE_L1",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -20,
+    "N": 22,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_L2": {
+  "name": "SGK3_MST_PINE_L2",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -20,
+    "N": 23,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_L3": {
+  "name": "SGK3_MST_PINE_L3",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -31,
+    "N": 33,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_M1": {
+  "name": "SGK3_MST_PINE_M1",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -35,
+    "N": 38,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_M2": {
+  "name": "SGK3_MST_PINE_M2",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -29,
+    "N": 32,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_M3": {
+  "name": "SGK3_MST_PINE_M3",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -28,
+    "N": 30,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_XL1": {
+  "name": "SGK3_MST_PINE_XL1",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -28,
+    "N": 30,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_XL2": {
+  "name": "SGK3_MST_PINE_XL2",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -27,
+    "N": 30,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_S1": {
+  "name": "SGK3_MST_PINE_S1",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -23,
+    "N": 25,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PINE_S2": {
+  "name": "SGK3_MST_PINE_S2",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -25,
+    "N": 28,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_SAPLING1": {
+  "name": "SGK3_MST_SAPLING1",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -11,
+    "N": 12,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_SAPLING2": {
+  "name": "SGK3_MST_SAPLING2",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "PINE_CLUSTERS",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 0.66667
+   },
+   {
+    "tex": "PINE_BARK",
+    "v0": -10,
+    "N": 12,
+    "y0": 0.66667,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_PAVILION": {
+  "name": "SGK3_MST_PAVILION",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "CJ_WOOD",
+    "v0": -1,
+    "N": 2,
+    "y0": 0.0,
+    "y1": 0.14286
+   },
+   {
+    "tex": "CJ_ROOF02",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.14286,
+    "y1": 0.28571
+   },
+   {
+    "tex": "CJ_ROOF01",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.28571,
+    "y1": 0.57143
+   },
+   {
+    "tex": "CJ_CORNER",
+    "v0": -1,
+    "N": 3,
+    "y0": 0.57143,
+    "y1": 0.71429
+   },
+   {
+    "tex": "CJ_FENCE",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.71429,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_BRIDGE": {
+  "name": "MST_BRIDGE",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "BRIDGE01",
+    "v0": -2,
+    "N": 4,
+    "y0": 0.0,
+    "y1": 0.5
+   },
+   {
+    "tex": "BRIDGE02",
+    "v0": -1,
+    "N": 2,
+    "y0": 0.5,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_WALL_9M": {
+  "name": "MST_WALL_9M",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "STONEWALL",
+    "v0": -1,
+    "N": 3,
+    "y0": 0.0,
+    "y1": 0.5
+   },
+   {
+    "tex": "WALLROOF",
+    "v0": 0,
+    "N": 2,
+    "y0": 0.5,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_WALL_L": {
+  "name": "MST_WALL_L",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "STONEWALL",
+    "v0": -1,
+    "N": 3,
+    "y0": 0.0,
+    "y1": 0.5
+   },
+   {
+    "tex": "WALLROOF",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.5,
+    "y1": 1.0
+   }
+  ]
+ },
+ "MST_FERN": {
+  "name": "SGK3_MST_FERN",
+  "sheet": [
+   1024,
+   1024
+  ],
+  "bands": [
+   {
+    "tex": "FERN",
+    "v0": 0,
+    "N": 1,
+    "y0": 0.0,
+    "y1": 1.0
+   }
+  ]
+ }
+}

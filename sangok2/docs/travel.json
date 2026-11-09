@@ -1,0 +1,65 @@
+{
+ "moveScale": 0.85,
+ "seconds": {
+  "spawn_W->bowl": {
+   "walk": 13.2,
+   "sprint": 7.7
+  },
+  "spawn_W->spawn_E": {
+   "walk": 26.3,
+   "sprint": 15.5
+  },
+  "spawn_W->crest_tip_NW": {
+   "walk": 14.4,
+   "sprint": 8.5
+  },
+  "spawn_W->crest_tip_SE": {
+   "walk": 16.9,
+   "sprint": 10.0
+  },
+  "spawn_W->ford_W": {
+   "walk": 4.4,
+   "sprint": 2.6
+  },
+  "spawn_W->R1_top_W": {
+   "walk": 9.5,
+   "sprint": 5.6
+  },
+  "spawn_W->strip_S": {
+   "walk": 21.1,
+   "sprint": 12.4
+  },
+  "spawn_W->glade_S": {
+   "walk": 13.8,
+   "sprint": 8.1
+  },
+  "crest_tip_NW->bowl": {
+   "walk": 4.6,
+   "sprint": 2.7
+  },
+  "spawn_E->bowl": {
+   "walk": 13.2,
+   "sprint": 7.8
+  },
+  "spawn_E->spawn_W": {
+   "walk": 26.3,
+   "sprint": 15.5
+  },
+  "R1_top_W->crest_tip_NW": {
+   "walk": 7.6,
+   "sprint": 4.5
+  },
+  "R1_top_W->R2_top_W": {
+   "walk": 1.6,
+   "sprint": 0.9
+  },
+  "R2_top_W->R3_top_W": {
+   "walk": 2.8,
+   "sprint": 1.6
+  },
+  "R3_top_W->crest_tip_NW": {
+   "walk": 4.0,
+   "sprint": 2.4
+  }
+ }
+}

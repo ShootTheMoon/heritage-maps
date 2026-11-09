@@ -1,0 +1,27 @@
+{
+ "draws": 400,
+ "pass": 245,
+ "fail_spawn": 155,
+ "slope_gt40": 31,
+ "in_stream": 19,
+ "on_crest": 19,
+ "cliff_edge_near": 81,
+ "twenty_fail_runs": 0,
+ "steep_dry": 28,
+ "pass_pct": 61.2,
+ "slope_gt40_pct_of_pass": 12.7,
+ "in_stream_pct": 7.8,
+ "on_crest_pct": 7.8,
+ "cliff_edge_near_pct": 33.1,
+ "params": {
+  "zoneRadius": 900,
+  "minSpawnDist": 3500,
+  "edgeMargin": 2500,
+  "margin_used": [
+   2500,
+   2500
+  ]
+ },
+ "steep_dry_pct_of_pass": 11.4,
+ "PASS": false
+}

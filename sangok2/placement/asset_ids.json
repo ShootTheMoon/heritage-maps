@@ -1,0 +1,194 @@
+{
+    "MST_BOULDER_A":  {
+                          "textureId":  "44734100",
+                          "meshId":  "44710500"
+                      },
+    "MST_BOULDER_B":  {
+                          "textureId":  "44733200",
+                          "meshId":  "44710600"
+                      },
+    "MST_FERN":  {
+                     "textureId":  "44753100",
+                     "meshId":  "44753200"
+                 },
+    "MST_STUMP":  {
+                      "textureId":  "44742200",
+                      "meshId":  "44714600"
+                  },
+    "MST_DEADTRUNK":  {
+                          "textureId":  "44737300",
+                          "meshId":  "44711500"
+                      },
+    "MST_PAVILION":  {
+                         "textureId":  "44754100",
+                         "meshId":  "44754200"
+                     },
+    "MST_BRIDGE":  {
+                       "textureId":  "44734300",
+                       "meshId":  "44715500"
+                   },
+    "MST_WALL_9M":  {
+                        "textureId":  "44735600",
+                        "meshId":  "44713800"
+                    },
+    "MST_WALL_L":  {
+                       "textureId":  "44735700",
+                       "meshId":  "44713700"
+                   },
+    "STA_TER_00":  {
+                       "textureId":  "44741100",
+                       "meshId":  "44703900"
+                   },
+    "STA_TER_10":  {
+                       "textureId":  "44741300",
+                       "meshId":  "44704000"
+                   },
+    "STA_TER_20":  {
+                       "textureId":  "44740400",
+                       "meshId":  "44706400"
+                   },
+    "STA_TER_30":  {
+                       "textureId":  "44734500",
+                       "meshId":  "44708100"
+                   },
+    "STA_TER_01":  {
+                       "textureId":  "44741200",
+                       "meshId":  "44703700"
+                   },
+    "STA_TER_11":  {
+                       "textureId":  "44736000",
+                       "meshId":  "44704600"
+                   },
+    "STA_TER_21":  {
+                       "textureId":  "44738500",
+                       "meshId":  "44706500"
+                   },
+    "STA_TER_31":  {
+                       "textureId":  "44738700",
+                       "meshId":  "44708200"
+                   },
+    "STA_TER_02":  {
+                       "textureId":  "44737800",
+                       "meshId":  "44703800"
+                   },
+    "STA_TER_12":  {
+                       "textureId":  "44740300",
+                       "meshId":  "44706300"
+                   },
+    "STA_TER_22":  {
+                       "textureId":  "44736700",
+                       "meshId":  "44708300"
+                   },
+    "STA_TER_32":  {
+                       "textureId":  "44738600",
+                       "meshId":  "44706600"
+                   },
+    "STA_WALL_E":  {
+                       "textureId":  "44734600",
+                       "meshId":  "44706700"
+                   },
+    "STA_WALL_W":  {
+                       "textureId":  "44736800",
+                       "meshId":  "44706900"
+                   },
+    "STA_Terrace_N":  {
+                          "textureId":  "44734900",
+                          "meshId":  "44709200"
+                      },
+    "STA_Cairn":  {
+                      "textureId":  "44733100",
+                      "meshId":  "44705700"
+                  },
+    "STA_STEPS":  {
+                      "textureId":  "44733100",
+                      "meshId":  "44708000"
+                  },
+    "STA_StreamWater":  {
+                            "textureId":  "44738000",
+                            "meshId":  "44705800"
+                        },
+    "MST_EULALIA":  {
+                        "textureId":  "42183800",
+                        "meshId":  "42184300"
+                    },
+    "MST_ARTEMISIA":  {
+                          "textureId":  "42184200",
+                          "meshId":  "42177700"
+                      },
+    "MST_ROCK_A":  {
+                       "textureId":  "42180500",
+                       "meshId":  "42181700"
+                   },
+    "MST_ROCK_D":  {
+                       "textureId":  "42187100",
+                       "meshId":  "42182000"
+                   },
+    "MST_ROCK_E":  {
+                       "textureId":  "42184400",
+                       "meshId":  "42189100"
+                   },
+    "STA_WALL_N1":  {
+                        "textureId":  "44734700",
+                        "meshId":  "44706800"
+                    },
+    "STA_WALL_N2":  {
+                        "textureId":  "44737900",
+                        "meshId":  "44708400"
+                    },
+    "STA_WALL_S1":  {
+                        "textureId":  "44738800",
+                        "meshId":  "44708600"
+                    },
+    "STA_WALL_S2":  {
+                        "textureId":  "44734800",
+                        "meshId":  "44708500"
+                    },
+    "MST_PINE_L1":  {
+                        "textureId":  "44747100",
+                        "meshId":  "44748400"
+                    },
+    "MST_PINE_L2":  {
+                        "textureId":  "44748100",
+                        "meshId":  "44747800"
+                    },
+    "MST_PINE_L3":  {
+                        "textureId":  "44747200",
+                        "meshId":  "44748500"
+                    },
+    "MST_PINE_M1":  {
+                        "textureId":  "44748200",
+                        "meshId":  "44747900"
+                    },
+    "MST_PINE_M2":  {
+                        "textureId":  "44748300",
+                        "meshId":  "44748600"
+                    },
+    "MST_PINE_M3":  {
+                        "textureId":  "44747300",
+                        "meshId":  "44748000"
+                    },
+    "MST_PINE_S1":  {
+                        "textureId":  "44747400",
+                        "meshId":  "44748700"
+                    },
+    "MST_PINE_S2":  {
+                        "textureId":  "44747600",
+                        "meshId":  "44751100"
+                    },
+    "MST_PINE_XL1":  {
+                         "textureId":  "44747500",
+                         "meshId":  "44749200"
+                     },
+    "MST_PINE_XL2":  {
+                         "textureId":  "44749100",
+                         "meshId":  "44749300"
+                     },
+    "MST_SAPLING1":  {
+                         "textureId":  "44747700",
+                         "meshId":  "44751200"
+                     },
+    "MST_SAPLING2":  {
+                         "textureId":  "44750100",
+                         "meshId":  "44751300"
+                     }
+}

@@ -1,0 +1,977 @@
+{
+ "MST_PINE_L1": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_L1.fbx",
+  "tris": 8784,
+  "verts": 14234,
+  "mats": [
+   "SGK3_MST_PINE_L1_ATL"
+  ],
+  "bbox_min": [
+   -3.729,
+   -4.187,
+   0.0
+  ],
+  "bbox_max": [
+   3.729,
+   4.187,
+   16.887
+  ],
+  "size_mb": 2.21,
+  "kind": "master"
+ },
+ "MST_PINE_L2": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_L2.fbx",
+  "tris": 9019,
+  "verts": 14259,
+  "mats": [
+   "SGK3_MST_PINE_L2_ATL"
+  ],
+  "bbox_min": [
+   -4.657,
+   -4.238,
+   0.0
+  ],
+  "bbox_max": [
+   4.657,
+   4.238,
+   16.192
+  ],
+  "size_mb": 2.21,
+  "kind": "master"
+ },
+ "MST_PINE_L3": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_L3.fbx",
+  "tris": 10507,
+  "verts": 16849,
+  "mats": [
+   "SGK3_MST_PINE_L3_ATL"
+  ],
+  "bbox_min": [
+   -4.423,
+   -4.182,
+   0.0
+  ],
+  "bbox_max": [
+   4.423,
+   4.182,
+   19.568
+  ],
+  "size_mb": 2.28,
+  "kind": "master"
+ },
+ "MST_PINE_M1": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_M1.fbx",
+  "tris": 8239,
+  "verts": 13242,
+  "mats": [
+   "SGK3_MST_PINE_M1_ATL"
+  ],
+  "bbox_min": [
+   -3.313,
+   -2.785,
+   0.0
+  ],
+  "bbox_max": [
+   3.313,
+   2.785,
+   13.925
+  ],
+  "size_mb": 2.11,
+  "kind": "master"
+ },
+ "MST_PINE_M2": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_M2.fbx",
+  "tris": 7315,
+  "verts": 11548,
+  "mats": [
+   "SGK3_MST_PINE_M2_ATL"
+  ],
+  "bbox_min": [
+   -3.114,
+   -3.249,
+   0.0
+  ],
+  "bbox_max": [
+   3.114,
+   3.249,
+   12.832
+  ],
+  "size_mb": 2.12,
+  "kind": "master"
+ },
+ "MST_PINE_M3": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_M3.fbx",
+  "tris": 5354,
+  "verts": 8468,
+  "mats": [
+   "SGK3_MST_PINE_M3_ATL"
+  ],
+  "bbox_min": [
+   -2.65,
+   -2.501,
+   0.0
+  ],
+  "bbox_max": [
+   2.65,
+   2.501,
+   10.468
+  ],
+  "size_mb": 1.98,
+  "kind": "master"
+ },
+ "MST_PINE_XL1": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_XL1.fbx",
+  "tris": 23641,
+  "verts": 38617,
+  "mats": [
+   "SGK3_MST_PINE_XL1_ATL"
+  ],
+  "bbox_min": [
+   -8.685,
+   -7.779,
+   0.0
+  ],
+  "bbox_max": [
+   8.685,
+   7.779,
+   31.814
+  ],
+  "size_mb": 3.08,
+  "kind": "master"
+ },
+ "MST_PINE_XL2": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_XL2.fbx",
+  "tris": 20492,
+  "verts": 33778,
+  "mats": [
+   "SGK3_MST_PINE_XL2_ATL"
+  ],
+  "bbox_min": [
+   -6.178,
+   -7.959,
+   0.0
+  ],
+  "bbox_max": [
+   6.178,
+   7.959,
+   30.077
+  ],
+  "size_mb": 2.89,
+  "kind": "master"
+ },
+ "MST_PINE_S1": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_S1.fbx",
+  "tris": 4119,
+  "verts": 7085,
+  "mats": [
+   "SGK3_MST_PINE_S1_ATL"
+  ],
+  "bbox_min": [
+   -1.531,
+   -1.607,
+   0.0
+  ],
+  "bbox_max": [
+   1.531,
+   1.607,
+   4.353
+  ],
+  "size_mb": 1.96,
+  "kind": "master"
+ },
+ "MST_PINE_S2": {
+  "file": "10_MASTERS\\SGK3_MST_PINE_S2.fbx",
+  "tris": 4448,
+  "verts": 7617,
+  "mats": [
+   "SGK3_MST_PINE_S2_ATL"
+  ],
+  "bbox_min": [
+   -1.804,
+   -1.573,
+   0.0
+  ],
+  "bbox_max": [
+   1.804,
+   1.573,
+   4.65
+  ],
+  "size_mb": 1.98,
+  "kind": "master"
+ },
+ "MST_SAPLING1": {
+  "file": "10_MASTERS\\SGK3_MST_SAPLING1.fbx",
+  "tris": 1257,
+  "verts": 2274,
+  "mats": [
+   "SGK3_MST_SAPLING1_ATL"
+  ],
+  "bbox_min": [
+   -0.744,
+   -0.563,
+   0.0
+  ],
+  "bbox_max": [
+   0.744,
+   0.563,
+   1.539
+  ],
+  "size_mb": 1.84,
+  "kind": "master"
+ },
+ "MST_SAPLING2": {
+  "file": "10_MASTERS\\SGK3_MST_SAPLING2.fbx",
+  "tris": 1425,
+  "verts": 2601,
+  "mats": [
+   "SGK3_MST_SAPLING2_ATL"
+  ],
+  "bbox_min": [
+   -0.686,
+   -0.633,
+   0.0
+  ],
+  "bbox_max": [
+   0.686,
+   0.633,
+   1.561
+  ],
+  "size_mb": 1.85,
+  "kind": "master"
+ },
+ "MST_BOULDER_A": {
+  "file": "10_MASTERS\\MST_BOULDER_A.fbx",
+  "tris": 26613,
+  "verts": 33468,
+  "mats": [
+   "BOULDER_A"
+  ],
+  "bbox_min": [
+   -0.639,
+   -0.923,
+   -0.004
+  ],
+  "bbox_max": [
+   0.636,
+   0.915,
+   1.006
+  ],
+  "size_mb": 2.56,
+  "kind": "master"
+ },
+ "MST_BOULDER_B": {
+  "file": "10_MASTERS\\MST_BOULDER_B.fbx",
+  "tris": 26189,
+  "verts": 16445,
+  "mats": [
+   "BOULDER_B"
+  ],
+  "bbox_min": [
+   -1.267,
+   -0.617,
+   0.0
+  ],
+  "bbox_max": [
+   1.266,
+   0.617,
+   0.883
+  ],
+  "size_mb": 1.59,
+  "kind": "master"
+ },
+ "MST_FERN": {
+  "file": "10_MASTERS\\SGK3_MST_FERN.fbx",
+  "tris": 14998,
+  "verts": 22135,
+  "mats": [
+   "SGK3_MST_FERN_ATL"
+  ],
+  "bbox_min": [
+   -0.986,
+   -0.862,
+   0.0
+  ],
+  "bbox_max": [
+   0.986,
+   0.862,
+   0.428
+  ],
+  "size_mb": 1.83,
+  "kind": "master"
+ },
+ "MST_STUMP": {
+  "file": "10_MASTERS\\MST_STUMP.fbx",
+  "tris": 26189,
+  "verts": 14910,
+  "mats": [
+   "STUMP"
+  ],
+  "bbox_min": [
+   -0.713,
+   -0.795,
+   0.0
+  ],
+  "bbox_max": [
+   0.713,
+   0.795,
+   0.573
+  ],
+  "size_mb": 1.66,
+  "kind": "master"
+ },
+ "MST_DEADTRUNK": {
+  "file": "10_MASTERS\\MST_DEADTRUNK.fbx",
+  "tris": 26190,
+  "verts": 14621,
+  "mats": [
+   "DEADTRUNK"
+  ],
+  "bbox_min": [
+   -1.525,
+   -0.139,
+   0.0
+  ],
+  "bbox_max": [
+   1.526,
+   0.139,
+   0.29
+  ],
+  "size_mb": 1.54,
+  "kind": "master"
+ },
+ "MST_PAVILION": {
+  "file": "10_MASTERS\\SGK3_MST_PAVILION.fbx",
+  "tris": 12392,
+  "verts": 7632,
+  "mats": [
+   "SGK3_MST_PAVILION_ATL"
+  ],
+  "bbox_min": [
+   -2.381,
+   -2.367,
+   0.0
+  ],
+  "bbox_max": [
+   2.381,
+   2.367,
+   3.851
+  ],
+  "size_mb": 2.19,
+  "kind": "master"
+ },
+ "MST_BRIDGE": {
+  "file": "10_MASTERS\\MST_BRIDGE.fbx",
+  "tris": 9128,
+  "verts": 4632,
+  "mats": [
+   "MST_BRIDGE_ATL"
+  ],
+  "bbox_min": [
+   -2.496,
+   -0.789,
+   -0.0
+  ],
+  "bbox_max": [
+   2.496,
+   0.789,
+   2.312
+  ],
+  "size_mb": 1.79,
+  "kind": "master"
+ },
+ "MST_WALL_9M": {
+  "file": "10_MASTERS\\MST_WALL_9M.fbx",
+  "tris": 26189,
+  "verts": 14270,
+  "mats": [
+   "MST_WALL_9M_ATL"
+  ],
+  "bbox_min": [
+   -4.5,
+   -0.239,
+   0.0
+  ],
+  "bbox_max": [
+   4.505,
+   0.239,
+   1.982
+  ],
+  "size_mb": 2.13,
+  "kind": "master"
+ },
+ "MST_WALL_L": {
+  "file": "10_MASTERS\\MST_WALL_L.fbx",
+  "tris": 26190,
+  "verts": 14270,
+  "mats": [
+   "MST_WALL_L_ATL"
+  ],
+  "bbox_min": [
+   -2.938,
+   -1.921,
+   0.0
+  ],
+  "bbox_max": [
+   2.939,
+   1.924,
+   1.98
+  ],
+  "size_mb": 2.15,
+  "kind": "master"
+ },
+ "STA_TER_00": {
+  "file": "01_TERRAIN\\SGK_STA_TER_00.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_00"
+  ],
+  "bbox_min": [
+   -80.0,
+   -60.0,
+   0.606
+  ],
+  "bbox_max": [
+   -40.0,
+   -20.0,
+   4.934
+  ],
+  "size_mb": 2.56,
+  "kind": "static"
+ },
+ "STA_TER_10": {
+  "file": "01_TERRAIN\\SGK_STA_TER_10.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_10"
+  ],
+  "bbox_min": [
+   -40.0,
+   -60.0,
+   -0.09
+  ],
+  "bbox_max": [
+   0.0,
+   -20.0,
+   4.955
+  ],
+  "size_mb": 2.57,
+  "kind": "static"
+ },
+ "STA_TER_20": {
+  "file": "01_TERRAIN\\SGK_STA_TER_20.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_20"
+  ],
+  "bbox_min": [
+   0.0,
+   -60.0,
+   -0.855
+  ],
+  "bbox_max": [
+   40.0,
+   -20.0,
+   10.084
+  ],
+  "size_mb": 2.65,
+  "kind": "static"
+ },
+ "STA_TER_30": {
+  "file": "01_TERRAIN\\SGK_STA_TER_30.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_30"
+  ],
+  "bbox_min": [
+   40.0,
+   -60.0,
+   -1.427
+  ],
+  "bbox_max": [
+   80.0,
+   -20.0,
+   10.218
+  ],
+  "size_mb": 2.61,
+  "kind": "static"
+ },
+ "STA_TER_01": {
+  "file": "01_TERRAIN\\SGK_STA_TER_01.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_01"
+  ],
+  "bbox_min": [
+   -80.0,
+   -20.0,
+   -0.059
+  ],
+  "bbox_max": [
+   -40.0,
+   20.0,
+   6.479
+  ],
+  "size_mb": 2.56,
+  "kind": "static"
+ },
+ "STA_TER_11": {
+  "file": "01_TERRAIN\\SGK_STA_TER_11.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_11"
+  ],
+  "bbox_min": [
+   -40.0,
+   -20.0,
+   -1.889
+  ],
+  "bbox_max": [
+   0.0,
+   20.0,
+   9.157
+  ],
+  "size_mb": 2.58,
+  "kind": "static"
+ },
+ "STA_TER_21": {
+  "file": "01_TERRAIN\\SGK_STA_TER_21.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_21"
+  ],
+  "bbox_min": [
+   0.0,
+   -20.0,
+   -2.404
+  ],
+  "bbox_max": [
+   40.0,
+   20.0,
+   8.171
+  ],
+  "size_mb": 2.58,
+  "kind": "static"
+ },
+ "STA_TER_31": {
+  "file": "01_TERRAIN\\SGK_STA_TER_31.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_31"
+  ],
+  "bbox_min": [
+   40.0,
+   -20.0,
+   -1.638
+  ],
+  "bbox_max": [
+   80.0,
+   20.0,
+   5.263
+  ],
+  "size_mb": 2.56,
+  "kind": "static"
+ },
+ "STA_TER_02": {
+  "file": "01_TERRAIN\\SGK_STA_TER_02.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_02"
+  ],
+  "bbox_min": [
+   -80.0,
+   20.0,
+   0.645
+  ],
+  "bbox_max": [
+   -40.0,
+   60.0,
+   11.842
+  ],
+  "size_mb": 2.61,
+  "kind": "static"
+ },
+ "STA_TER_12": {
+  "file": "01_TERRAIN\\SGK_STA_TER_12.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_12"
+  ],
+  "bbox_min": [
+   -40.0,
+   20.0,
+   -0.193
+  ],
+  "bbox_max": [
+   0.0,
+   60.0,
+   11.308
+  ],
+  "size_mb": 2.65,
+  "kind": "static"
+ },
+ "STA_TER_22": {
+  "file": "01_TERRAIN\\SGK_STA_TER_22.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_22"
+  ],
+  "bbox_min": [
+   0.0,
+   20.0,
+   -0.728
+  ],
+  "bbox_max": [
+   40.0,
+   60.0,
+   3.817
+  ],
+  "size_mb": 2.57,
+  "kind": "static"
+ },
+ "STA_TER_32": {
+  "file": "01_TERRAIN\\SGK_STA_TER_32.fbx",
+  "tris": 12800,
+  "verts": 6561,
+  "mats": [
+   "SGK_TER_32"
+  ],
+  "bbox_min": [
+   40.0,
+   20.0,
+   -1.609
+  ],
+  "bbox_max": [
+   80.0,
+   60.0,
+   3.801
+  ],
+  "size_mb": 2.57,
+  "kind": "static"
+ },
+ "STA_WALL_E": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_E.fbx",
+  "tris": 8224,
+  "verts": 4249,
+  "mats": [
+   "SGK_WALL_E"
+  ],
+  "bbox_min": [
+   80.0,
+   -60.0,
+   -41.638
+  ],
+  "bbox_max": [
+   130.0,
+   60.0,
+   20.458
+  ],
+  "size_mb": 4.45,
+  "kind": "static"
+ },
+ "STA_WALL_W": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_W.fbx",
+  "tris": 8224,
+  "verts": 4249,
+  "mats": [
+   "SGK_WALL_W"
+  ],
+  "bbox_min": [
+   -130.0,
+   -60.0,
+   -39.378
+  ],
+  "bbox_max": [
+   -80.0,
+   60.0,
+   25.248
+  ],
+  "size_mb": 4.45,
+  "kind": "static"
+ },
+ "STA_Terrace_N": {
+  "file": "02_STATIC\\SGK_STA_Terrace_N.fbx",
+  "tris": 12,
+  "verts": 8,
+  "mats": [
+   "STONEWALL"
+  ],
+  "bbox_min": [
+   -2.5,
+   6.5,
+   0.177
+  ],
+  "bbox_max": [
+   2.5,
+   11.5,
+   1.677
+  ],
+  "size_mb": 0.45,
+  "kind": "static"
+ },
+ "STA_Cairn": {
+  "file": "02_STATIC\\SGK_STA_Cairn.fbx",
+  "tris": 180,
+  "verts": 108,
+  "mats": [
+   "BASALT"
+  ],
+  "bbox_min": [
+   -0.316,
+   -9.315,
+   0.339
+  ],
+  "bbox_max": [
+   0.326,
+   -8.687,
+   1.913
+  ],
+  "size_mb": 0.52,
+  "kind": "static"
+ },
+ "STA_STEPS": {
+  "file": "02_STATIC\\SGK_STA_STEPS.fbx",
+  "tris": 744,
+  "verts": 496,
+  "mats": [
+   "BASALT"
+  ],
+  "bbox_min": [
+   -42.338,
+   -27.749,
+   0.674
+  ],
+  "bbox_max": [
+   42.573,
+   27.626,
+   10.035
+  ],
+  "size_mb": 0.53,
+  "kind": "static"
+ },
+ "STA_StreamWater": {
+  "file": "02_STATIC\\SGK_STA_StreamWater.fbx",
+  "tris": 1440,
+  "verts": 819,
+  "mats": [
+   "SGK_WATER"
+  ],
+  "bbox_min": [
+   -45.0,
+   -9.346,
+   -1.221
+  ],
+  "bbox_max": [
+   45.0,
+   9.774,
+   0.376
+  ],
+  "size_mb": 0.04,
+  "kind": "static"
+ },
+ "MST_EULALIA": {
+  "file": null,
+  "kind": "reused",
+  "tris": 3350,
+  "mats": [
+   "ATL_EULALIA"
+  ],
+  "asset_alias": {
+   "mesh": "MST_EULALIA_overdare",
+   "tex": "ATL_EULALIA"
+  },
+  "bbox_min": [
+   -0.443,
+   -0.427,
+   0.0
+  ],
+  "bbox_max": [
+   0.443,
+   0.427,
+   1.25
+  ],
+  "size_mb": 0
+ },
+ "MST_ARTEMISIA": {
+  "file": null,
+  "kind": "reused",
+  "tris": 840,
+  "mats": [
+   "ATL_ARTEMISIA"
+  ],
+  "asset_alias": {
+   "mesh": "MST_ARTEMISIA_overdare",
+   "tex": "ATL_ARTEMISIA"
+  },
+  "bbox_min": [
+   -0.243,
+   -0.269,
+   0.0
+  ],
+  "bbox_max": [
+   0.243,
+   0.269,
+   1.017
+  ],
+  "size_mb": 0
+ },
+ "MST_ROCK_A": {
+  "file": null,
+  "kind": "reused",
+  "tris": 28000,
+  "mats": [
+   "ROCK_A"
+  ],
+  "asset_alias": {
+   "mesh": "MST_ROCK_A_overdare",
+   "tex": "ROCK_A"
+  },
+  "bbox_min": [
+   -2.996,
+   -3.547,
+   0.0
+  ],
+  "bbox_max": [
+   2.996,
+   3.547,
+   12.449
+  ],
+  "size_mb": 0
+ },
+ "MST_ROCK_D": {
+  "file": null,
+  "kind": "reused",
+  "tris": 27999,
+  "mats": [
+   "ROCK_D"
+  ],
+  "asset_alias": {
+   "mesh": "MST_ROCK_D_overdare",
+   "tex": "ROCK_D"
+  },
+  "bbox_min": [
+   -2.013,
+   -2.182,
+   0.0
+  ],
+  "bbox_max": [
+   2.013,
+   2.182,
+   8.964
+  ],
+  "size_mb": 0
+ },
+ "MST_ROCK_E": {
+  "file": null,
+  "kind": "reused",
+  "tris": 27999,
+  "mats": [
+   "ROCK_E"
+  ],
+  "asset_alias": {
+   "mesh": "MST_ROCK_E_overdare",
+   "tex": "ROCK_E"
+  },
+  "bbox_min": [
+   -3.158,
+   -3.894,
+   0.0
+  ],
+  "bbox_max": [
+   3.158,
+   3.894,
+   16.205
+  ],
+  "size_mb": 0
+ },
+ "STA_WALL_N1": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_N1.fbx",
+  "tris": 8816,
+  "verts": 4554,
+  "mats": [
+   "SGK_WALL_N1"
+  ],
+  "bbox_min": [
+   -130.0,
+   60.0,
+   -40.193
+  ],
+  "bbox_max": [
+   0.0,
+   110.0,
+   24.505
+  ],
+  "size_mb": 4.47,
+  "kind": "static"
+ },
+ "STA_WALL_N2": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_N2.fbx",
+  "tris": 8816,
+  "verts": 4554,
+  "mats": [
+   "SGK_WALL_N2"
+  ],
+  "bbox_min": [
+   0.0,
+   60.0,
+   -41.314
+  ],
+  "bbox_max": [
+   130.0,
+   110.0,
+   21.778
+  ],
+  "size_mb": 4.47,
+  "kind": "static"
+ },
+ "STA_WALL_S1": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_S1.fbx",
+  "tris": 8816,
+  "verts": 4554,
+  "mats": [
+   "SGK_WALL_S1"
+  ],
+  "bbox_min": [
+   -130.0,
+   -110.0,
+   -39.807
+  ],
+  "bbox_max": [
+   0.0,
+   -60.0,
+   25.646
+  ],
+  "size_mb": 4.47,
+  "kind": "static"
+ },
+ "STA_WALL_S2": {
+  "file": "01_TERRAIN\\SGK_STA_WALL_S2.fbx",
+  "tris": 8816,
+  "verts": 4554,
+  "mats": [
+   "SGK_WALL_S2"
+  ],
+  "bbox_min": [
+   0.0,
+   -110.0,
+   -41.534
+  ],
+  "bbox_max": [
+   130.0,
+   -60.0,
+   23.033
+  ],
+  "size_mb": 4.47,
+  "kind": "static"
+ }
+}

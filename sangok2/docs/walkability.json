@@ -1,0 +1,123 @@
+{
+ "cells": 77361,
+ "walk_pct": 88.5,
+ "scramble_pct": 5.0,
+ "blocked_pct": 6.5,
+ "components": 6,
+ "main_component_pct": 99.8,
+ "band_42_48_pct": 5.43,
+ "slope_bands_pct": {
+  "0-10": 67.4,
+  "10-20": 6.1,
+  "20-30": 13.4,
+  "30-40": 3.2,
+  "40-50": 7.0,
+  "50-60": 1.4,
+  "60-70": 1.1,
+  "70-80": 0.5
+ },
+ "key_points": {
+  "spawn_W": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "spawn_E": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "crest_tip_NW": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "crest_tip_SE": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "crest_mid_NW": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "crest_mid_SE": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "R1_top_W": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "R2_top_W": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "R3_top_W": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "R1_top_E": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "ford_W": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "ford_C": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "ford_E": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "glade_S": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "glade_N": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "strip_N": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "strip_S": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "bowl": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "path_W_mid": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  },
+  "path_E_mid": {
+   "comp": 0,
+   "snap_m": 0.0,
+   "in_main": true
+  }
+ },
+ "PASS": true,
+ "seconds": 5.7
+}

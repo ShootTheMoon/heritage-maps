@@ -1,0 +1,110 @@
+[
+ {
+  "className": "Part",
+  "name": "SGK_Bound_North",
+  "props": {
+   "position": [
+    -30000.0,
+    800,
+    -46000.0
+   ],
+   "size": [
+    16200.0,
+    1600,
+    50
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "canCollide": false,
+   "canQuery": false,
+   "castShadow": false,
+   "transparency": 0.6,
+   "color": [
+    220,
+    40,
+    40
+   ]
+  }
+ },
+ {
+  "className": "Part",
+  "name": "SGK_Bound_South",
+  "props": {
+   "position": [
+    -30000.0,
+    800,
+    -34000.0
+   ],
+   "size": [
+    16200.0,
+    1600,
+    50
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "canCollide": false,
+   "canQuery": false,
+   "castShadow": false,
+   "transparency": 0.6,
+   "color": [
+    220,
+    40,
+    40
+   ]
+  }
+ },
+ {
+  "className": "Part",
+  "name": "SGK_Bound_East",
+  "props": {
+   "position": [
+    -22000.0,
+    800,
+    -40000.0
+   ],
+   "size": [
+    50,
+    1600,
+    12200.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "canCollide": false,
+   "canQuery": false,
+   "castShadow": false,
+   "transparency": 0.6,
+   "color": [
+    220,
+    40,
+    40
+   ]
+  }
+ },
+ {
+  "className": "Part",
+  "name": "SGK_Bound_West",
+  "props": {
+   "position": [
+    -38000.0,
+    800,
+    -40000.0
+   ],
+   "size": [
+    50,
+    1600,
+    12200.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "canCollide": false,
+   "canQuery": false,
+   "castShadow": false,
+   "transparency": 0.6,
+   "color": [
+    220,
+    40,
+    40
+   ]
+  }
+ }
+]

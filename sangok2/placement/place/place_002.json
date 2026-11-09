@@ -1,0 +1,5474 @@
+[
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_005",
+"props": {
+"meshId": "42184300",
+"position": [
+-30816.8,
+63.7,
+-36901.3
+],
+"orientation": [
+0.0,
+-102.97,
+0.0
+],
+"size": [
+89.0,
+125.6,
+85.8
+],
+"unit": [
+44.279,
+62.488,
+-42.687
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_006",
+"props": {
+"meshId": "42184300",
+"position": [
+-30795.6,
+172.0,
+-39693.7
+],
+"orientation": [
+0.0,
+111.01,
+0.0
+],
+"size": [
+132.7,
+187.2,
+127.9
+],
+"unit": [
+44.292,
+62.483,
+-42.69
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_007",
+"props": {
+"meshId": "42184300",
+"position": [
+-30769.1,
+87.1,
+-42762.1
+],
+"orientation": [
+0.0,
+-46.73,
+0.0
+],
+"size": [
+134.2,
+189.4,
+129.4
+],
+"unit": [
+44.29,
+62.508,
+-42.706
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_008",
+"props": {
+"meshId": "42184300",
+"position": [
+-30393.7,
+90.8,
+-36493.8
+],
+"orientation": [
+0.0,
+-63.13,
+0.0
+],
+"size": [
+135.4,
+191.0,
+130.5
+],
+"unit": [
+44.306,
+62.5,
+-42.703
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_009",
+"props": {
+"meshId": "42184300",
+"position": [
+-30343.3,
+86.2,
+-38461.7
+],
+"orientation": [
+0.0,
+161.52,
+0.0
+],
+"size": [
+125.8,
+177.5,
+121.3
+],
+"unit": [
+44.296,
+62.5,
+-42.711
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_010",
+"props": {
+"meshId": "42184300",
+"position": [
+-30696.4,
+133.8,
+-38887.3
+],
+"orientation": [
+0.0,
+22.17,
+0.0
+],
+"size": [
+95.4,
+134.6,
+92.0
+],
+"unit": [
+44.29,
+62.488,
+-42.711
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_011",
+"props": {
+"meshId": "42184300",
+"position": [
+-30595.2,
+83.5,
+-41155.0
+],
+"orientation": [
+0.0,
+-74.98,
+0.0
+],
+"size": [
+115.2,
+162.5,
+111.0
+],
+"unit": [
+44.308,
+62.5,
+-42.692
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_012",
+"props": {
+"meshId": "42184300",
+"position": [
+-30508.5,
+84.7,
+-41963.4
+],
+"orientation": [
+0.0,
+-72.47,
+0.0
+],
+"size": [
+116.5,
+164.4,
+112.3
+],
+"unit": [
+44.297,
+62.51,
+-42.7
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_013",
+"props": {
+"meshId": "42184300",
+"position": [
+-30696.8,
+88.5,
+-42598.3
+],
+"orientation": [
+0.0,
+-9.57,
+0.0
+],
+"size": [
+131.1,
+185.0,
+126.4
+],
+"unit": [
+44.291,
+62.5,
+-42.703
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_014",
+"props": {
+"meshId": "42184300",
+"position": [
+-30341.7,
+89.0,
+-43230.8
+],
+"orientation": [
+0.0,
+-166.21,
+0.0
+],
+"size": [
+133.3,
+188.0,
+128.4
+],
+"unit": [
+44.315,
+62.5,
+-42.686
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_015",
+"props": {
+"meshId": "42184300",
+"position": [
+-30299.5,
+86.1,
+-43347.3
+],
+"orientation": [
+0.0,
+125.57,
+0.0
+],
+"size": [
+127.8,
+180.2,
+123.1
+],
+"unit": [
+44.313,
+62.483,
+-42.684
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_016",
+"props": {
+"meshId": "42184300",
+"position": [
+-30005.3,
+72.2,
+-41502.8
+],
+"orientation": [
+0.0,
+22.48,
+0.0
+],
+"size": [
+107.3,
+151.4,
+103.4
+],
+"unit": [
+44.302,
+62.51,
+-42.692
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_017",
+"props": {
+"meshId": "42184300",
+"position": [
+-29918.5,
+66.0,
+-41862.8
+],
+"orientation": [
+0.0,
+-18.41,
+0.0
+],
+"size": [
+96.0,
+135.4,
+92.5
+],
+"unit": [
+44.321,
+62.512,
+-42.705
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_018",
+"props": {
+"meshId": "42184300",
+"position": [
+-29791.5,
+74.0,
+-42810.3
+],
+"orientation": [
+0.0,
+-119.31,
+0.0
+],
+"size": [
+120.5,
+170.0,
+116.1
+],
+"unit": [
+44.301,
+62.5,
+-42.684
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_019",
+"props": {
+"meshId": "42184300",
+"position": [
+-30117.9,
+85.9,
+-43300.5
+],
+"orientation": [
+0.0,
+154.61,
+0.0
+],
+"size": [
+134.1,
+189.2,
+129.3
+],
+"unit": [
+44.287,
+62.483,
+-42.701
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_020",
+"props": {
+"meshId": "42184300",
+"position": [
+-29328.5,
+66.6,
+-36446.1
+],
+"orientation": [
+0.0,
+-57.16,
+0.0
+],
+"size": [
+136.5,
+192.6,
+131.6
+],
+"unit": [
+44.289,
+62.492,
+-42.7
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_021",
+"props": {
+"meshId": "42184300",
+"position": [
+-29568.1,
+62.2,
+-36845.7
+],
+"orientation": [
+0.0,
+-65.96,
+0.0
+],
+"size": [
+100.9,
+142.4,
+97.3
+],
+"unit": [
+44.293,
+62.511,
+-42.713
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_022",
+"props": {
+"meshId": "42184300",
+"position": [
+-29673.2,
+65.5,
+-37549.5
+],
+"orientation": [
+0.0,
+-52.85,
+0.0
+],
+"size": [
+104.4,
+147.2,
+100.6
+],
+"unit": [
+44.312,
+62.479,
+-42.699
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_023",
+"props": {
+"meshId": "42184300",
+"position": [
+-29526.3,
+68.6,
+-38097.7
+],
+"orientation": [
+0.0,
+121.88,
+0.0
+],
+"size": [
+117.6,
+165.9,
+113.3
+],
+"unit": [
+44.31,
+62.509,
+-42.69
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_024",
+"props": {
+"meshId": "42184300",
+"position": [
+-29394.6,
+65.3,
+-38881.0
+],
+"orientation": [
+0.0,
+19.66,
+0.0
+],
+"size": [
+128.6,
+181.4,
+123.9
+],
+"unit": [
+44.314,
+62.509,
+-42.695
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_025",
+"props": {
+"meshId": "42184300",
+"position": [
+-29378.8,
+210.3,
+-40741.5
+],
+"orientation": [
+0.0,
+23.88,
+0.0
+],
+"size": [
+118.1,
+166.6,
+113.8
+],
+"unit": [
+44.299,
+62.491,
+-42.686
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_026",
+"props": {
+"meshId": "42184300",
+"position": [
+-29251.9,
+121.6,
+-41142.1
+],
+"orientation": [
+0.0,
+-44.0,
+0.0
+],
+"size": [
+82.1,
+115.9,
+79.2
+],
+"unit": [
+44.283,
+62.513,
+-42.718
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_027",
+"props": {
+"meshId": "42184300",
+"position": [
+-29333.6,
+71.0,
+-42140.4
+],
+"orientation": [
+0.0,
+-82.76,
+0.0
+],
+"size": [
+101.3,
+142.9,
+97.6
+],
+"unit": [
+44.313,
+62.511,
+-42.695
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_028",
+"props": {
+"meshId": "42184300",
+"position": [
+-29626.6,
+68.5,
+-43040.9
+],
+"orientation": [
+0.0,
+-127.72,
+0.0
+],
+"size": [
+114.1,
+161.0,
+110.0
+],
+"unit": [
+44.293,
+62.5,
+-42.702
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_029",
+"props": {
+"meshId": "42184300",
+"position": [
+-29253.3,
+40.9,
+-43955.7
+],
+"orientation": [
+0.0,
+140.29,
+0.0
+],
+"size": [
+96.8,
+136.5,
+93.3
+],
+"unit": [
+44.322,
+62.5,
+-42.72
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_030",
+"props": {
+"meshId": "42184300",
+"position": [
+-29172.1,
+46.5,
+-43445.2
+],
+"orientation": [
+0.0,
+98.49,
+0.0
+],
+"size": [
+116.1,
+163.8,
+111.9
+],
+"unit": [
+44.313,
+62.519,
+-42.71
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_031",
+"props": {
+"meshId": "42184300",
+"position": [
+-29171.9,
+32.0,
+-43846.7
+],
+"orientation": [
+0.0,
+-87.55,
+0.0
+],
+"size": [
+82.8,
+116.8,
+79.8
+],
+"unit": [
+44.325,
+62.527,
+-42.719
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_032",
+"props": {
+"meshId": "42184300",
+"position": [
+-28279.9,
+426.9,
+-40155.7
+],
+"orientation": [
+0.0,
+-79.86,
+0.0
+],
+"size": [
+87.1,
+122.9,
+83.9
+],
+"unit": [
+44.303,
+62.513,
+-42.675
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_033",
+"props": {
+"meshId": "42184300",
+"position": [
+-27781.8,
+172.1,
+-38975.4
+],
+"orientation": [
+0.0,
+35.74,
+0.0
+],
+"size": [
+105.9,
+149.4,
+102.1
+],
+"unit": [
+44.31,
+62.51,
+-42.72
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_034",
+"props": {
+"meshId": "42184300",
+"position": [
+-28188.9,
+448.3,
+-40411.2
+],
+"orientation": [
+0.0,
+78.42,
+0.0
+],
+"size": [
+126.8,
+178.9,
+122.2
+],
+"unit": [
+44.305,
+62.509,
+-42.697
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_035",
+"props": {
+"meshId": "42184300",
+"position": [
+-27411.2,
+407.1,
+-40054.3
+],
+"orientation": [
+0.0,
+5.77,
+0.0
+],
+"size": [
+136.4,
+192.5,
+131.5
+],
+"unit": [
+44.286,
+62.5,
+-42.695
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_036",
+"props": {
+"meshId": "42184300",
+"position": [
+-27567.4,
+429.5,
+-40323.8
+],
+"orientation": [
+0.0,
+159.88,
+0.0
+],
+"size": [
+106.4,
+150.1,
+102.6
+],
+"unit": [
+44.296,
+62.49,
+-42.714
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_037",
+"props": {
+"meshId": "42184300",
+"position": [
+-26926.6,
+157.6,
+-40044.8
+],
+"orientation": [
+0.0,
+-136.89,
+0.0
+],
+"size": [
+103.2,
+145.6,
+99.5
+],
+"unit": [
+44.292,
+62.489,
+-42.704
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Eulalia_038",
+"props": {
+"meshId": "42184300",
+"position": [
+-26467.2,
+-1.7,
+-38699.1
+],
+"orientation": [
+0.0,
+118.79,
+0.0
+],
+"size": [
+97.8,
+138.0,
+94.3
+],
+"unit": [
+44.293,
+62.5,
+-42.708
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "42183800",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_001",
+"props": {
+"meshId": "44753200",
+"position": [
+-34768.8,
+380.5,
+-38204.2
+],
+"orientation": [
+0.0,
+-162.36,
+0.0
+],
+"size": [
+194.8,
+42.3,
+170.3
+],
+"unit": [
+98.583,
+21.407,
+-86.184
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_002",
+"props": {
+"meshId": "44753200",
+"position": [
+-33926.5,
+57.5,
+-44999.5
+],
+"orientation": [
+0.0,
+-102.86,
+0.0
+],
+"size": [
+274.1,
+59.5,
+239.6
+],
+"unit": [
+98.597,
+21.403,
+-86.187
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_003",
+"props": {
+"meshId": "44753200",
+"position": [
+-33515.2,
+126.9,
+-37272.4
+],
+"orientation": [
+0.0,
+123.25,
+0.0
+],
+"size": [
+257.1,
+55.8,
+224.8
+],
+"unit": [
+98.581,
+21.396,
+-86.196
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_004",
+"props": {
+"meshId": "44753200",
+"position": [
+-33133.6,
+49.4,
+-37096.8
+],
+"orientation": [
+0.0,
+-37.92,
+0.0
+],
+"size": [
+169.8,
+36.9,
+148.4
+],
+"unit": [
+98.606,
+21.429,
+-86.179
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_005",
+"props": {
+"meshId": "44753200",
+"position": [
+-31912.4,
+30.3,
+-44777.1
+],
+"orientation": [
+0.0,
+6.86,
+0.0
+],
+"size": [
+262.9,
+57.1,
+229.8
+],
+"unit": [
+98.612,
+21.418,
+-86.197
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_006",
+"props": {
+"meshId": "44753200",
+"position": [
+-31742.4,
+28.0,
+-35936.0
+],
+"orientation": [
+0.0,
+125.25,
+0.0
+],
+"size": [
+227.2,
+49.3,
+198.6
+],
+"unit": [
+98.611,
+21.398,
+-86.198
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_007",
+"props": {
+"meshId": "44753200",
+"position": [
+-31588.4,
+496.7,
+-39025.9
+],
+"orientation": [
+0.0,
+-20.71,
+0.0
+],
+"size": [
+262.9,
+57.1,
+229.8
+],
+"unit": [
+98.612,
+21.418,
+-86.197
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_008",
+"props": {
+"meshId": "44753200",
+"position": [
+-31739.1,
+395.4,
+-39739.0
+],
+"orientation": [
+0.0,
+-77.89,
+0.0
+],
+"size": [
+220.5,
+47.9,
+192.7
+],
+"unit": [
+98.614,
+21.422,
+-86.181
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_009",
+"props": {
+"meshId": "44753200",
+"position": [
+-31718.2,
+371.3,
+-39995.8
+],
+"orientation": [
+0.0,
+1.92,
+0.0
+],
+"size": [
+224.2,
+48.7,
+196.0
+],
+"unit": [
+98.593,
+21.416,
+-86.192
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_010",
+"props": {
+"meshId": "44753200",
+"position": [
+-31734.4,
+11.0,
+-40758.6
+],
+"orientation": [
+0.0,
+123.28,
+0.0
+],
+"size": [
+224.4,
+48.7,
+196.2
+],
+"unit": [
+98.594,
+21.397,
+-86.204
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_011",
+"props": {
+"meshId": "44753200",
+"position": [
+-31585.0,
+25.9,
+-44665.9
+],
+"orientation": [
+0.0,
+86.93,
+0.0
+],
+"size": [
+200.7,
+43.6,
+175.5
+],
+"unit": [
+98.576,
+21.415,
+-86.198
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_012",
+"props": {
+"meshId": "44753200",
+"position": [
+-31132.7,
+13.0,
+-36661.4
+],
+"orientation": [
+0.0,
+-111.24,
+0.0
+],
+"size": [
+199.6,
+43.3,
+174.5
+],
+"unit": [
+98.617,
+21.393,
+-86.215
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_013",
+"props": {
+"meshId": "44753200",
+"position": [
+-31105.0,
+302.4,
+-38751.3
+],
+"orientation": [
+0.0,
+101.1,
+0.0
+],
+"size": [
+249.9,
+54.2,
+218.4
+],
+"unit": [
+98.619,
+21.389,
+-86.188
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_014",
+"props": {
+"meshId": "44753200",
+"position": [
+-31286.1,
+21.3,
+-43753.0
+],
+"orientation": [
+0.0,
+-73.15,
+0.0
+],
+"size": [
+214.2,
+46.5,
+187.2
+],
+"unit": [
+98.619,
+21.409,
+-86.188
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_015",
+"props": {
+"meshId": "44753200",
+"position": [
+-31294.8,
+21.9,
+-44594.8
+],
+"orientation": [
+0.0,
+170.06,
+0.0
+],
+"size": [
+234.5,
+50.9,
+205.0
+],
+"unit": [
+98.612,
+21.405,
+-86.207
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_016",
+"props": {
+"meshId": "44753200",
+"position": [
+-30848.2,
+16.8,
+-35961.0
+],
+"orientation": [
+0.0,
+-24.57,
+0.0
+],
+"size": [
+233.5,
+50.7,
+204.1
+],
+"unit": [
+98.606,
+21.41,
+-86.191
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_017",
+"props": {
+"meshId": "44753200",
+"position": [
+-30959.2,
+12.3,
+-37080.9
+],
+"orientation": [
+0.0,
+-149.5,
+0.0
+],
+"size": [
+169.8,
+36.9,
+148.4
+],
+"unit": [
+98.606,
+21.429,
+-86.179
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_018",
+"props": {
+"meshId": "44753200",
+"position": [
+-30890.5,
+112.6,
+-37760.2
+],
+"orientation": [
+0.0,
+75.75,
+0.0
+],
+"size": [
+159.3,
+34.6,
+139.3
+],
+"unit": [
+98.577,
+21.411,
+-86.2
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_019",
+"props": {
+"meshId": "44753200",
+"position": [
+-30881.1,
+21.1,
+-42505.4
+],
+"orientation": [
+0.0,
+-98.74,
+0.0
+],
+"size": [
+197.4,
+42.8,
+172.6
+],
+"unit": [
+98.601,
+21.379,
+-86.214
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_020",
+"props": {
+"meshId": "44753200",
+"position": [
+-30814.8,
+23.6,
+-43270.3
+],
+"orientation": [
+0.0,
+173.76,
+0.0
+],
+"size": [
+257.5,
+55.9,
+225.2
+],
+"unit": [
+98.583,
+21.401,
+-86.217
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_021",
+"props": {
+"meshId": "44753200",
+"position": [
+-30974.2,
+22.4,
+-43443.0
+],
+"orientation": [
+0.0,
+73.28,
+0.0
+],
+"size": [
+230.3,
+50.0,
+201.4
+],
+"unit": [
+98.587,
+21.404,
+-86.216
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_022",
+"props": {
+"meshId": "44753200",
+"position": [
+-30980.4,
+11.7,
+-44035.3
+],
+"orientation": [
+0.0,
+-85.53,
+0.0
+],
+"size": [
+163.7,
+35.5,
+143.1
+],
+"unit": [
+98.614,
+21.386,
+-86.205
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_023",
+"props": {
+"meshId": "44753200",
+"position": [
+-30244.8,
+11.4,
+-35986.1
+],
+"orientation": [
+0.0,
+-147.57,
+0.0
+],
+"size": [
+202.9,
+44.0,
+177.4
+],
+"unit": [
+98.591,
+21.38,
+-86.2
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_024",
+"props": {
+"meshId": "44753200",
+"position": [
+-30543.5,
+31.1,
+-38459.2
+],
+"orientation": [
+0.0,
+-143.25,
+0.0
+],
+"size": [
+256.2,
+55.6,
+223.9
+],
+"unit": [
+98.614,
+21.401,
+-86.182
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_025",
+"props": {
+"meshId": "44753200",
+"position": [
+-30465.8,
+6.0,
+-44150.3
+],
+"orientation": [
+0.0,
+140.4,
+0.0
+],
+"size": [
+252.0,
+54.7,
+220.3
+],
+"unit": [
+98.592,
+21.401,
+-86.189
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_026",
+"props": {
+"meshId": "44753200",
+"position": [
+-29875.4,
+20.5,
+-36524.1
+],
+"orientation": [
+0.0,
+-19.75,
+0.0
+],
+"size": [
+218.9,
+47.5,
+191.4
+],
+"unit": [
+98.604,
+21.396,
+-86.216
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_027",
+"props": {
+"meshId": "44753200",
+"position": [
+-29907.2,
+20.5,
+-38174.5
+],
+"orientation": [
+0.0,
+-167.93,
+0.0
+],
+"size": [
+228.8,
+49.6,
+200.0
+],
+"unit": [
+98.621,
+21.379,
+-86.207
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_028",
+"props": {
+"meshId": "44753200",
+"position": [
+-29981.1,
+22.5,
+-38344.7
+],
+"orientation": [
+0.0,
+85.5,
+0.0
+],
+"size": [
+200.2,
+43.4,
+175.0
+],
+"unit": [
+98.621,
+21.379,
+-86.207
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_029",
+"props": {
+"meshId": "44753200",
+"position": [
+-30171.3,
+23.9,
+-41773.5
+],
+"orientation": [
+0.0,
+141.01,
+0.0
+],
+"size": [
+270.8,
+58.8,
+236.7
+],
+"unit": [
+98.616,
+21.413,
+-86.198
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_030",
+"props": {
+"meshId": "44753200",
+"position": [
+-30162.0,
+24.6,
+-41804.8
+],
+"orientation": [
+0.0,
+18.64,
+0.0
+],
+"size": [
+236.2,
+51.3,
+206.5
+],
+"unit": [
+98.581,
+21.411,
+-86.185
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_031",
+"props": {
+"meshId": "44753200",
+"position": [
+-29687.2,
+15.7,
+-38228.0
+],
+"orientation": [
+0.0,
+-168.93,
+0.0
+],
+"size": [
+275.3,
+59.7,
+240.7
+],
+"unit": [
+98.603,
+21.383,
+-86.211
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_032",
+"props": {
+"meshId": "44753200",
+"position": [
+-29602.9,
+60.2,
+-41002.3
+],
+"orientation": [
+0.0,
+158.13,
+0.0
+],
+"size": [
+255.2,
+55.4,
+223.1
+],
+"unit": [
+98.609,
+21.406,
+-86.206
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_033",
+"props": {
+"meshId": "44753200",
+"position": [
+-29777.6,
+0.8,
+-44063.8
+],
+"orientation": [
+0.0,
+65.67,
+0.0
+],
+"size": [
+229.7,
+49.9,
+200.8
+],
+"unit": [
+98.584,
+21.416,
+-86.18
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_034",
+"props": {
+"meshId": "44753200",
+"position": [
+-29150.5,
+-12.4,
+-36131.2
+],
+"orientation": [
+0.0,
+79.06,
+0.0
+],
+"size": [
+240.6,
+52.2,
+210.3
+],
+"unit": [
+98.607,
+21.393,
+-86.189
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_035",
+"props": {
+"meshId": "44753200",
+"position": [
+-29388.6,
+12.9,
+-41619.6
+],
+"orientation": [
+0.0,
+-21.1,
+0.0
+],
+"size": [
+258.1,
+56.0,
+225.7
+],
+"unit": [
+98.587,
+21.39,
+-86.211
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_036",
+"props": {
+"meshId": "44753200",
+"position": [
+-29201.8,
+37.2,
+-42382.4
+],
+"orientation": [
+0.0,
+-4.72,
+0.0
+],
+"size": [
+202.5,
+44.0,
+177.1
+],
+"unit": [
+98.588,
+21.422,
+-86.222
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_037",
+"props": {
+"meshId": "44753200",
+"position": [
+-29219.8,
+-2.9,
+-43228.1
+],
+"orientation": [
+0.0,
+103.12,
+0.0
+],
+"size": [
+178.9,
+38.8,
+156.4
+],
+"unit": [
+98.622,
+21.389,
+-86.218
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_038",
+"props": {
+"meshId": "44753200",
+"position": [
+-29208.2,
+-7.1,
+-43863.1
+],
+"orientation": [
+0.0,
+-172.47,
+0.0
+],
+"size": [
+202.9,
+44.0,
+177.4
+],
+"unit": [
+98.591,
+21.38,
+-86.2
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_039",
+"props": {
+"meshId": "44753200",
+"position": [
+-28639.8,
+-47.1,
+-35354.7
+],
+"orientation": [
+0.0,
+35.86,
+0.0
+],
+"size": [
+165.5,
+35.9,
+144.6
+],
+"unit": [
+98.629,
+21.395,
+-86.174
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_040",
+"props": {
+"meshId": "44753200",
+"position": [
+-28773.2,
+435.4,
+-41174.1
+],
+"orientation": [
+0.0,
+-108.64,
+0.0
+],
+"size": [
+208.0,
+45.2,
+181.9
+],
+"unit": [
+98.578,
+21.422,
+-86.209
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_041",
+"props": {
+"meshId": "44753200",
+"position": [
+-28762.8,
+331.0,
+-41468.0
+],
+"orientation": [
+0.0,
+-68.9,
+0.0
+],
+"size": [
+269.6,
+58.5,
+235.7
+],
+"unit": [
+98.61,
+21.397,
+-86.211
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_042",
+"props": {
+"meshId": "44753200",
+"position": [
+-28979.5,
+200.2,
+-41851.1
+],
+"orientation": [
+0.0,
+-59.06,
+0.0
+],
+"size": [
+171.6,
+37.2,
+150.0
+],
+"unit": [
+98.621,
+21.379,
+-86.207
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_043",
+"props": {
+"meshId": "44753200",
+"position": [
+-28797.8,
+-30.5,
+-43265.0
+],
+"orientation": [
+0.0,
+-127.14,
+0.0
+],
+"size": [
+237.0,
+51.4,
+207.2
+],
+"unit": [
+98.586,
+21.381,
+-86.19
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_044",
+"props": {
+"meshId": "44753200",
+"position": [
+-28993.4,
+-24.3,
+-43664.1
+],
+"orientation": [
+0.0,
+66.89,
+0.0
+],
+"size": [
+235.9,
+51.2,
+206.2
+],
+"unit": [
+98.62,
+21.405,
+-86.204
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_045",
+"props": {
+"meshId": "44753200",
+"position": [
+-28200.5,
+-40.3,
+-35990.3
+],
+"orientation": [
+0.0,
+61.71,
+0.0
+],
+"size": [
+162.7,
+35.3,
+142.2
+],
+"unit": [
+98.606,
+21.394,
+-86.182
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_046",
+"props": {
+"meshId": "44753200",
+"position": [
+-27414.7,
+-57.1,
+-35228.4
+],
+"orientation": [
+0.0,
+106.43,
+0.0
+],
+"size": [
+237.8,
+51.6,
+207.9
+],
+"unit": [
+98.59,
+21.393,
+-86.194
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_047",
+"props": {
+"meshId": "44753200",
+"position": [
+-27795.7,
+-44.3,
+-35954.3
+],
+"orientation": [
+0.0,
+-7.19,
+0.0
+],
+"size": [
+174.1,
+37.8,
+152.2
+],
+"unit": [
+98.584,
+21.404,
+-86.183
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_048",
+"props": {
+"meshId": "44753200",
+"position": [
+-25453.5,
+-82.2,
+-35258.6
+],
+"orientation": [
+0.0,
+-143.56,
+0.0
+],
+"size": [
+167.8,
+36.4,
+146.7
+],
+"unit": [
+98.59,
+21.387,
+-86.193
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_049",
+"props": {
+"meshId": "44753200",
+"position": [
+-25285.9,
+172.4,
+-42884.7
+],
+"orientation": [
+0.0,
+146.87,
+0.0
+],
+"size": [
+179.3,
+38.9,
+156.7
+],
+"unit": [
+98.625,
+21.397,
+-86.194
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_050",
+"props": {
+"meshId": "44753200",
+"position": [
+-24991.4,
+35.4,
+-42487.6
+],
+"orientation": [
+0.0,
+59.4,
+0.0
+],
+"size": [
+218.5,
+47.4,
+191.0
+],
+"unit": [
+98.601,
+21.39,
+-86.191
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_051",
+"props": {
+"meshId": "44753200",
+"position": [
+-24387.1,
+-73.0,
+-41980.2
+],
+"orientation": [
+0.0,
+115.18,
+0.0
+],
+"size": [
+188.7,
+41.0,
+165.0
+],
+"unit": [
+98.589,
+21.421,
+-86.207
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_052",
+"props": {
+"meshId": "44753200",
+"position": [
+-24049.5,
+-115.6,
+-35868.6
+],
+"orientation": [
+0.0,
+-132.25,
+0.0
+],
+"size": [
+243.3,
+52.8,
+212.7
+],
+"unit": [
+98.582,
+21.394,
+-86.183
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_053",
+"props": {
+"meshId": "44753200",
+"position": [
+-23811.8,
+-129.4,
+-36564.9
+],
+"orientation": [
+0.0,
+166.36,
+0.0
+],
+"size": [
+218.5,
+47.4,
+191.0
+],
+"unit": [
+98.601,
+21.39,
+-86.191
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Fern_054",
+"props": {
+"meshId": "44753200",
+"position": [
+-23870.9,
+-123.0,
+-38005.4
+],
+"orientation": [
+0.0,
+111.55,
+0.0
+],
+"size": [
+190.3,
+41.3,
+166.4
+],
+"unit": [
+98.601,
+21.399,
+-86.218
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44753100",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_001",
+"props": {
+"meshId": "44751200",
+"position": [
+-37775.4,
+184.4,
+-35213.3
+],
+"orientation": [
+0.0,
+-138.38,
+0.0
+],
+"size": [
+140.2,
+145.0,
+106.1
+],
+"unit": [
+74.416,
+76.964,
+-56.316
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_002",
+"props": {
+"meshId": "44751200",
+"position": [
+-37677.9,
+217.1,
+-38616.2
+],
+"orientation": [
+0.0,
+1.79,
+0.0
+],
+"size": [
+194.2,
+200.8,
+146.9
+],
+"unit": [
+74.406,
+76.935,
+-56.284
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_003",
+"props": {
+"meshId": "44751200",
+"position": [
+-37860.5,
+200.6,
+-41898.3
+],
+"orientation": [
+0.0,
+-174.96,
+0.0
+],
+"size": [
+189.7,
+196.2,
+143.6
+],
+"unit": [
+74.392,
+76.941,
+-56.314
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_004",
+"props": {
+"meshId": "44751200",
+"position": [
+-37677.4,
+180.3,
+-44113.0
+],
+"orientation": [
+0.0,
+89.14,
+0.0
+],
+"size": [
+146.9,
+151.9,
+111.1
+],
+"unit": [
+74.417,
+76.95,
+-56.282
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_005",
+"props": {
+"meshId": "44751200",
+"position": [
+-37625.9,
+197.1,
+-34556.7
+],
+"orientation": [
+0.0,
+-131.45,
+0.0
+],
+"size": [
+217.7,
+225.2,
+164.7
+],
+"unit": [
+74.402,
+76.965,
+-56.288
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_006",
+"props": {
+"meshId": "44751200",
+"position": [
+-37037.4,
+193.4,
+-35747.2
+],
+"orientation": [
+0.0,
+-37.23,
+0.0
+],
+"size": [
+207.3,
+214.4,
+156.9
+],
+"unit": [
+74.408,
+76.956,
+-56.317
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_007",
+"props": {
+"meshId": "44751200",
+"position": [
+-37189.6,
+174.5,
+-35947.8
+],
+"orientation": [
+0.0,
+-33.74,
+0.0
+],
+"size": [
+142.6,
+147.4,
+107.9
+],
+"unit": [
+74.426,
+76.931,
+-56.315
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_008",
+"props": {
+"meshId": "44751200",
+"position": [
+-37035.3,
+174.1,
+-36624.4
+],
+"orientation": [
+0.0,
+66.06,
+0.0
+],
+"size": [
+142.3,
+147.1,
+107.6
+],
+"unit": [
+74.425,
+76.935,
+-56.276
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_009",
+"props": {
+"meshId": "44751200",
+"position": [
+-37058.2,
+190.0,
+-37472.2
+],
+"orientation": [
+0.0,
+-114.27,
+0.0
+],
+"size": [
+168.6,
+174.4,
+127.6
+],
+"unit": [
+74.404,
+76.964,
+-56.311
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_010",
+"props": {
+"meshId": "44751200",
+"position": [
+-37378.8,
+193.3,
+-38167.1
+],
+"orientation": [
+0.0,
+128.77,
+0.0
+],
+"size": [
+146.9,
+151.9,
+111.1
+],
+"unit": [
+74.417,
+76.95,
+-56.282
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_011",
+"props": {
+"meshId": "44751200",
+"position": [
+-37644.8,
+199.1,
+-41288.5
+],
+"orientation": [
+0.0,
+-114.87,
+0.0
+],
+"size": [
+205.9,
+213.0,
+155.8
+],
+"unit": [
+74.386,
+76.951,
+-56.286
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_012",
+"props": {
+"meshId": "44751200",
+"position": [
+-37110.6,
+197.6,
+-41476.1
+],
+"orientation": [
+0.0,
+-92.63,
+0.0
+],
+"size": [
+196.1,
+202.8,
+148.4
+],
+"unit": [
+74.393,
+76.935,
+-56.297
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_013",
+"props": {
+"meshId": "44751200",
+"position": [
+-37523.4,
+194.3,
+-43098.4
+],
+"orientation": [
+0.0,
+-138.06,
+0.0
+],
+"size": [
+170.7,
+176.5,
+129.2
+],
+"unit": [
+74.412,
+76.94,
+-56.321
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_014",
+"props": {
+"meshId": "44751200",
+"position": [
+-37027.0,
+184.7,
+-43641.4
+],
+"orientation": [
+0.0,
+89.9,
+0.0
+],
+"size": [
+172.8,
+178.7,
+130.7
+],
+"unit": [
+74.419,
+76.96,
+-56.288
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_015",
+"props": {
+"meshId": "44751200",
+"position": [
+-37457.3,
+178.1,
+-45047.0
+],
+"orientation": [
+0.0,
+-100.26,
+0.0
+],
+"size": [
+135.1,
+139.7,
+102.2
+],
+"unit": [
+74.394,
+76.927,
+-56.278
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_016",
+"props": {
+"meshId": "44751200",
+"position": [
+-36796.1,
+195.5,
+-34203.3
+],
+"orientation": [
+0.0,
+34.28,
+0.0
+],
+"size": [
+206.8,
+213.9,
+156.5
+],
+"unit": [
+74.388,
+76.942,
+-56.295
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_017",
+"props": {
+"meshId": "44751200",
+"position": [
+-36545.6,
+180.9,
+-34769.2
+],
+"orientation": [
+0.0,
+-35.48,
+0.0
+],
+"size": [
+184.5,
+190.8,
+139.6
+],
+"unit": [
+74.395,
+76.935,
+-56.29
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_018",
+"props": {
+"meshId": "44751200",
+"position": [
+-36618.4,
+162.6,
+-35737.6
+],
+"orientation": [
+0.0,
+28.88,
+0.0
+],
+"size": [
+138.8,
+143.6,
+105.1
+],
+"unit": [
+74.384,
+76.956,
+-56.324
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_019",
+"props": {
+"meshId": "44751200",
+"position": [
+-36690.3,
+168.1,
+-36713.6
+],
+"orientation": [
+0.0,
+-144.73,
+0.0
+],
+"size": [
+142.7,
+147.6,
+108.0
+],
+"unit": [
+74.4,
+76.955,
+-56.309
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Sapling_020",
+"props": {
+"meshId": "44751200",
+"position": [
+-36810.7,
+170.1,
+-37914.3
+],
+"orientation": [
+0.0,
+72.74,
+0.0
+],
+"size": [
+153.0,
+158.2,
+115.8
+],
+"unit": [
+74.416,
+76.946,
+-56.323
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747700",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_001",
+"props": {
+"meshId": "44748700",
+"position": [
+-37841.3,
+289.4,
+-34055.2
+],
+"orientation": [
+0.0,
+136.06,
+0.0
+],
+"size": [
+305.6,
+434.4,
+320.8
+],
+"unit": [
+153.106,
+217.635,
+-160.721
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_002",
+"props": {
+"meshId": "44748700",
+"position": [
+-37793.4,
+307.4,
+-34451.1
+],
+"orientation": [
+0.0,
+36.52,
+0.0
+],
+"size": [
+315.7,
+448.8,
+331.4
+],
+"unit": [
+153.104,
+217.653,
+-160.718
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_003",
+"props": {
+"meshId": "44748700",
+"position": [
+-37866.2,
+357.6,
+-35850.5
+],
+"orientation": [
+0.0,
+-177.07,
+0.0
+],
+"size": [
+345.7,
+491.5,
+362.9
+],
+"unit": [
+153.1,
+217.671,
+-160.717
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_004",
+"props": {
+"meshId": "44748700",
+"position": [
+-37778.5,
+348.1,
+-37205.5
+],
+"orientation": [
+0.0,
+-144.74,
+0.0
+],
+"size": [
+332.5,
+472.7,
+349.0
+],
+"unit": [
+153.085,
+217.634,
+-160.681
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_005",
+"props": {
+"meshId": "44748700",
+"position": [
+-37821.3,
+345.8,
+-42939.7
+],
+"orientation": [
+0.0,
+40.59,
+0.0
+],
+"size": [
+335.6,
+477.1,
+352.3
+],
+"unit": [
+153.102,
+217.655,
+-160.721
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_006",
+"props": {
+"meshId": "44748700",
+"position": [
+-37206.9,
+372.7,
+-34325.3
+],
+"orientation": [
+0.0,
+90.42,
+0.0
+],
+"size": [
+395.0,
+561.5,
+414.6
+],
+"unit": [
+153.101,
+217.636,
+-160.698
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_007",
+"props": {
+"meshId": "44748700",
+"position": [
+-37040.7,
+301.8,
+-34374.1
+],
+"orientation": [
+0.0,
+-157.1,
+0.0
+],
+"size": [
+292.1,
+415.3,
+306.6
+],
+"unit": [
+153.092,
+217.662,
+-160.692
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_008",
+"props": {
+"meshId": "44748700",
+"position": [
+-37079.0,
+320.9,
+-36210.4
+],
+"orientation": [
+0.0,
+-128.53,
+0.0
+],
+"size": [
+325.5,
+462.7,
+341.6
+],
+"unit": [
+153.104,
+217.639,
+-160.677
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_009",
+"props": {
+"meshId": "44748700",
+"position": [
+-37496.4,
+358.4,
+-37064.7
+],
+"orientation": [
+0.0,
+67.36,
+0.0
+],
+"size": [
+359.2,
+510.6,
+377.0
+],
+"unit": [
+153.112,
+217.647,
+-160.699
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_010",
+"props": {
+"meshId": "44748700",
+"position": [
+-37067.6,
+309.2,
+-37741.8
+],
+"orientation": [
+0.0,
+18.51,
+0.0
+],
+"size": [
+297.9,
+423.5,
+312.7
+],
+"unit": [
+153.083,
+217.626,
+-160.689
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_011",
+"props": {
+"meshId": "44748700",
+"position": [
+-36969.5,
+359.6,
+-38121.2
+],
+"orientation": [
+0.0,
+-177.83,
+0.0
+],
+"size": [
+380.6,
+541.1,
+399.5
+],
+"unit": [
+153.097,
+217.659,
+-160.7
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_012",
+"props": {
+"meshId": "44748700",
+"position": [
+-37369.5,
+319.6,
+-41889.4
+],
+"orientation": [
+0.0,
+-152.79,
+0.0
+],
+"size": [
+305.3,
+434.0,
+320.4
+],
+"unit": [
+153.109,
+217.653,
+-160.682
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_013",
+"props": {
+"meshId": "44748700",
+"position": [
+-37010.3,
+329.3,
+-42189.6
+],
+"orientation": [
+0.0,
+82.37,
+0.0
+],
+"size": [
+327.6,
+465.8,
+343.9
+],
+"unit": [
+153.084,
+217.664,
+-160.701
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_014",
+"props": {
+"meshId": "44748700",
+"position": [
+-37573.6,
+310.9,
+-42876.6
+],
+"orientation": [
+0.0,
+-65.6,
+0.0
+],
+"size": [
+290.0,
+412.2,
+304.4
+],
+"unit": [
+153.115,
+217.635,
+-160.718
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_015",
+"props": {
+"meshId": "44748700",
+"position": [
+-37468.3,
+355.3,
+-44073.0
+],
+"orientation": [
+0.0,
+-19.65,
+0.0
+],
+"size": [
+367.4,
+522.4,
+385.7
+],
+"unit": [
+153.083,
+217.667,
+-160.708
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_016",
+"props": {
+"meshId": "44748700",
+"position": [
+-37270.2,
+294.0,
+-44416.0
+],
+"orientation": [
+0.0,
+135.2,
+0.0
+],
+"size": [
+279.6,
+397.4,
+293.4
+],
+"unit": [
+153.122,
+217.634,
+-160.679
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_017",
+"props": {
+"meshId": "44748700",
+"position": [
+-37142.7,
+314.3,
+-45042.7
+],
+"orientation": [
+0.0,
+-99.68,
+0.0
+],
+"size": [
+302.8,
+430.5,
+317.9
+],
+"unit": [
+153.084,
+217.644,
+-160.718
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_018",
+"props": {
+"meshId": "44748700",
+"position": [
+-36711.6,
+318.0,
+-34754.4
+],
+"orientation": [
+0.0,
+-179.61,
+0.0
+],
+"size": [
+324.9,
+461.9,
+341.0
+],
+"unit": [
+153.11,
+217.672,
+-160.697
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_019",
+"props": {
+"meshId": "44748700",
+"position": [
+-36460.6,
+281.0,
+-36709.7
+],
+"orientation": [
+0.0,
+-151.06,
+0.0
+],
+"size": [
+287.5,
+408.7,
+301.8
+],
+"unit": [
+153.088,
+217.625,
+-160.703
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_020",
+"props": {
+"meshId": "44748700",
+"position": [
+-36627.5,
+313.2,
+-37534.4
+],
+"orientation": [
+0.0,
+126.29,
+0.0
+],
+"size": [
+331.9,
+471.9,
+348.4
+],
+"unit": [
+153.09,
+217.666,
+-160.701
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_021",
+"props": {
+"meshId": "44748700",
+"position": [
+-36488.9,
+321.5,
+-37989.3
+],
+"orientation": [
+0.0,
+-171.75,
+0.0
+],
+"size": [
+361.6,
+514.1,
+379.6
+],
+"unit": [
+153.091,
+217.655,
+-160.711
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_022",
+"props": {
+"meshId": "44748700",
+"position": [
+-36443.3,
+349.0,
+-41784.5
+],
+"orientation": [
+0.0,
+-127.16,
+0.0
+],
+"size": [
+373.6,
+531.1,
+392.1
+],
+"unit": [
+153.115,
+217.664,
+-160.697
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_023",
+"props": {
+"meshId": "44748700",
+"position": [
+-36858.0,
+365.6,
+-43665.5
+],
+"orientation": [
+0.0,
+70.05,
+0.0
+],
+"size": [
+385.2,
+547.6,
+404.3
+],
+"unit": [
+153.1,
+217.647,
+-160.692
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_024",
+"props": {
+"meshId": "44748700",
+"position": [
+-36333.7,
+307.6,
+-44772.7
+],
+"orientation": [
+0.0,
+135.07,
+0.0
+],
+"size": [
+324.6,
+461.4,
+340.7
+],
+"unit": [
+153.113,
+217.642,
+-160.708
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_025",
+"props": {
+"meshId": "44748700",
+"position": [
+-36449.9,
+341.5,
+-44899.9
+],
+"orientation": [
+0.0,
+-14.12,
+0.0
+],
+"size": [
+369.0,
+524.5,
+387.3
+],
+"unit": [
+153.112,
+217.635,
+-160.705
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_026",
+"props": {
+"meshId": "44748700",
+"position": [
+-36569.0,
+298.7,
+-45661.1
+],
+"orientation": [
+0.0,
+94.28,
+0.0
+],
+"size": [
+321.8,
+457.5,
+337.8
+],
+"unit": [
+153.092,
+217.65,
+-160.704
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_027",
+"props": {
+"meshId": "44748700",
+"position": [
+-36033.7,
+306.1,
+-34802.4
+],
+"orientation": [
+0.0,
+90.5,
+0.0
+],
+"size": [
+320.3,
+455.3,
+336.2
+],
+"unit": [
+153.107,
+217.639,
+-160.707
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_028",
+"props": {
+"meshId": "44748700",
+"position": [
+-35656.5,
+314.2,
+-35409.3
+],
+"orientation": [
+0.0,
+67.58,
+0.0
+],
+"size": [
+361.6,
+514.1,
+379.6
+],
+"unit": [
+153.091,
+217.655,
+-160.711
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_029",
+"props": {
+"meshId": "44748700",
+"position": [
+-35746.8,
+334.3,
+-35777.3
+],
+"orientation": [
+0.0,
+145.66,
+0.0
+],
+"size": [
+381.8,
+542.8,
+400.8
+],
+"unit": [
+153.087,
+217.642,
+-160.706
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_SmallPine_030",
+"props": {
+"meshId": "44748700",
+"position": [
+-35740.5,
+259.0,
+-37577.7
+],
+"orientation": [
+0.0,
+35.83,
+0.0
+],
+"size": [
+298.9,
+424.9,
+313.7
+],
+"unit": [
+153.125,
+217.674,
+-160.707
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44747400",
+"DoubleSided": true
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_001",
+"props": {
+"meshId": "44714600",
+"position": [
+-37722.9,
+130.4,
+-40437.1
+],
+"orientation": [
+0.0,
+119.14,
+0.0
+],
+"size": [
+139.9,
+56.2,
+156.0
+],
+"unit": [
+71.305,
+28.644,
+-79.511
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_002",
+"props": {
+"meshId": "44714600",
+"position": [
+-36886.6,
+127.6,
+-34789.0
+],
+"orientation": [
+0.0,
+157.89,
+0.0
+],
+"size": [
+185.1,
+74.4,
+206.4
+],
+"unit": [
+71.302,
+28.659,
+-79.507
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_003",
+"props": {
+"meshId": "44714600",
+"position": [
+-35905.7,
+191.9,
+-36364.9
+],
+"orientation": [
+0.0,
+115.77,
+0.0
+],
+"size": [
+176.7,
+71.0,
+197.0
+],
+"unit": [
+71.308,
+28.652,
+-79.5
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_004",
+"props": {
+"meshId": "44714600",
+"position": [
+-36904.5,
+126.9,
+-37700.2
+],
+"orientation": [
+0.0,
+-145.33,
+0.0
+],
+"size": [
+148.2,
+59.5,
+165.2
+],
+"unit": [
+71.319,
+28.633,
+-79.5
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_005",
+"props": {
+"meshId": "44714600",
+"position": [
+-37234.3,
+136.2,
+-45181.4
+],
+"orientation": [
+0.0,
+73.99,
+0.0
+],
+"size": [
+184.5,
+74.1,
+205.7
+],
+"unit": [
+71.291,
+28.632,
+-79.482
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_006",
+"props": {
+"meshId": "44714600",
+"position": [
+-35061.6,
+84.4,
+-34701.5
+],
+"orientation": [
+0.0,
+24.06,
+0.0
+],
+"size": [
+133.2,
+53.5,
+148.5
+],
+"unit": [
+71.306,
+28.64,
+-79.497
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_007",
+"props": {
+"meshId": "44714600",
+"position": [
+-34504.4,
+409.9,
+-38565.7
+],
+"orientation": [
+0.0,
+-58.52,
+0.0
+],
+"size": [
+128.8,
+51.7,
+143.6
+],
+"unit": [
+71.318,
+28.627,
+-79.513
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Und_Stump_008",
+"props": {
+"meshId": "44714600",
+"position": [
+-35072.9,
+90.6,
+-41491.1
+],
+"orientation": [
+0.0,
+11.4,
+0.0
+],
+"size": [
+159.0,
+63.9,
+177.3
+],
+"unit": [
+71.3,
+28.655,
+-79.507
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": false,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44742200",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Wall9_-34_46",
+"props": {
+"meshId": "44713800",
+"position": [
+-33399.8,
+137.2,
+-44599.9
+],
+"orientation": [
+0.0,
+160.0,
+0.0
+],
+"size": [
+900.5,
+198.2,
+47.8
+],
+"unit": [
+450.25,
+99.1,
+-23.9
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735600",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Wall9_-40_-30",
+"props": {
+"meshId": "44713800",
+"position": [
+-33999.9,
+188.9,
+-37000.2
+],
+"orientation": [
+0.0,
+-110.0,
+0.0
+],
+"size": [
+900.5,
+198.2,
+47.8
+],
+"unit": [
+450.25,
+99.1,
+-23.9
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735600",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Wall9_34_-46",
+"props": {
+"meshId": "44713800",
+"position": [
+-26599.8,
+19.9,
+-35399.9
+],
+"orientation": [
+0.0,
+160.0,
+0.0
+],
+"size": [
+900.5,
+198.2,
+47.8
+],
+"unit": [
+450.25,
+99.1,
+-23.9
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735600",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_Wall9_40_30",
+"props": {
+"meshId": "44713800",
+"position": [
+-25999.9,
+55.5,
+-43000.2
+],
+"orientation": [
+0.0,
+-110.0,
+0.0
+],
+"size": [
+900.5,
+198.2,
+47.8
+],
+"unit": [
+450.25,
+99.1,
+-23.9
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735600",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_WallL_-6_-27",
+"props": {
+"meshId": "44713700",
+"position": [
+-30600.0,
+119.9,
+-37300.2
+],
+"orientation": [
+0.0,
+-180.0,
+0.0
+],
+"size": [
+587.7,
+198.0,
+384.5
+],
+"unit": [
+293.85,
+99.0,
+-192.25
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735700",
+"DoubleSided": false
+}
+}
+},
+{
+"className": "MeshPart",
+"name": "SGK_WallL_6_27",
+"props": {
+"meshId": "44713700",
+"position": [
+-29400.0,
+98.7,
+-42700.2
+],
+"orientation": [
+0.0,
+-180.0,
+0.0
+],
+"size": [
+587.7,
+198.0,
+384.5
+],
+"unit": [
+293.85,
+99.0,
+-192.25
+],
+"anchored": true,
+"mobility": "Static",
+"castShadow": true,
+"canCollide": false,
+"canQuery": false,
+"raw": {
+"TextureId": "44735700",
+"DoubleSided": false
+}
+}
+}
+]
