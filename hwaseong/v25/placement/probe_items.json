@@ -1,0 +1,152 @@
+[
+ {
+  "className": "MeshPart",
+  "name": "PROBE_HWS_TER_11",
+  "props": {
+   "meshId": "44987100",
+   "position": [
+    -62000.0,
+    0.0,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    1.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "44984100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "PROBE_HWS_JAM_05_MI_T_CW_003_001",
+  "props": {
+   "meshId": "45004400",
+   "position": [
+    -58192.4,
+    335.7,
+    -121.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    16390.2,
+    781.8,
+    6052.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "45002100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "PROBE_HWS_WALL_E_00",
+  "props": {
+   "meshId": "44988100",
+   "position": [
+    -54716.7,
+    199.2,
+    -2800.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "44994100"
+   }
+  }
+ },
+ {
+  "className": "Part",
+  "name": "PROBE_COL_HWS_0012",
+  "props": {
+   "position": [
+    -66799.9,
+    -94.0,
+    5800.2
+   ],
+   "size": [
+    800.0,
+    100.0,
+    800.0
+   ],
+   "orientation": [
+    -0.259,
+    0.0,
+    0.07
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   }
+  }
+ },
+ {
+  "className": "Part",
+  "name": "PROBE_COL_HWS_0044",
+  "props": {
+   "position": [
+    -67403.3,
+    -26.0,
+    -2000.6
+   ],
+   "size": [
+    400.0,
+    100.0,
+    400.0
+   ],
+   "orientation": [
+    0.646,
+    0.0,
+    -3.806
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   }
+  }
+ }
+]
