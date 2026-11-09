@@ -9,6 +9,7 @@
 | 조선 산곡 1세대 (JSN_Sangok) | 2026-09-07 레벨에서 내림. 기록용 | 260 × 260 m, 3,396 인스턴스 — [`sangok/`](sangok/) |
 | **경복궁 (GY)** | 임포트 완료 → 성능 사유로 `ServerStorage` 대기 | 253 인스턴스 (MeshPart 205) |
 | **창덕궁 (CDG)** | Blender 단계. 원본 실측·감축 정책 확정 | 원본 25.4 M 트라이앵글 → 목표 1.2 M |
+| **수원 화성 (HS)** | 반입 완료 → 성능 사유로 `ServerStorage` 대기 | 372 × 384 m, MeshPart 189 — [`hwaseong/`](hwaseong/) |
 | **소쇄원 (SSW)** | 블록아웃 | — |
 
 ---
@@ -54,6 +55,26 @@
 측정값과 함정은 [`docs/SOURCE_FACTS.md`](changdeokgung/docs/SOURCE_FACTS.md)에 전부 정리했다.
 
 원본 스캔(20 GB)과 중간 산물은 이 리포에 포함하지 않는다 — 국가유산청에서 직접 받을 수 있다.
+
+## 수원 화성
+
+장안문 문루·성벽·홍이포와 그 주변 한옥 마을. 지면은 AWS Terrain Tiles 실제 표고로
+기복을 줬고(12 m 격자, 기복 7.9 m), 도로·건물은 같은 해석식(`dem.surface_at`)을 불러
+앉혀서 격자와 어긋나 땅에 잠기는 일이 없게 했다.
+
+**맵마다 좌표 규약이 다르다는 걸 여기서 비싸게 배웠다.** 화성은 익스포터가
+`matrix_world` 를 메시 정점에 굽기 때문에 `Orientation` 이 **항상 0** 이어야 하는데,
+산곡 레시피의 Y 180° 보정이 189개 전부에 들어가 건물이 통째로 폐가처럼 부서졌다.
+위치도 크기도 완벽했는데 회전 하나로 그렇게 된다.
+
+그 밖에 데시메이트 ratio(0.45 는 멀쩡·0.30 은 갈림), 색보정 노드가 FBX diffuse 를
+통째로 날리는 건, 메시 분할이 머티리얼 슬롯을 버려 279개 중 235개가 무텍스처로
+나간 건 — 전부 [`hwaseong/docs/IMPORT_SPEC.md`](hwaseong/docs/IMPORT_SPEC.md) §8 에 있다.
+
+검사 도구 넷은 [`hwaseong/tools/`](hwaseong/tools) 에 있다. 텍스처 → 치수 → 위상 →
+배치 순으로 돌리면 어느 구간이 범인인지 갈린다.
+
+팔달문 권역 시가지 배치는 별도 작업이다 — [`docs/plans/hwaseong-paldalmun-layout.md`](docs/plans/hwaseong-paldalmun-layout.md).
 
 ## 소쇄원
 
