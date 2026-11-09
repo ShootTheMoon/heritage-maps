@@ -1,0 +1,3710 @@
+[
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_00_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45033200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57994.7,
+    1236.7,
+    -278.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2952.0,
+    239.8,
+    1448.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_01_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45035100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57991.2,
+    1610.8,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2956.9,
+    984.6,
+    1476.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_02_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45032200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    1233.7,
+    -800.1
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2939.6,
+    230.4,
+    451.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_03_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45033300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    1594.9,
+    -328.1
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2941.4,
+    952.8,
+    1392.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_04_MI_T_CW_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45033400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58116.2,
+    629.6,
+    -1090.8
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    16223.7,
+    135.0,
+    4086.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_05_MI_T_CW_003_001",
+  "props": {
+   "meshId": "ovdrassetid://45033500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58192.4,
+    335.7,
+    -121.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    16390.2,
+    781.8,
+    6052.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_06_MI_T_Ridge",
+  "props": {
+   "meshId": "ovdrassetid://45033600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.4,
+    1638.9,
+    -291.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2918.2,
+    973.8,
+    1432.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_07_MI_T_Cannon",
+  "props": {
+   "meshId": "ovdrassetid://45031500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58027.2,
+    757.1,
+    1455.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    14153.7,
+    156.6,
+    472.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_08_MI_T_CW_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45031600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58135.2,
+    316.4,
+    -549.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    16295.4,
+    720.8,
+    5195.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_09_MI_T_GH_Wall",
+  "props": {
+   "meshId": "ovdrassetid://45033700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1363.1,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2042.9,
+    188.5,
+    562.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_10_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45034200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58045.2,
+    1435.2,
+    -289.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2454.9,
+    984.1,
+    1052.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_11_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45032300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58043.7,
+    1416.8,
+    -291.1
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2443.8,
+    929.0,
+    1053.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_12_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45032400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58041.0,
+    1362.5,
+    -293.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2449.2,
+    820.5,
+    1058.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_13_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45034300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57918.8,
+    1435.2,
+    -293.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2379.4,
+    984.1,
+    1058.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_14_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45029200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57958.2,
+    1361.9,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2458.2,
+    819.2,
+    1051.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_15_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45035200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58043.7,
+    1439.8,
+    -287.6
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2457.8,
+    975.0,
+    1060.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_16_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45029300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58001.3,
+    1358.0,
+    -289.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2531.6,
+    829.6,
+    1052.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_17_MI_T_ComplexBracket",
+  "props": {
+   "meshId": "ovdrassetid://45035300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58030.6,
+    1439.8,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2431.5,
+    975.0,
+    1051.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_18_MI_T_Floor",
+  "props": {
+   "meshId": "ovdrassetid://45035400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.9,
+    1246.9,
+    -292.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2152.8,
+    962.7,
+    781.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45031100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_19_MI_T_Fortification_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45035500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58090.3,
+    369.5,
+    -576.6
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    16192.9,
+    746.0,
+    5113.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_20_MI_T_Pedestal",
+  "props": {
+   "meshId": "ovdrassetid://45034400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.7,
+    715.1,
+    -291.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2352.2,
+    93.8,
+    884.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45031200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_21_MI_T_GH_Parapet_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45034500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58011.3,
+    705.8,
+    -265.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4141.4,
+    477.5,
+    1361.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_22_MI_T_B_Parapet_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45032600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58006.7,
+    724.5,
+    938.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4141.1,
+    440.7,
+    3762.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45032100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_23_MI_T_WoodStair",
+  "props": {
+   "meshId": "ovdrassetid://45032500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58146.6,
+    1056.8,
+    -276.1
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    1784.8,
+    645.0,
+    566.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45033100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_24_MI_T_Column",
+  "props": {
+   "meshId": "ovdrassetid://45034600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1216.2,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2282.5,
+    1101.4,
+    807.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030700"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_25_MI_T_Rafter",
+  "props": {
+   "meshId": "ovdrassetid://45032700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1552.8,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2961.1,
+    929.0,
+    1481.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45031300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_26_MI_T_SideDoor",
+  "props": {
+   "meshId": "ovdrassetid://45032800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58007.2,
+    921.7,
+    -603.6
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2859.9,
+    360.0,
+    259.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45031400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_27_MI_T_PurlinSupport",
+  "props": {
+   "meshId": "ovdrassetid://45031700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1493.2,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2444.3,
+    821.9,
+    977.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45030800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_28_MI_T_RoofStatue",
+  "props": {
+   "meshId": "ovdrassetid://45045200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1687.0,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    3034.1,
+    1042.6,
+    1554.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_29_MI_T_Heartwood",
+  "props": {
+   "meshId": "ovdrassetid://45044500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1547.5,
+    -290.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2897.1,
+    842.7,
+    1404.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45041100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_30_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45044600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57987.6,
+    1877.6,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2783.4,
+    408.1,
+    1321.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_31_MI_T_Crossbeam",
+  "props": {
+   "meshId": "ovdrassetid://45040800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.5,
+    1398.2,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2421.8,
+    821.5,
+    944.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_32_MI_T_Lintel",
+  "props": {
+   "meshId": "ovdrassetid://45043600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1392.5,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2266.9,
+    896.4,
+    792.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_33_MI_T_RoofBoard",
+  "props": {
+   "meshId": "ovdrassetid://45043700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1539.6,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2924.5,
+    871.8,
+    1434.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_34_MI_Flag_01_001",
+  "props": {
+   "meshId": "ovdrassetid://45045300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58331.4,
+    827.1,
+    -38.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    15275.0,
+    653.5,
+    4721.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_35_MI_Flag_01_001",
+  "props": {
+   "meshId": "ovdrassetid://45040900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62414.0,
+    768.7,
+    488.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    5633.2,
+    536.8,
+    2684.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_36_MI_T_B_Parapet_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45041000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58005.1,
+    592.6,
+    941.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4121.2,
+    626.1,
+    3748.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45042200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_37_MI_T_B_GateHouse_004_001",
+  "props": {
+   "meshId": "ovdrassetid://45041200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57975.4,
+    791.0,
+    2546.8
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    770.8,
+    268.5,
+    331.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45042100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_38_MI_T_RammedEarth",
+  "props": {
+   "meshId": "ovdrassetid://45041300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1574.3,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2894.5,
+    886.5,
+    1403.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45043100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_39_MI_T_G_Stair_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45045400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58002.6,
+    387.6,
+    -299.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4874.8,
+    782.1,
+    1301.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45043200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_40_MI_T_Purlin",
+  "props": {
+   "meshId": "ovdrassetid://45044700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.4,
+    1534.9,
+    -290.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2445.9,
+    811.3,
+    978.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45042300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_41_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45045500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.6,
+    1872.9,
+    -619.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2756.9,
+    400.3,
+    657.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_42_MI_T_Ceiling",
+  "props": {
+   "meshId": "ovdrassetid://45042400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.8,
+    1783.6,
+    -290.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    1676.5,
+    8.6,
+    205.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45043300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_43_MI_T_B_CastleWall_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45042500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58013.0,
+    638.6,
+    1554.1
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    14685.8,
+    339.3,
+    2513.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45044100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_44_MI_T_GateGuardPost_001",
+  "props": {
+   "meshId": "ovdrassetid://45044800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58014.3,
+    820.5,
+    1272.6
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    14702.3,
+    35.6,
+    1442.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45043400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_45_MI_T_Fortification_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45045600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57999.6,
+    364.7,
+    931.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4846.0,
+    736.2,
+    3738.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45044200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_48_MI_T_B_GateHouse_003_001",
+  "props": {
+   "meshId": "ovdrassetid://45044900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57977.1,
+    985.2,
+    2544.9
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    787.7,
+    165.8,
+    363.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_49_MI_T_G_Stair_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45045000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58003.2,
+    360.9,
+    -299.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4987.2,
+    728.5,
+    1396.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_50_MI_T_B_ArchDoor_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45042600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58020.3,
+    651.1,
+    309.8
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    3922.2,
+    309.0,
+    197.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45043500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_51_MI_T_CW_004_001",
+  "props": {
+   "meshId": "ovdrassetid://45042700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58012.6,
+    761.5,
+    1357.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    14684.9,
+    34.0,
+    1259.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_52_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45045700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58005.7,
+    1689.9,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2767.1,
+    762.8,
+    1316.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_53_MI_T_B_GateHouse_002_001",
+  "props": {
+   "meshId": "ovdrassetid://45043800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57977.1,
+    999.1,
+    2544.8
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    1018.1,
+    168.1,
+    582.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040700"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_54_MI_T_Note",
+  "props": {
+   "meshId": "ovdrassetid://45042800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57997.3,
+    1493.0,
+    -541.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    147.5,
+    64.8,
+    5.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_55_MI_T_B_CastleWall_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45045800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58005.9,
+    350.7,
+    1553.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4121.6,
+    708.0,
+    2515.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_56_MI_T_B_Floor_001",
+  "props": {
+   "meshId": "ovdrassetid://45043900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58004.8,
+    570.4,
+    1501.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    3948.1,
+    176.4,
+    2411.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_57_MI_T_G_RoofBoard_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45045900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58007.8,
+    658.5,
+    -325.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    539.8,
+    12.5,
+    939.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039700"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_58_MI_T_B_GateHouse_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45042900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57977.1,
+    1064.8,
+    2544.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    1038.9,
+    249.9,
+    601.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_59_MI_T_G_Arch_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45044000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58002.8,
+    327.8,
+    -299.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    767.3,
+    662.4,
+    1302.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45039900"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_60_MI_T_B_RoofBoard_001_001",
+  "props": {
+   "meshId": "ovdrassetid://45046200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57970.9,
+    477.3,
+    2556.6
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    668.2,
+    395.4,
+    511.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45044300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_61_MI_T_B_Arch_001",
+  "props": {
+   "meshId": "ovdrassetid://45043000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57970.9,
+    335.8,
+    2545.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    868.0,
+    678.4,
+    517.8
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45044400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_62_MI_T_Signboard_002",
+  "props": {
+   "meshId": "ovdrassetid://45046100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58016.6,
+    1584.0,
+    133.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    422.7,
+    141.2,
+    117.6
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45040000"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_63_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45046000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58010.8,
+    1872.9,
+    39.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2756.9,
+    400.3,
+    657.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_64_WorldGridMaterial",
+  "props": {
+   "meshId": "ovdrassetid://45047200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66024.6,
+    633.5,
+    926.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    1.0,
+    35.5,
+    46.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45045100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_65_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45047100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.4,
+    1598.2,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2975.3,
+    936.6,
+    1476.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_JAM_66_MI_T_Roof",
+  "props": {
+   "meshId": "ovdrassetid://45052100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58008.4,
+    1622.2,
+    -290.3
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    2958.7,
+    1010.8,
+    1473.1
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_R_P54",
+  "props": {
+   "meshId": "ovdrassetid://45068200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57841.3,
+    338.4,
+    2692.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    264.0,
+    642.8,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_R_P55",
+  "props": {
+   "meshId": "ovdrassetid://45067300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57861.2,
+    345.4,
+    2673.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    306.9,
+    656.9,
+    55.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_L_P54",
+  "props": {
+   "meshId": "ovdrassetid://45068100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58103.4,
+    338.4,
+    2692.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    260.3,
+    642.8,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_L_P55",
+  "props": {
+   "meshId": "ovdrassetid://45067200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58103.8,
+    345.4,
+    2673.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    263.0,
+    656.9,
+    55.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_R_P54",
+  "props": {
+   "meshId": "ovdrassetid://45066300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57871.7,
+    304.4,
+    152.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    260.4,
+    614.9,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_R_P55",
+  "props": {
+   "meshId": "ovdrassetid://45066500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57856.2,
+    325.0,
+    147.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    293.1,
+    656.0,
+    85.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_L_P54",
+  "props": {
+   "meshId": "ovdrassetid://45066200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58133.1,
+    304.4,
+    152.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    262.3,
+    614.9,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_L_P55",
+  "props": {
+   "meshId": "ovdrassetid://45066400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58143.8,
+    325.0,
+    147.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    289.4,
+    656.0,
+    85.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_00",
+  "props": {
+   "meshId": "ovdrassetid://44990600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66000.0,
+    -22.8,
+    5000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    55.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991900"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_01",
+  "props": {
+   "meshId": "ovdrassetid://44990700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66000.0,
+    -4.6,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    70.7,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_02",
+  "props": {
+   "meshId": "ovdrassetid://44996400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66000.0,
+    20.6,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    74.7,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44992000"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_03",
+  "props": {
+   "meshId": "ovdrassetid://44997100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66000.0,
+    -3.2,
+    -6500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    48.3,
+    3000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44989200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_10",
+  "props": {
+   "meshId": "ovdrassetid://44997200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62000.0,
+    7.4,
+    5000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    71.2,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_11",
+  "props": {
+   "meshId": "ovdrassetid://44987100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62000.0,
+    0.0,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    1.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44984100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_12",
+  "props": {
+   "meshId": "ovdrassetid://44998100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62000.0,
+    6.4,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    14.4,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_13",
+  "props": {
+   "meshId": "ovdrassetid://44994000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62000.0,
+    -4.5,
+    -6500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    33.1,
+    3000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_20",
+  "props": {
+   "meshId": "ovdrassetid://44995400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    -5.5,
+    5000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    50.7,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44993600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_21",
+  "props": {
+   "meshId": "ovdrassetid://44998200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    0.0,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    1.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44995100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_22",
+  "props": {
+   "meshId": "ovdrassetid://44995500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    0.0,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    1.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44990500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_23",
+  "props": {
+   "meshId": "ovdrassetid://44998300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    0.8,
+    -6500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    41.6,
+    3000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44990400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_30",
+  "props": {
+   "meshId": "ovdrassetid://45007600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54000.0,
+    2.1,
+    5000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    67.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45001700"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_31",
+  "props": {
+   "meshId": "ovdrassetid://45003800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54000.0,
+    0.0,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    1.0,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45001800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_32",
+  "props": {
+   "meshId": "ovdrassetid://45006500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54000.0,
+    12.4,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    24.8,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45005200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_33",
+  "props": {
+   "meshId": "ovdrassetid://45003900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54000.0,
+    27.5,
+    -6500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    55.0,
+    3000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45006100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_40",
+  "props": {
+   "meshId": "ovdrassetid://45004000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50000.0,
+    -25.9,
+    5000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    51.7,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45003300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_41",
+  "props": {
+   "meshId": "ovdrassetid://45008100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50000.0,
+    -8.5,
+    1000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    34.8,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45001900"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_42",
+  "props": {
+   "meshId": "ovdrassetid://45007700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50000.0,
+    -8.1,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    62.3,
+    4000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45002000"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_TER_43",
+  "props": {
+   "meshId": "ovdrassetid://45008200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50000.0,
+    -2.7,
+    -6500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    4000.0,
+    112.9,
+    3000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45005300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_00",
+  "props": {
+   "meshId": "ovdrassetid://44992500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -73000.0,
+    184.4,
+    9500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    415.8,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_01",
+  "props": {
+   "meshId": "ovdrassetid://44993700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -73000.0,
+    178.2,
+    -500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    433.7,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44993200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_02",
+  "props": {
+   "meshId": "ovdrassetid://44992600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -73000.0,
+    185.1,
+    -10500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    420.7,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_10",
+  "props": {
+   "meshId": "ovdrassetid://44992700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63000.0,
+    171.2,
+    10700.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    391.8,
+    7600.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_12",
+  "props": {
+   "meshId": "ovdrassetid://44993800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63000.0,
+    186.6,
+    -11700.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    423.4,
+    7600.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44993300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_20",
+  "props": {
+   "meshId": "ovdrassetid://44992800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53000.0,
+    167.0,
+    10700.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    423.8,
+    7600.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991700"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_22",
+  "props": {
+   "meshId": "ovdrassetid://44993900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53000.0,
+    158.2,
+    -11700.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    433.7,
+    7600.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44993400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_30",
+  "props": {
+   "meshId": "ovdrassetid://44992900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -43000.0,
+    184.4,
+    9500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    443.0,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44990300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_31",
+  "props": {
+   "meshId": "ovdrassetid://44993000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -43000.0,
+    182.7,
+    -500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    443.8,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44993500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_OUT_32",
+  "props": {
+   "meshId": "ovdrassetid://44996300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -43000.0,
+    161.6,
+    -10500.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    10000.0,
+    440.3,
+    10000.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991800"
+   }
+  }
+ }
+]

@@ -1,0 +1,7172 @@
+[
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_E_00",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54716.7,
+    199.2,
+    -2800.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_E_01",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54716.7,
+    199.2,
+    -3600.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_E_02",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54716.7,
+    199.2,
+    -4400.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_E_03",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54716.7,
+    199.2,
+    -5200.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_00",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61200.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_01",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60400.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_02",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59600.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_03",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58800.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_05",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57200.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_06",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56400.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_07",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55600.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_08",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54800.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_00",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61200.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_01",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60400.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_02",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59600.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_03",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58800.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_05",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57200.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_06",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56400.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_07",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55600.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_08",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54800.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_W_00",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61283.3,
+    199.2,
+    -2800.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_W_01",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61283.3,
+    199.2,
+    -3600.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_W_02",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61283.3,
+    199.2,
+    -4400.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_W_03",
+  "props": {
+   "meshId": "ovdrassetid://44988100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61283.3,
+    199.2,
+    -5200.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    633.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44994100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_00_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -2600.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_00_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_01_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -3400.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_01_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -3800.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_02_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -4200.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_02_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -4600.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_03_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -5000.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_E_03_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54983.1,
+    471.4,
+    -5400.0
+   ],
+   "orientation": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_00_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61000.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_00_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61400.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_01_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60200.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_01_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60600.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_02_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59400.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_02_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59800.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_03_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58600.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_03_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59000.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_04_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57800.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_04_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58200.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_05_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57000.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_05_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57400.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_06_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56200.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_06_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56600.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_07_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55400.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_07_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55800.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_08_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54600.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_N_08_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55000.0,
+    471.4,
+    -2133.6
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_00_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61400.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_00_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61000.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_01_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60600.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_01_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60200.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_02_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59800.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_02_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59400.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_03_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59000.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_03_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58600.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_04_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58200.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_04_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57800.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_05_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57400.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_05_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57000.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_06_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56600.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_06_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56200.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_07_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55800.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_07_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55400.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_08_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55000.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_S_08_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54600.0,
+    471.4,
+    -5866.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_00_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -3000.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_00_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -2600.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_01_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -3800.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_01_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -3400.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_02_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -4600.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_02_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -4200.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_03_0",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -5400.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_여장_W_03_1",
+  "props": {
+   "meshId": "ovdrassetid://44984200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61016.9,
+    471.4,
+    -5000.0
+   ],
+   "orientation": [
+    0.0,
+    90.0,
+    0.0
+   ],
+   "size": [
+    400.0,
+    145.9,
+    100.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44985100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_N_04",
+  "props": {
+   "meshId": "ovdrassetid://44996200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    199.2,
+    -2400.0
+   ],
+   "orientation": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    634.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_담장_S_04",
+  "props": {
+   "meshId": "ovdrassetid://44996200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58000.0,
+    199.2,
+    -5600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    800.0,
+    398.5,
+    634.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44991300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Hay Bale",
+  "props": {
+   "meshId": "ovdrassetid://44994600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52800.2,
+    29.0,
+    -2600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    150.5,
+    62.1,
+    82.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Hay Bale.001",
+  "props": {
+   "meshId": "ovdrassetid://44994600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52640.2,
+    29.0,
+    -2600.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    150.5,
+    62.1,
+    82.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Hay Bale.002",
+  "props": {
+   "meshId": "ovdrassetid://44994600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53000.2,
+    29.0,
+    -5700.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    150.5,
+    62.1,
+    82.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Hay Bale.003",
+  "props": {
+   "meshId": "ovdrassetid://44994600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52200.2,
+    29.0,
+    -5200.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    150.5,
+    62.1,
+    82.4
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Mud Pots 11",
+  "props": {
+   "meshId": "ovdrassetid://44994700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63700.0,
+    15.7,
+    -2300.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    32.5,
+    31.3,
+    32.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Mud Pots 11.001",
+  "props": {
+   "meshId": "ovdrassetid://44994700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63600.0,
+    15.7,
+    -2420.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    32.5,
+    31.3,
+    32.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Mud Pots 11.002",
+  "props": {
+   "meshId": "ovdrassetid://44994700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63500.0,
+    15.7,
+    -2340.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    32.5,
+    31.3,
+    32.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Mud Pots 11.003",
+  "props": {
+   "meshId": "ovdrassetid://44994700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63200.0,
+    15.7,
+    -4650.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    32.5,
+    31.3,
+    32.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Mud Pots 11.004",
+  "props": {
+   "meshId": "ovdrassetid://44994700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63100.0,
+    15.7,
+    -4730.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    32.5,
+    31.3,
+    32.7
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60000.0,
+    52.6,
+    -1399.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel.001",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59900.0,
+    52.6,
+    -1519.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel.002",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55800.0,
+    52.6,
+    -1499.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel.003",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55000.0,
+    52.6,
+    -3999.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel.004",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61000.0,
+    52.6,
+    -4399.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_Old Wooden Barrel.005",
+  "props": {
+   "meshId": "ovdrassetid://44994800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56800.0,
+    52.6,
+    -6099.4
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    99.7,
+    105.4,
+    100.9
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {}
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_000",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60411.5,
+    600.5,
+    -6731.0
+   ],
+   "orientation": [
+    0.0,
+    2.96,
+    0.0
+   ],
+   "size": [
+    687.0,
+    1345.0,
+    714.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_001",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51268.5,
+    822.0,
+    3675.0
+   ],
+   "orientation": [
+    0.0,
+    24.61,
+    0.0
+   ],
+   "size": [
+    1061.0,
+    1802.0,
+    1040.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_002",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66969.5,
+    460.0,
+    -7113.5
+   ],
+   "orientation": [
+    0.0,
+    132.98,
+    0.0
+   ],
+   "size": [
+    753.0,
+    1084.0,
+    755.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_003",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65762.0,
+    609.5,
+    -7407.0
+   ],
+   "orientation": [
+    0.0,
+    158.4,
+    0.0
+   ],
+   "size": [
+    804.0,
+    1363.0,
+    746.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_004",
+  "props": {
+   "meshId": "ovdrassetid://44749300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55333.5,
+    1177.0,
+    5366.0
+   ],
+   "orientation": [
+    0.0,
+    -35.13,
+    0.0
+   ],
+   "size": [
+    1641.0,
+    2562.0,
+    1714.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44749100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_005",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64087.5,
+    453.5,
+    4450.5
+   ],
+   "orientation": [
+    0.0,
+    -7.16,
+    0.0
+   ],
+   "size": [
+    613.0,
+    1091.0,
+    587.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_006",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58769.5,
+    890.5,
+    5772.5
+   ],
+   "orientation": [
+    0.0,
+    -88.37,
+    0.0
+   ],
+   "size": [
+    855.0,
+    1943.0,
+    901.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_007",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65309.0,
+    421.0,
+    -5977.5
+   ],
+   "orientation": [
+    0.0,
+    -142.5,
+    0.0
+   ],
+   "size": [
+    670.0,
+    968.0,
+    665.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_008",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67006.0,
+    1025.0,
+    4287.5
+   ],
+   "orientation": [
+    0.0,
+    59.4,
+    0.0
+   ],
+   "size": [
+    1340.0,
+    2240.0,
+    1359.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_009",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66671.0,
+    599.0,
+    -5118.5
+   ],
+   "orientation": [
+    0.0,
+    173.32,
+    0.0
+   ],
+   "size": [
+    736.0,
+    1362.0,
+    761.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_010",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62256.0,
+    615.0,
+    6103.0
+   ],
+   "orientation": [
+    0.0,
+    149.81,
+    0.0
+   ],
+   "size": [
+    904.0,
+    1340.0,
+    914.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_011",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66541.5,
+    893.0,
+    4900.5
+   ],
+   "orientation": [
+    0.0,
+    -166.23,
+    0.0
+   ],
+   "size": [
+    1087.0,
+    2010.0,
+    1051.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_012",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50509.0,
+    622.0,
+    -4230.0
+   ],
+   "orientation": [
+    0.0,
+    -132.47,
+    0.0
+   ],
+   "size": [
+    956.0,
+    1362.0,
+    954.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_013",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49169.0,
+    733.5,
+    1339.5
+   ],
+   "orientation": [
+    0.0,
+    -149.83,
+    0.0
+   ],
+   "size": [
+    1264.0,
+    1663.0,
+    1233.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_014",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65629.5,
+    589.0,
+    -4232.0
+   ],
+   "orientation": [
+    0.0,
+    67.98,
+    0.0
+   ],
+   "size": [
+    737.0,
+    1342.0,
+    794.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_015",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67485.0,
+    474.0,
+    -4099.5
+   ],
+   "orientation": [
+    0.0,
+    -24.83,
+    0.0
+   ],
+   "size": [
+    708.0,
+    1072.0,
+    693.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_016",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62726.5,
+    764.5,
+    5178.0
+   ],
+   "orientation": [
+    0.0,
+    131.58,
+    0.0
+   ],
+   "size": [
+    1343.0,
+    1737.0,
+    1352.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_017",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67166.0,
+    568.0,
+    -784.5
+   ],
+   "orientation": [
+    0.0,
+    55.17,
+    0.0
+   ],
+   "size": [
+    880.0,
+    1270.0,
+    873.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_018",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62488.5,
+    854.5,
+    -6921.5
+   ],
+   "orientation": [
+    0.0,
+    -161.65,
+    0.0
+   ],
+   "size": [
+    1065.0,
+    1851.0,
+    1129.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_019",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54061.0,
+    588.0,
+    4538.5
+   ],
+   "orientation": [
+    0.0,
+    -106.73,
+    0.0
+   ],
+   "size": [
+    692.0,
+    1330.0,
+    759.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_020",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54178.0,
+    758.5,
+    3634.0
+   ],
+   "orientation": [
+    0.0,
+    -58.61,
+    0.0
+   ],
+   "size": [
+    1286.0,
+    1723.0,
+    1316.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_021",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50310.0,
+    620.5,
+    4299.0
+   ],
+   "orientation": [
+    0.0,
+    148.65,
+    0.0
+   ],
+   "size": [
+    1152.0,
+    1509.0,
+    1126.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_022",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61401.5,
+    858.0,
+    4376.0
+   ],
+   "orientation": [
+    0.0,
+    -105.26,
+    0.0
+   ],
+   "size": [
+    1113.0,
+    1872.0,
+    1042.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_023",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67760.5,
+    760.0,
+    2612.5
+   ],
+   "orientation": [
+    0.0,
+    -73.15,
+    0.0
+   ],
+   "size": [
+    1201.0,
+    1798.0,
+    1263.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_024",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53226.0,
+    878.5,
+    -7525.5
+   ],
+   "orientation": [
+    0.0,
+    9.99,
+    0.0
+   ],
+   "size": [
+    960.0,
+    1843.0,
+    1041.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_025",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60742.5,
+    472.5,
+    5776.0
+   ],
+   "orientation": [
+    0.0,
+    73.07,
+    0.0
+   ],
+   "size": [
+    663.0,
+    1097.0,
+    684.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_026",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48667.5,
+    527.5,
+    -6468.5
+   ],
+   "orientation": [
+    0.0,
+    -131.14,
+    0.0
+   ],
+   "size": [
+    875.0,
+    1249.0,
+    873.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_027",
+  "props": {
+   "meshId": "ovdrassetid://44749300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48507.5,
+    1111.5,
+    5241.0
+   ],
+   "orientation": [
+    0.0,
+    149.34,
+    0.0
+   ],
+   "size": [
+    1547.0,
+    2483.0,
+    1650.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44749100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_028",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52916.0,
+    664.0,
+    -4140.0
+   ],
+   "orientation": [
+    0.0,
+    111.38,
+    0.0
+   ],
+   "size": [
+    798.0,
+    1462.0,
+    860.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_029",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49234.5,
+    768.0,
+    -223.5
+   ],
+   "orientation": [
+    0.0,
+    10.93,
+    0.0
+   ],
+   "size": [
+    1153.0,
+    1736.0,
+    1081.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_030",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55777.5,
+    830.0,
+    -6716.5
+   ],
+   "orientation": [
+    0.0,
+    156.84,
+    0.0
+   ],
+   "size": [
+    1359.0,
+    1850.0,
+    1309.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_031",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52360.0,
+    1008.5,
+    4868.5
+   ],
+   "orientation": [
+    0.0,
+    -106.35,
+    0.0
+   ],
+   "size": [
+    1178.0,
+    2191.0,
+    1215.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_032",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59421.0,
+    543.5,
+    -7696.0
+   ],
+   "orientation": [
+    0.0,
+    103.95,
+    0.0
+   ],
+   "size": [
+    764.0,
+    1255.0,
+    744.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_033",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58732.5,
+    633.5,
+    4781.5
+   ],
+   "orientation": [
+    0.0,
+    92.12,
+    0.0
+   ],
+   "size": [
+    751.0,
+    1435.0,
+    723.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_034",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51620.5,
+    486.0,
+    -6011.0
+   ],
+   "orientation": [
+    0.0,
+    -154.56,
+    0.0
+   ],
+   "size": [
+    695.0,
+    1048.0,
+    680.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_035",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67370.5,
+    791.5,
+    5144.0
+   ],
+   "orientation": [
+    0.0,
+    -109.31,
+    0.0
+   ],
+   "size": [
+    991.0,
+    1793.0,
+    1018.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_036",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54960.0,
+    592.0,
+    6486.5
+   ],
+   "orientation": [
+    0.0,
+    90.55,
+    0.0
+   ],
+   "size": [
+    674.0,
+    1320.0,
+    647.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_037",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66479.5,
+    622.5,
+    3621.0
+   ],
+   "orientation": [
+    0.0,
+    43.35,
+    0.0
+   ],
+   "size": [
+    1139.0,
+    1465.0,
+    1136.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_038",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56173.0,
+    850.5,
+    5424.5
+   ],
+   "orientation": [
+    0.0,
+    178.72,
+    0.0
+   ],
+   "size": [
+    864.0,
+    1873.0,
+    819.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_039",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48217.0,
+    851.5,
+    -550.0
+   ],
+   "orientation": [
+    0.0,
+    -18.36,
+    0.0
+   ],
+   "size": [
+    1084.0,
+    1885.0,
+    1150.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_040",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48363.0,
+    174.5,
+    6559.0
+   ],
+   "orientation": [
+    0.0,
+    -145.24,
+    0.0
+   ],
+   "size": [
+    522.0,
+    511.0,
+    510.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_041",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64489.0,
+    663.5,
+    -7715.5
+   ],
+   "orientation": [
+    0.0,
+    -144.3,
+    0.0
+   ],
+   "size": [
+    1162.0,
+    1503.0,
+    1143.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_042",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48447.5,
+    196.0,
+    -4958.0
+   ],
+   "orientation": [
+    0.0,
+    111.47,
+    0.0
+   ],
+   "size": [
+    469.0,
+    514.0,
+    498.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_043",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67310.5,
+    220.0,
+    -6062.5
+   ],
+   "orientation": [
+    0.0,
+    -24.08,
+    0.0
+   ],
+   "size": [
+    517.0,
+    526.0,
+    491.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_044",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63314.5,
+    414.5,
+    -4484.5
+   ],
+   "orientation": [
+    0.0,
+    2.3,
+    0.0
+   ],
+   "size": [
+    501.0,
+    955.0,
+    475.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_045",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48620.0,
+    472.5,
+    -3216.0
+   ],
+   "orientation": [
+    0.0,
+    28.34,
+    0.0
+   ],
+   "size": [
+    744.0,
+    1105.0,
+    730.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_046",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53861.0,
+    660.0,
+    6252.0
+   ],
+   "orientation": [
+    0.0,
+    -49.6,
+    0.0
+   ],
+   "size": [
+    1132.0,
+    1466.0,
+    1140.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_047",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50834.0,
+    744.0,
+    -7262.5
+   ],
+   "orientation": [
+    0.0,
+    139.84,
+    0.0
+   ],
+   "size": [
+    1280.0,
+    1648.0,
+    1271.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_048",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51362.5,
+    445.5,
+    6081.5
+   ],
+   "orientation": [
+    0.0,
+    52.67,
+    0.0
+   ],
+   "size": [
+    759.0,
+    1105.0,
+    765.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_049",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54111.5,
+    495.5,
+    5452.0
+   ],
+   "orientation": [
+    0.0,
+    -119.68,
+    0.0
+   ],
+   "size": [
+    739.0,
+    1109.0,
+    750.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_050",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65675.0,
+    723.5,
+    5145.0
+   ],
+   "orientation": [
+    0.0,
+    129.86,
+    0.0
+   ],
+   "size": [
+    1338.0,
+    1737.0,
+    1350.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_051",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64209.5,
+    570.0,
+    -6491.5
+   ],
+   "orientation": [
+    0.0,
+    78.36,
+    0.0
+   ],
+   "size": [
+    755.0,
+    1272.0,
+    735.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_052",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48807.5,
+    575.5,
+    3381.5
+   ],
+   "orientation": [
+    0.0,
+    -76.86,
+    0.0
+   ],
+   "size": [
+    651.0,
+    1309.0,
+    725.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_053",
+  "props": {
+   "meshId": "ovdrassetid://44749200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49972.5,
+    1185.5,
+    6446.0
+   ],
+   "orientation": [
+    0.0,
+    -168.29,
+    0.0
+   ],
+   "size": [
+    1653.0,
+    2607.0,
+    1538.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_054",
+  "props": {
+   "meshId": "ovdrassetid://44749200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55659.5,
+    1135.5,
+    4675.5
+   ],
+   "orientation": [
+    0.0,
+    -162.38,
+    0.0
+   ],
+   "size": [
+    1627.0,
+    2435.0,
+    1537.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_055",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49517.0,
+    917.0,
+    5244.0
+   ],
+   "orientation": [
+    0.0,
+    -80.77,
+    0.0
+   ],
+   "size": [
+    1008.0,
+    2040.0,
+    1050.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_056",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57516.5,
+    451.0,
+    -6778.5
+   ],
+   "orientation": [
+    0.0,
+    111.12,
+    0.0
+   ],
+   "size": [
+    657.0,
+    1046.0,
+    675.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_057",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56775.5,
+    540.5,
+    4259.5
+   ],
+   "orientation": [
+    0.0,
+    158.38,
+    0.0
+   ],
+   "size": [
+    799.0,
+    1253.0,
+    813.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_058",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67130.0,
+    152.5,
+    6034.0
+   ],
+   "orientation": [
+    0.0,
+    57.06,
+    0.0
+   ],
+   "size": [
+    464.0,
+    469.0,
+    478.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_059",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50571.0,
+    457.5,
+    -6196.5
+   ],
+   "orientation": [
+    0.0,
+    129.68,
+    0.0
+   ],
+   "size": [
+    704.0,
+    1019.0,
+    709.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_060",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63219.5,
+    743.5,
+    4137.5
+   ],
+   "orientation": [
+    0.0,
+    103.47,
+    0.0
+   ],
+   "size": [
+    961.0,
+    1643.0,
+    895.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_061",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48361.5,
+    736.0,
+    664.0
+   ],
+   "orientation": [
+    0.0,
+    -151.29,
+    0.0
+   ],
+   "size": [
+    1025.0,
+    1638.0,
+    1060.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_062",
+  "props": {
+   "meshId": "ovdrassetid://44748700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67285.5,
+    209.5,
+    -2293.5
+   ],
+   "orientation": [
+    0.0,
+    144.95,
+    0.0
+   ],
+   "size": [
+    465.0,
+    465.0,
+    469.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_063",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67154.5,
+    512.0,
+    958.5
+   ],
+   "orientation": [
+    0.0,
+    27.18,
+    0.0
+   ],
+   "size": [
+    783.0,
+    1170.0,
+    769.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_064",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55450.5,
+    660.5,
+    3812.5
+   ],
+   "orientation": [
+    0.0,
+    119.39,
+    0.0
+   ],
+   "size": [
+    853.0,
+    1465.0,
+    895.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_065",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65205.5,
+    915.0,
+    4366.5
+   ],
+   "orientation": [
+    0.0,
+    111.02,
+    0.0
+   ],
+   "size": [
+    1153.0,
+    2054.0,
+    1181.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_066",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59891.0,
+    751.5,
+    6436.5
+   ],
+   "orientation": [
+    0.0,
+    -101.99,
+    0.0
+   ],
+   "size": [
+    1076.0,
+    1703.0,
+    1143.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_067",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62496.5,
+    647.0,
+    3791.0
+   ],
+   "orientation": [
+    0.0,
+    -15.36,
+    0.0
+   ],
+   "size": [
+    1051.0,
+    1516.0,
+    996.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_068",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63818.5,
+    694.0,
+    6398.0
+   ],
+   "orientation": [
+    0.0,
+    168.46,
+    0.0
+   ],
+   "size": [
+    841.0,
+    1540.0,
+    750.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_069",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54638.0,
+    213.0,
+    -7734.0
+   ],
+   "orientation": [
+    0.0,
+    37.14,
+    0.0
+   ],
+   "size": [
+    452.0,
+    440.0,
+    444.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_070",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65665.5,
+    513.5,
+    6188.5
+   ],
+   "orientation": [
+    0.0,
+    100.68,
+    0.0
+   ],
+   "size": [
+    709.0,
+    1207.0,
+    689.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_071",
+  "props": {
+   "meshId": "ovdrassetid://44749200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52948.0,
+    1256.0,
+    6694.5
+   ],
+   "orientation": [
+    0.0,
+    -139.92,
+    0.0
+   ],
+   "size": [
+    1922.0,
+    2624.0,
+    1905.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747500"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_072",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63749.5,
+    673.0,
+    -5546.0
+   ],
+   "orientation": [
+    0.0,
+    60.02,
+    0.0
+   ],
+   "size": [
+    1149.0,
+    1550.0,
+    1178.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_073",
+  "props": {
+   "meshId": "ovdrassetid://44748700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48825.5,
+    162.0,
+    -7675.0
+   ],
+   "orientation": [
+    0.0,
+    79.86,
+    0.0
+   ],
+   "size": [
+    397.0,
+    466.0,
+    384.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_074",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52061.5,
+    660.0,
+    3604.5
+   ],
+   "orientation": [
+    0.0,
+    58.46,
+    0.0
+   ],
+   "size": [
+    869.0,
+    1472.0,
+    905.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_075",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52924.5,
+    818.5,
+    4099.5
+   ],
+   "orientation": [
+    0.0,
+    27.05,
+    0.0
+   ],
+   "size": [
+    1395.0,
+    1859.0,
+    1353.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_076",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60456.0,
+    616.5,
+    4938.0
+   ],
+   "orientation": [
+    0.0,
+    164.01,
+    0.0
+   ],
+   "size": [
+    1020.0,
+    1463.0,
+    968.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_077",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62958.0,
+    820.0,
+    6367.5
+   ],
+   "orientation": [
+    0.0,
+    -140.75,
+    0.0
+   ],
+   "size": [
+    1424.0,
+    1834.0,
+    1411.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_078",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59691.5,
+    640.5,
+    5555.5
+   ],
+   "orientation": [
+    0.0,
+    175.62,
+    0.0
+   ],
+   "size": [
+    765.0,
+    1463.0,
+    793.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_079",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63566.0,
+    800.5,
+    5536.0
+   ],
+   "orientation": [
+    0.0,
+    -12.08,
+    0.0
+   ],
+   "size": [
+    1210.0,
+    1801.0,
+    1138.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_080",
+  "props": {
+   "meshId": "ovdrassetid://44748000",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60408.5,
+    454.0,
+    3612.5
+   ],
+   "orientation": [
+    0.0,
+    17.19,
+    0.0
+   ],
+   "size": [
+    665.0,
+    1064.0,
+    645.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_081",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64573.0,
+    1012.5,
+    5358.5
+   ],
+   "orientation": [
+    0.0,
+    -48.39,
+    0.0
+   ],
+   "size": [
+    1362.0,
+    2197.0,
+    1367.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_082",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59292.5,
+    977.5,
+    3798.0
+   ],
+   "orientation": [
+    0.0,
+    53.79,
+    0.0
+   ],
+   "size": [
+    1299.0,
+    2123.0,
+    1310.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_083",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59599.0,
+    779.0,
+    4603.0
+   ],
+   "orientation": [
+    0.0,
+    63.1,
+    0.0
+   ],
+   "size": [
+    1124.0,
+    1750.0,
+    1082.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_084",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64569.0,
+    707.0,
+    -4432.0
+   ],
+   "orientation": [
+    0.0,
+    177.0,
+    0.0
+   ],
+   "size": [
+    988.0,
+    1642.0,
+    908.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_085",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56915.0,
+    796.0,
+    5085.5
+   ],
+   "orientation": [
+    0.0,
+    -164.83,
+    0.0
+   ],
+   "size": [
+    976.0,
+    1780.0,
+    945.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_086",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48690.0,
+    575.5,
+    4433.0
+   ],
+   "orientation": [
+    0.0,
+    92.31,
+    0.0
+   ],
+   "size": [
+    714.0,
+    1359.0,
+    686.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_087",
+  "props": {
+   "meshId": "ovdrassetid://44749300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60863.0,
+    1151.0,
+    6735.0
+   ],
+   "orientation": [
+    0.0,
+    127.88,
+    0.0
+   ],
+   "size": [
+    1638.0,
+    2446.0,
+    1588.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44749100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_088",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55799.0,
+    501.0,
+    6696.5
+   ],
+   "orientation": [
+    0.0,
+    61.92,
+    0.0
+   ],
+   "size": [
+    812.0,
+    1202.0,
+    801.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_089",
+  "props": {
+   "meshId": "ovdrassetid://44747800",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49193.5,
+    655.0,
+    6421.5
+   ],
+   "orientation": [
+    0.0,
+    76.3,
+    0.0
+   ],
+   "size": [
+    1031.0,
+    1598.0,
+    1091.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_090",
+  "props": {
+   "meshId": "ovdrassetid://44751100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61440.0,
+    163.5,
+    -7469.5
+   ],
+   "orientation": [
+    0.0,
+    17.02,
+    0.0
+   ],
+   "size": [
+    396.0,
+    421.0,
+    369.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747600"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_091",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52374.5,
+    894.5,
+    -6981.5
+   ],
+   "orientation": [
+    0.0,
+    -72.62,
+    0.0
+   ],
+   "size": [
+    1023.0,
+    1883.0,
+    1053.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_092",
+  "props": {
+   "meshId": "ovdrassetid://44748700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53829.0,
+    170.0,
+    -6529.5
+   ],
+   "orientation": [
+    0.0,
+    -109.42,
+    0.0
+   ],
+   "size": [
+    374.0,
+    402.0,
+    365.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_093",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48790.0,
+    1015.0,
+    -1763.5
+   ],
+   "orientation": [
+    0.0,
+    -60.99,
+    0.0
+   ],
+   "size": [
+    1300.0,
+    2192.0,
+    1321.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_094",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57072.0,
+    674.5,
+    6112.0
+   ],
+   "orientation": [
+    0.0,
+    -166.05,
+    0.0
+   ],
+   "size": [
+    848.0,
+    1519.0,
+    764.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_095",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51083.5,
+    480.0,
+    5285.0
+   ],
+   "orientation": [
+    0.0,
+    160.38,
+    0.0
+   ],
+   "size": [
+    749.0,
+    1194.0,
+    764.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_096",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58703.5,
+    570.0,
+    -6581.5
+   ],
+   "orientation": [
+    0.0,
+    -128.13,
+    0.0
+   ],
+   "size": [
+    893.0,
+    1280.0,
+    889.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_097",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58955.5,
+    788.5,
+    6526.5
+   ],
+   "orientation": [
+    0.0,
+    54.48,
+    0.0
+   ],
+   "size": [
+    1147.0,
+    1737.0,
+    1125.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_098",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52134.0,
+    810.5,
+    6577.0
+   ],
+   "orientation": [
+    0.0,
+    120.28,
+    0.0
+   ],
+   "size": [
+    1066.0,
+    1785.0,
+    1082.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_099",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61858.5,
+    555.5,
+    4997.5
+   ],
+   "orientation": [
+    0.0,
+    98.04,
+    0.0
+   ],
+   "size": [
+    705.0,
+    1239.0,
+    683.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_100",
+  "props": {
+   "meshId": "ovdrassetid://44748500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52666.0,
+    1006.0,
+    5566.0
+   ],
+   "orientation": [
+    0.0,
+    152.78,
+    0.0
+   ],
+   "size": [
+    1284.0,
+    2150.0,
+    1262.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_101",
+  "props": {
+   "meshId": "ovdrassetid://44748700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50848.5,
+    133.5,
+    6669.5
+   ],
+   "orientation": [
+    0.0,
+    151.55,
+    0.0
+   ],
+   "size": [
+    411.0,
+    423.0,
+    417.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747400"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_102",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51409.0,
+    556.5,
+    4538.5
+   ],
+   "orientation": [
+    0.0,
+    118.79,
+    0.0
+   ],
+   "size": [
+    898.0,
+    1325.0,
+    887.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_103",
+  "props": {
+   "meshId": "ovdrassetid://44747900",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50130.0,
+    596.0,
+    -5264.5
+   ],
+   "orientation": [
+    0.0,
+    -79.27,
+    0.0
+   ],
+   "size": [
+    646.0,
+    1340.0,
+    727.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_104",
+  "props": {
+   "meshId": "ovdrassetid://44748600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48746.0,
+    506.0,
+    2268.5
+   ],
+   "orientation": [
+    0.0,
+    -30.83,
+    0.0
+   ],
+   "size": [
+    782.0,
+    1156.0,
+    789.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44748300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_105",
+  "props": {
+   "meshId": "ovdrassetid://44748400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64586.0,
+    786.0,
+    6637.0
+   ],
+   "orientation": [
+    0.0,
+    -139.03,
+    0.0
+   ],
+   "size": [
+    1136.0,
+    1726.0,
+    1146.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_수목_소나무_106",
+  "props": {
+   "meshId": "ovdrassetid://44748700",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49859.0,
+    199.5,
+    -7606.5
+   ],
+   "orientation": [
+    0.0,
+    -115.36,
+    0.0
+   ],
+   "size": [
+    476.0,
+    491.0,
+    467.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44747400"
+   }
+  }
+ }
+]

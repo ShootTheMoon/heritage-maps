@@ -1,0 +1,183 @@
+{
+ "schema": "hwaseong-v25/sgk-rules",
+ "files": [
+  {
+   "file": "02_DOORS/HWS_DR4_OS_R_P54.fbx",
+   "tris": 238,
+   "material": "MI_T_G_MetalDoor_001.001",
+   "bbox_min_m": [
+    0.267,
+    -26.994,
+    0.17
+   ],
+   "bbox_max_m": [
+    2.907,
+    -26.859,
+    6.598
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_OS_R_P55.fbx",
+   "tris": 744,
+   "material": "MI_T_G_MetalDoor_002.001",
+   "bbox_min_m": [
+    -0.146,
+    -27.008,
+    0.17
+   ],
+   "bbox_max_m": [
+    2.923,
+    -26.456,
+    6.739
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_OS_L_P54.fbx",
+   "tris": 120,
+   "material": "MI_T_G_MetalDoor_001.001",
+   "bbox_min_m": [
+    -2.336,
+    -26.994,
+    0.17
+   ],
+   "bbox_max_m": [
+    0.267,
+    -26.859,
+    6.598
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_OS_L_P55.fbx",
+   "tris": 604,
+   "material": "MI_T_G_MetalDoor_002.001",
+   "bbox_min_m": [
+    -2.353,
+    -27.008,
+    0.17
+   ],
+   "bbox_max_m": [
+    0.277,
+    -26.456,
+    6.739
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_MG_R_P54.fbx",
+   "tris": 120,
+   "material": "MI_T_G_MetalDoor_001.001",
+   "bbox_min_m": [
+    -0.019,
+    -1.589,
+    -0.03
+   ],
+   "bbox_max_m": [
+    2.585,
+    -1.454,
+    6.119
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_MG_R_P55.fbx",
+   "tris": 652,
+   "material": "MI_T_G_MetalDoor_002.001",
+   "bbox_min_m": [
+    -0.028,
+    -1.903,
+    -0.03
+   ],
+   "bbox_max_m": [
+    2.903,
+    -1.05,
+    6.53
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_MG_L_P54.fbx",
+   "tris": 238,
+   "material": "MI_T_G_MetalDoor_001.001",
+   "bbox_min_m": [
+    -2.642,
+    -1.589,
+    -0.03
+   ],
+   "bbox_max_m": [
+    -0.019,
+    -1.454,
+    6.119
+   ],
+   "world": true
+  },
+  {
+   "file": "02_DOORS/HWS_DR4_MG_L_P55.fbx",
+   "tris": 716,
+   "material": "MI_T_G_MetalDoor_002.001",
+   "bbox_min_m": [
+    -2.885,
+    -1.903,
+    -0.03
+   ],
+   "bbox_max_m": [
+    0.009,
+    -1.05,
+    6.53
+   ],
+   "world": true
+  }
+ ],
+ "doors": {
+  "장안문_문_옹성_우_힌지": {
+   "pivot_world_m": [
+    2.8,
+    -26.0,
+    0.168
+   ],
+   "open_deg": -88.0,
+   "leaves": [
+    "HWS_DOOR_옹성_우_P54",
+    "HWS_DOOR_옹성_우_P55"
+   ]
+  },
+  "장안문_문_옹성_좌_힌지": {
+   "pivot_world_m": [
+    -2.22,
+    -26.0,
+    0.168
+   ],
+   "open_deg": 88.0,
+   "leaves": [
+    "HWS_DOOR_옹성_좌_P54",
+    "HWS_DOOR_옹성_좌_P55"
+   ]
+  },
+  "장안문_문_주문_우_힌지": {
+   "pivot_world_m": [
+    2.58,
+    -1.0,
+    -0.034
+   ],
+   "open_deg": -88.0,
+   "leaves": [
+    "HWS_DOOR_주문_우_P54",
+    "HWS_DOOR_주문_우_P55"
+   ]
+  },
+  "장안문_문_주문_좌_힌지": {
+   "pivot_world_m": [
+    -2.64,
+    -1.0,
+    -0.034
+   ],
+   "open_deg": 88.0,
+   "leaves": [
+    "HWS_DOOR_주문_좌_P54",
+    "HWS_DOOR_주문_좌_P55"
+   ]
+  }
+ }
+}

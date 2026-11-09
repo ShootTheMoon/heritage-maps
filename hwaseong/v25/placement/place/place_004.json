@@ -1,0 +1,5078 @@
+[
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_A_001",
+  "props": {
+   "meshId": "ovdrassetid://44710500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67748.5,
+    -8.5,
+    2996.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    127.0,
+    101.0,
+    183.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44734100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_A_002",
+  "props": {
+   "meshId": "ovdrassetid://44710500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67337.0,
+    8.5,
+    3643.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    148.0,
+    117.0,
+    214.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44734100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_A_003",
+  "props": {
+   "meshId": "ovdrassetid://44710500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60619.5,
+    54.5,
+    6619.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    153.0,
+    121.0,
+    220.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44734100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_B_000",
+  "props": {
+   "meshId": "ovdrassetid://44710600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64763.0,
+    5.5,
+    5710.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    260.0,
+    91.0,
+    126.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44733200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_B_001",
+  "props": {
+   "meshId": "ovdrassetid://44710600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59100.0,
+    19.0,
+    -6805.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    264.0,
+    92.0,
+    128.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44733200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_B_002",
+  "props": {
+   "meshId": "ovdrassetid://44710600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56558.0,
+    17.5,
+    -6967.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    222.0,
+    77.0,
+    108.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44733200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_BOULDER_B_003",
+  "props": {
+   "meshId": "ovdrassetid://44710600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59758.0,
+    12.5,
+    6215.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    248.0,
+    87.0,
+    121.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44733200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_DEADTRUNK_000",
+  "props": {
+   "meshId": "ovdrassetid://44711500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50389.0,
+    8.5,
+    -3890.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    318.0,
+    31.0,
+    29.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44737300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_DEADTRUNK_001",
+  "props": {
+   "meshId": "ovdrassetid://44711500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61505.5,
+    -2.5,
+    -7555.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    349.0,
+    33.0,
+    31.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44737300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_DEADTRUNK_002",
+  "props": {
+   "meshId": "ovdrassetid://44711500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48952.5,
+    2.5,
+    -396.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    319.0,
+    31.0,
+    29.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44737300"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_000",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49738.5,
+    47.5,
+    5882.5
+   ],
+   "orientation": [
+    0.0,
+    -9.2,
+    0.0
+   ],
+   "size": [
+    147.0,
+    181.0,
+    143.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_001",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65421.0,
+    78.5,
+    -5153.5
+   ],
+   "orientation": [
+    0.0,
+    -48.3,
+    0.0
+   ],
+   "size": [
+    174.0,
+    177.0,
+    175.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_002",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56564.0,
+    30.5,
+    6311.0
+   ],
+   "orientation": [
+    0.0,
+    83.28,
+    0.0
+   ],
+   "size": [
+    96.0,
+    127.0,
+    100.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_003",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51190.5,
+    60.5,
+    4222.5
+   ],
+   "orientation": [
+    0.0,
+    -97.84,
+    0.0
+   ],
+   "size": [
+    145.0,
+    187.0,
+    149.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_004",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65965.0,
+    69.0,
+    6608.0
+   ],
+   "orientation": [
+    0.0,
+    44.96,
+    0.0
+   ],
+   "size": [
+    190.0,
+    192.0,
+    190.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_005",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53149.5,
+    94.0,
+    5699.0
+   ],
+   "orientation": [
+    0.0,
+    -36.29,
+    0.0
+   ],
+   "size": [
+    173.0,
+    178.0,
+    172.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_006",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48674.5,
+    86.5,
+    -3543.5
+   ],
+   "orientation": [
+    0.0,
+    -15.25,
+    0.0
+   ],
+   "size": [
+    165.0,
+    191.0,
+    163.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_007",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59287.5,
+    86.0,
+    -6869.5
+   ],
+   "orientation": [
+    0.0,
+    106.81,
+    0.0
+   ],
+   "size": [
+    161.0,
+    188.0,
+    165.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_008",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58607.5,
+    79.5,
+    6435.5
+   ],
+   "orientation": [
+    0.0,
+    135.54,
+    0.0
+   ],
+   "size": [
+    175.0,
+    177.0,
+    175.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_009",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66520.0,
+    40.5,
+    -4864.5
+   ],
+   "orientation": [
+    0.0,
+    113.63,
+    0.0
+   ],
+   "size": [
+    106.0,
+    117.0,
+    109.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_010",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49084.5,
+    75.0,
+    -4760.5
+   ],
+   "orientation": [
+    0.0,
+    99.91,
+    0.0
+   ],
+   "size": [
+    147.0,
+    184.0,
+    151.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_011",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55190.5,
+    86.5,
+    4822.0
+   ],
+   "orientation": [
+    0.0,
+    63.8,
+    0.0
+   ],
+   "size": [
+    171.0,
+    185.0,
+    174.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_012",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61575.5,
+    76.0,
+    -6577.0
+   ],
+   "orientation": [
+    0.0,
+    -173.46,
+    0.0
+   ],
+   "size": [
+    133.0,
+    170.0,
+    130.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_013",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57247.5,
+    70.0,
+    6751.5
+   ],
+   "orientation": [
+    0.0,
+    -106.17,
+    0.0
+   ],
+   "size": [
+    147.0,
+    172.0,
+    151.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_014",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60190.0,
+    84.0,
+    5427.5
+   ],
+   "orientation": [
+    0.0,
+    71.98,
+    0.0
+   ],
+   "size": [
+    170.0,
+    196.0,
+    173.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_015",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66965.5,
+    73.5,
+    -1372.5
+   ],
+   "orientation": [
+    0.0,
+    42.89,
+    0.0
+   ],
+   "size": [
+    153.0,
+    155.0,
+    153.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_016",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50575.5,
+    87.5,
+    -6700.0
+   ],
+   "orientation": [
+    0.0,
+    95.64,
+    0.0
+   ],
+   "size": [
+    115.0,
+    153.0,
+    118.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_017",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67723.0,
+    62.0,
+    6655.5
+   ],
+   "orientation": [
+    0.0,
+    43.34,
+    0.0
+   ],
+   "size": [
+    176.0,
+    178.0,
+    175.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_018",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65342.0,
+    75.0,
+    -4000.0
+   ],
+   "orientation": [
+    0.0,
+    -93.93,
+    0.0
+   ],
+   "size": [
+    128.0,
+    174.0,
+    132.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_019",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51042.0,
+    100.0,
+    -5669.5
+   ],
+   "orientation": [
+    0.0,
+    -48.72,
+    0.0
+   ],
+   "size": [
+    162.0,
+    164.0,
+    163.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_020",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50782.5,
+    67.5,
+    3943.0
+   ],
+   "orientation": [
+    0.0,
+    9.82,
+    0.0
+   ],
+   "size": [
+    145.0,
+    179.0,
+    142.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_021",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60607.5,
+    58.0,
+    5342.5
+   ],
+   "orientation": [
+    0.0,
+    176.26,
+    0.0
+   ],
+   "size": [
+    105.0,
+    140.0,
+    101.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_022",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52045.0,
+    51.0,
+    4758.5
+   ],
+   "orientation": [
+    0.0,
+    -159.09,
+    0.0
+   ],
+   "size": [
+    156.0,
+    172.0,
+    153.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_023",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67037.5,
+    54.0,
+    3080.5
+   ],
+   "orientation": [
+    0.0,
+    73.57,
+    0.0
+   ],
+   "size": [
+    109.0,
+    128.0,
+    111.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_024",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51802.0,
+    90.0,
+    -5216.5
+   ],
+   "orientation": [
+    0.0,
+    80.32,
+    0.0
+   ],
+   "size": [
+    122.0,
+    154.0,
+    125.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_025",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64136.5,
+    60.0,
+    -6244.0
+   ],
+   "orientation": [
+    0.0,
+    155.19,
+    0.0
+   ],
+   "size": [
+    121.0,
+    130.0,
+    120.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_026",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67184.5,
+    83.0,
+    -5452.5
+   ],
+   "orientation": [
+    0.0,
+    -35.67,
+    0.0
+   ],
+   "size": [
+    185.0,
+    190.0,
+    183.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_027",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61813.5,
+    69.5,
+    5650.0
+   ],
+   "orientation": [
+    0.0,
+    8.39,
+    0.0
+   ],
+   "size": [
+    93.0,
+    115.0,
+    90.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_028",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62486.0,
+    71.0,
+    5431.0
+   ],
+   "orientation": [
+    0.0,
+    142.74,
+    0.0
+   ],
+   "size": [
+    138.0,
+    142.0,
+    138.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_029",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49702.0,
+    53.5,
+    -6846.0
+   ],
+   "orientation": [
+    0.0,
+    -159.67,
+    0.0
+   ],
+   "size": [
+    122.0,
+    135.0,
+    120.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_030",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52106.0,
+    112.0,
+    -7263.0
+   ],
+   "orientation": [
+    0.0,
+    -6.56,
+    0.0
+   ],
+   "size": [
+    140.0,
+    178.0,
+    136.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_031",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59234.5,
+    36.5,
+    4524.0
+   ],
+   "orientation": [
+    0.0,
+    114.08,
+    0.0
+   ],
+   "size": [
+    107.0,
+    117.0,
+    108.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_032",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66279.0,
+    48.0,
+    -4069.0
+   ],
+   "orientation": [
+    0.0,
+    106.34,
+    0.0
+   ],
+   "size": [
+    102.0,
+    118.0,
+    104.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_033",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61362.5,
+    83.5,
+    4930.5
+   ],
+   "orientation": [
+    0.0,
+    -136.11,
+    0.0
+   ],
+   "size": [
+    171.0,
+    173.0,
+    171.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_034",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60138.5,
+    89.5,
+    -6500.5
+   ],
+   "orientation": [
+    0.0,
+    71.3,
+    0.0
+   ],
+   "size": [
+    167.0,
+    191.0,
+    169.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_035",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63937.5,
+    70.0,
+    5940.5
+   ],
+   "orientation": [
+    0.0,
+    16.66,
+    0.0
+   ],
+   "size": [
+    127.0,
+    146.0,
+    125.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_036",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -59244.0,
+    70.5,
+    6356.0
+   ],
+   "orientation": [
+    0.0,
+    -57.55,
+    0.0
+   ],
+   "size": [
+    166.0,
+    173.0,
+    168.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_037",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55965.5,
+    64.0,
+    4922.0
+   ],
+   "orientation": [
+    0.0,
+    51.13,
+    0.0
+   ],
+   "size": [
+    165.0,
+    168.0,
+    164.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_038",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51613.0,
+    106.5,
+    -5310.5
+   ],
+   "orientation": [
+    0.0,
+    89.27,
+    0.0
+   ],
+   "size": [
+    124.0,
+    179.0,
+    129.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_039",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66348.5,
+    44.5,
+    4167.5
+   ],
+   "orientation": [
+    0.0,
+    117.85,
+    0.0
+   ],
+   "size": [
+    137.0,
+    147.0,
+    139.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_040",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64806.0,
+    75.0,
+    6344.0
+   ],
+   "orientation": [
+    0.0,
+    96.28,
+    0.0
+   ],
+   "size": [
+    126.0,
+    166.0,
+    130.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_041",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50029.0,
+    25.5,
+    6012.0
+   ],
+   "orientation": [
+    0.0,
+    86.04,
+    0.0
+   ],
+   "size": [
+    110.0,
+    151.0,
+    114.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_042",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65685.5,
+    79.0,
+    -7744.0
+   ],
+   "orientation": [
+    0.0,
+    -24.91,
+    0.0
+   ],
+   "size": [
+    161.0,
+    172.0,
+    158.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_043",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61854.0,
+    55.5,
+    3648.0
+   ],
+   "orientation": [
+    0.0,
+    69.43,
+    0.0
+   ],
+   "size": [
+    116.0,
+    131.0,
+    118.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_044",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57022.5,
+    70.0,
+    -7710.5
+   ],
+   "orientation": [
+    0.0,
+    -148.6,
+    0.0
+   ],
+   "size": [
+    167.0,
+    174.0,
+    165.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_045",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48933.5,
+    69.0,
+    -4227.0
+   ],
+   "orientation": [
+    0.0,
+    -106.71,
+    0.0
+   ],
+   "size": [
+    137.0,
+    160.0,
+    140.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_046",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67255.5,
+    51.5,
+    1232.5
+   ],
+   "orientation": [
+    0.0,
+    128.06,
+    0.0
+   ],
+   "size": [
+    125.0,
+    127.0,
+    125.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_047",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67499.0,
+    50.0,
+    5833.5
+   ],
+   "orientation": [
+    0.0,
+    -115.97,
+    0.0
+   ],
+   "size": [
+    172.0,
+    186.0,
+    175.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_048",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48867.5,
+    60.0,
+    -6652.5
+   ],
+   "orientation": [
+    0.0,
+    103.88,
+    0.0
+   ],
+   "size": [
+    143.0,
+    172.0,
+    147.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_049",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53528.5,
+    64.0,
+    3617.0
+   ],
+   "orientation": [
+    0.0,
+    -179.55,
+    0.0
+   ],
+   "size": [
+    101.0,
+    142.0,
+    98.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_050",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63696.5,
+    66.5,
+    -6911.0
+   ],
+   "orientation": [
+    0.0,
+    -48.15,
+    0.0
+   ],
+   "size": [
+    147.0,
+    149.0,
+    148.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_051",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52229.0,
+    85.0,
+    6269.0
+   ],
+   "orientation": [
+    0.0,
+    51.9,
+    0.0
+   ],
+   "size": [
+    194.0,
+    198.0,
+    194.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_052",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67189.0,
+    91.0,
+    -105.0
+   ],
+   "orientation": [
+    0.0,
+    -154.0,
+    0.0
+   ],
+   "size": [
+    176.0,
+    188.0,
+    174.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_053",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64546.5,
+    99.5,
+    -6456.0
+   ],
+   "orientation": [
+    0.0,
+    72.33,
+    0.0
+   ],
+   "size": [
+    157.0,
+    181.0,
+    160.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_EULALIA_054",
+  "props": {
+   "meshId": "ovdrassetid://42184300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61832.0,
+    65.0,
+    -7272.5
+   ],
+   "orientation": [
+    0.0,
+    66.78,
+    0.0
+   ],
+   "size": [
+    132.0,
+    146.0,
+    135.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://42183800"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_000",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61176.0,
+    4.0,
+    3844.5
+   ],
+   "orientation": [
+    0.0,
+    -15.35,
+    0.0
+   ],
+   "size": [
+    218.0,
+    40.0,
+    201.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_001",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49626.5,
+    9.0,
+    3614.0
+   ],
+   "orientation": [
+    0.0,
+    -16.76,
+    0.0
+   ],
+   "size": [
+    267.0,
+    48.0,
+    248.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_002",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50361.0,
+    -24.5,
+    4670.5
+   ],
+   "orientation": [
+    0.0,
+    85.0,
+    0.0
+   ],
+   "size": [
+    192.0,
+    43.0,
+    215.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_003",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56166.0,
+    -11.5,
+    5780.0
+   ],
+   "orientation": [
+    0.0,
+    0.96,
+    0.0
+   ],
+   "size": [
+    164.0,
+    35.0,
+    144.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_004",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60698.5,
+    12.0,
+    3560.0
+   ],
+   "orientation": [
+    0.0,
+    114.16,
+    0.0
+   ],
+   "size": [
+    269.0,
+    48.0,
+    282.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_005",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50991.5,
+    23.5,
+    -3986.0
+   ],
+   "orientation": [
+    0.0,
+    9.87,
+    0.0
+   ],
+   "size": [
+    279.0,
+    53.0,
+    254.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_006",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61588.0,
+    22.5,
+    5003.5
+   ],
+   "orientation": [
+    0.0,
+    -178.36,
+    0.0
+   ],
+   "size": [
+    228.0,
+    49.0,
+    201.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_007",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62977.5,
+    12.0,
+    3812.0
+   ],
+   "orientation": [
+    0.0,
+    -93.02,
+    0.0
+   ],
+   "size": [
+    255.0,
+    60.0,
+    288.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_008",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67157.0,
+    -14.0,
+    6618.5
+   ],
+   "orientation": [
+    0.0,
+    176.95,
+    0.0
+   ],
+   "size": [
+    220.0,
+    46.0,
+    195.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_009",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48939.5,
+    10.0,
+    -1206.0
+   ],
+   "orientation": [
+    0.0,
+    -89.59,
+    0.0
+   ],
+   "size": [
+    177.0,
+    44.0,
+    202.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_010",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55535.0,
+    37.5,
+    -7395.0
+   ],
+   "orientation": [
+    0.0,
+    -36.48,
+    0.0
+   ],
+   "size": [
+    342.0,
+    57.0,
+    336.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_011",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67362.5,
+    19.0,
+    -872.0
+   ],
+   "orientation": [
+    0.0,
+    84.77,
+    0.0
+   ],
+   "size": [
+    163.0,
+    36.0,
+    182.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_012",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48339.5,
+    -1.0,
+    3025.0
+   ],
+   "orientation": [
+    0.0,
+    -118.29,
+    0.0
+   ],
+   "size": [
+    325.0,
+    56.0,
+    338.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_013",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53850.5,
+    37.5,
+    6031.5
+   ],
+   "orientation": [
+    0.0,
+    -12.44,
+    0.0
+   ],
+   "size": [
+    271.0,
+    51.0,
+    249.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_014",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53210.5,
+    44.5,
+    -7788.5
+   ],
+   "orientation": [
+    0.0,
+    -63.44,
+    0.0
+   ],
+   "size": [
+    241.0,
+    43.0,
+    251.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_015",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50531.0,
+    24.0,
+    -5997.0
+   ],
+   "orientation": [
+    0.0,
+    174.81,
+    0.0
+   ],
+   "size": [
+    188.0,
+    38.0,
+    168.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_016",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -62211.0,
+    12.5,
+    4953.5
+   ],
+   "orientation": [
+    0.0,
+    -105.31,
+    0.0
+   ],
+   "size": [
+    192.0,
+    37.0,
+    207.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_017",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60696.0,
+    40.0,
+    6700.0
+   ],
+   "orientation": [
+    0.0,
+    2.72,
+    0.0
+   ],
+   "size": [
+    198.0,
+    42.0,
+    176.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_018",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55249.0,
+    15.5,
+    5017.0
+   ],
+   "orientation": [
+    0.0,
+    -22.0,
+    0.0
+   ],
+   "size": [
+    320.0,
+    55.0,
+    302.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_019",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64103.5,
+    -3.0,
+    4611.5
+   ],
+   "orientation": [
+    0.0,
+    125.77,
+    0.0
+   ],
+   "size": [
+    299.0,
+    50.0,
+    305.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_020",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48536.0,
+    7.0,
+    -3223.0
+   ],
+   "orientation": [
+    0.0,
+    -108.53,
+    0.0
+   ],
+   "size": [
+    300.0,
+    56.0,
+    320.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_021",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -55502.5,
+    11.0,
+    5634.5
+   ],
+   "orientation": [
+    0.0,
+    160.58,
+    0.0
+   ],
+   "size": [
+    275.0,
+    48.0,
+    259.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_022",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63074.0,
+    12.5,
+    4318.0
+   ],
+   "orientation": [
+    0.0,
+    -23.0,
+    0.0
+   ],
+   "size": [
+    330.0,
+    57.0,
+    312.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_023",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57497.0,
+    -2.5,
+    -7453.0
+   ],
+   "orientation": [
+    0.0,
+    103.15,
+    0.0
+   ],
+   "size": [
+    200.0,
+    41.0,
+    218.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_024",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63818.5,
+    10.5,
+    -6875.0
+   ],
+   "orientation": [
+    0.0,
+    64.22,
+    0.0
+   ],
+   "size": [
+    233.0,
+    41.0,
+    244.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_025",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63501.0,
+    8.0,
+    4799.5
+   ],
+   "orientation": [
+    0.0,
+    15.94,
+    0.0
+   ],
+   "size": [
+    288.0,
+    52.0,
+    267.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_026",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57467.0,
+    9.0,
+    4731.5
+   ],
+   "orientation": [
+    0.0,
+    -50.63,
+    0.0
+   ],
+   "size": [
+    278.0,
+    46.0,
+    281.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_027",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49986.5,
+    10.5,
+    -5739.5
+   ],
+   "orientation": [
+    0.0,
+    -5.41,
+    0.0
+   ],
+   "size": [
+    245.0,
+    49.0,
+    219.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_028",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56731.0,
+    -10.5,
+    5982.5
+   ],
+   "orientation": [
+    0.0,
+    -166.09,
+    0.0
+   ],
+   "size": [
+    222.0,
+    41.0,
+    205.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_029",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63201.5,
+    15.0,
+    -7209.5
+   ],
+   "orientation": [
+    0.0,
+    115.54,
+    0.0
+   ],
+   "size": [
+    281.0,
+    50.0,
+    295.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_030",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51173.5,
+    48.0,
+    -7109.0
+   ],
+   "orientation": [
+    0.0,
+    -65.51,
+    0.0
+   ],
+   "size": [
+    327.0,
+    58.0,
+    344.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_031",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66511.0,
+    2.0,
+    -5666.0
+   ],
+   "orientation": [
+    0.0,
+    -159.81,
+    0.0
+   ],
+   "size": [
+    204.0,
+    36.0,
+    192.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_032",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49993.0,
+    -29.0,
+    6792.5
+   ],
+   "orientation": [
+    0.0,
+    -166.09,
+    0.0
+   ],
+   "size": [
+    268.0,
+    50.0,
+    247.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_033",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -56027.0,
+    -11.0,
+    6404.0
+   ],
+   "orientation": [
+    0.0,
+    131.57,
+    0.0
+   ],
+   "size": [
+    336.0,
+    56.0,
+    338.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_034",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50691.0,
+    24.5,
+    -5335.5
+   ],
+   "orientation": [
+    0.0,
+    133.7,
+    0.0
+   ],
+   "size": [
+    270.0,
+    45.0,
+    271.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_035",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65552.5,
+    -3.0,
+    6014.0
+   ],
+   "orientation": [
+    0.0,
+    -7.53,
+    0.0
+   ],
+   "size": [
+    293.0,
+    58.0,
+    264.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_036",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64210.0,
+    20.5,
+    -6455.5
+   ],
+   "orientation": [
+    0.0,
+    -100.84,
+    0.0
+   ],
+   "size": [
+    236.0,
+    49.0,
+    259.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_037",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48774.5,
+    -18.5,
+    -6953.5
+   ],
+   "orientation": [
+    0.0,
+    -56.69,
+    0.0
+   ],
+   "size": [
+    221.0,
+    37.0,
+    227.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_038",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48414.5,
+    -18.5,
+    4971.0
+   ],
+   "orientation": [
+    0.0,
+    130.14,
+    0.0
+   ],
+   "size": [
+    223.0,
+    37.0,
+    226.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_039",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52965.5,
+    46.0,
+    -5334.0
+   ],
+   "orientation": [
+    0.0,
+    -158.67,
+    0.0
+   ],
+   "size": [
+    325.0,
+    56.0,
+    306.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_040",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64071.5,
+    14.5,
+    6084.5
+   ],
+   "orientation": [
+    0.0,
+    153.62,
+    0.0
+   ],
+   "size": [
+    281.0,
+    47.0,
+    269.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_041",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -50769.0,
+    -23.5,
+    6799.5
+   ],
+   "orientation": [
+    0.0,
+    -96.54,
+    0.0
+   ],
+   "size": [
+    248.0,
+    55.0,
+    275.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_042",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67077.5,
+    20.5,
+    -2089.5
+   ],
+   "orientation": [
+    0.0,
+    -63.39,
+    0.0
+   ],
+   "size": [
+    303.0,
+    53.0,
+    317.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_043",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57565.5,
+    17.5,
+    -6793.5
+   ],
+   "orientation": [
+    0.0,
+    76.05,
+    0.0
+   ],
+   "size": [
+    267.0,
+    53.0,
+    289.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_044",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54043.5,
+    45.0,
+    6424.5
+   ],
+   "orientation": [
+    0.0,
+    -145.22,
+    0.0
+   ],
+   "size": [
+    293.0,
+    48.0,
+    285.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_045",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63411.5,
+    10.0,
+    5146.0
+   ],
+   "orientation": [
+    0.0,
+    -130.72,
+    0.0
+   ],
+   "size": [
+    325.0,
+    54.0,
+    328.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_046",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49498.5,
+    -15.5,
+    4892.0
+   ],
+   "orientation": [
+    0.0,
+    119.65,
+    0.0
+   ],
+   "size": [
+    297.0,
+    51.0,
+    308.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_047",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63070.0,
+    11.5,
+    6430.5
+   ],
+   "orientation": [
+    0.0,
+    -88.13,
+    0.0
+   ],
+   "size": [
+    166.0,
+    39.0,
+    189.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_048",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48706.5,
+    3.0,
+    2972.0
+   ],
+   "orientation": [
+    0.0,
+    -147.58,
+    0.0
+   ],
+   "size": [
+    241.0,
+    40.0,
+    234.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_049",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54830.5,
+    51.0,
+    -7303.5
+   ],
+   "orientation": [
+    0.0,
+    18.77,
+    0.0
+   ],
+   "size": [
+    317.0,
+    56.0,
+    297.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_050",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -65254.0,
+    2.5,
+    -4200.5
+   ],
+   "orientation": [
+    0.0,
+    -2.64,
+    0.0
+   ],
+   "size": [
+    214.0,
+    45.0,
+    189.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_051",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67072.5,
+    11.0,
+    1090.0
+   ],
+   "orientation": [
+    0.0,
+    -23.05,
+    0.0
+   ],
+   "size": [
+    245.0,
+    42.0,
+    232.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_052",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54147.0,
+    23.5,
+    4889.5
+   ],
+   "orientation": [
+    0.0,
+    127.62,
+    0.0
+   ],
+   "size": [
+    356.0,
+    59.0,
+    363.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_053",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -51160.5,
+    -24.5,
+    4809.5
+   ],
+   "orientation": [
+    0.0,
+    0.94,
+    0.0
+   ],
+   "size": [
+    249.0,
+    53.0,
+    219.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_054",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67691.5,
+    -17.0,
+    -7659.0
+   ],
+   "orientation": [
+    0.0,
+    -96.19,
+    0.0
+   ],
+   "size": [
+    161.0,
+    36.0,
+    180.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_055",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67497.5,
+    29.5,
+    -278.5
+   ],
+   "orientation": [
+    0.0,
+    96.66,
+    0.0
+   ],
+   "size": [
+    259.0,
+    57.0,
+    287.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_056",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53543.5,
+    12.0,
+    3777.0
+   ],
+   "orientation": [
+    0.0,
+    -50.03,
+    0.0
+   ],
+   "size": [
+    265.0,
+    44.0,
+    268.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_057",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61057.0,
+    3.5,
+    -7705.5
+   ],
+   "orientation": [
+    0.0,
+    84.64,
+    0.0
+   ],
+   "size": [
+    262.0,
+    59.0,
+    293.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_058",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48999.5,
+    13.5,
+    2603.5
+   ],
+   "orientation": [
+    0.0,
+    -22.67,
+    0.0
+   ],
+   "size": [
+    281.0,
+    49.0,
+    265.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_059",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49284.5,
+    20.5,
+    -1466.0
+   ],
+   "orientation": [
+    0.0,
+    149.2,
+    0.0
+   ],
+   "size": [
+    343.0,
+    57.0,
+    332.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_060",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61096.0,
+    3.0,
+    3839.5
+   ],
+   "orientation": [
+    0.0,
+    78.18,
+    0.0
+   ],
+   "size": [
+    182.0,
+    38.0,
+    199.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_061",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -52924.0,
+    13.5,
+    4438.5
+   ],
+   "orientation": [
+    0.0,
+    107.06,
+    0.0
+   ],
+   "size": [
+    306.0,
+    59.0,
+    329.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_062",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -61735.0,
+    23.5,
+    5147.0
+   ],
+   "orientation": [
+    0.0,
+    -111.11,
+    0.0
+   ],
+   "size": [
+    250.0,
+    47.0,
+    266.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_063",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63275.0,
+    22.5,
+    -4508.5
+   ],
+   "orientation": [
+    0.0,
+    52.2,
+    0.0
+   ],
+   "size": [
+    270.0,
+    45.0,
+    275.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_064",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48292.0,
+    -11.0,
+    4820.5
+   ],
+   "orientation": [
+    0.0,
+    -46.64,
+    0.0
+   ],
+   "size": [
+    338.0,
+    56.0,
+    339.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_065",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58982.5,
+    6.5,
+    4142.0
+   ],
+   "orientation": [
+    0.0,
+    -98.71,
+    0.0
+   ],
+   "size": [
+    199.0,
+    43.0,
+    220.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_066",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -53508.5,
+    16.5,
+    4658.5
+   ],
+   "orientation": [
+    0.0,
+    -121.76,
+    0.0
+   ],
+   "size": [
+    325.0,
+    55.0,
+    335.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_067",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -48513.5,
+    -19.5,
+    5656.5
+   ],
+   "orientation": [
+    0.0,
+    89.85,
+    0.0
+   ],
+   "size": [
+    165.0,
+    41.0,
+    189.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_068",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -64413.0,
+    6.0,
+    -4728.0
+   ],
+   "orientation": [
+    0.0,
+    -43.03,
+    0.0
+   ],
+   "size": [
+    280.0,
+    46.0,
+    278.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_FERN_069",
+  "props": {
+   "meshId": "ovdrassetid://44753200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60918.0,
+    9.0,
+    4959.0
+   ],
+   "orientation": [
+    0.0,
+    6.49,
+    0.0
+   ],
+   "size": [
+    212.0,
+    42.0,
+    190.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44753100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_000",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -60784.0,
+    9.5,
+    4453.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    182.0,
+    73.0,
+    203.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_001",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -54044.5,
+    15.5,
+    4703.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    153.0,
+    61.0,
+    171.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_002",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -66698.0,
+    20.0,
+    -6728.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    170.0,
+    68.0,
+    190.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_003",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -63403.0,
+    12.0,
+    -5880.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    144.0,
+    58.0,
+    161.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_004",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -49520.5,
+    6.0,
+    -7367.0
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    185.0,
+    74.0,
+    206.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_지면소품_STUMP_005",
+  "props": {
+   "meshId": "ovdrassetid://44714600",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -67402.0,
+    15.5,
+    492.5
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    142.0,
+    57.0,
+    157.0
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": false,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://44742200"
+   }
+  }
+ }
+]

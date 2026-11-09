@@ -11,6 +11,7 @@
 | **창덕궁 (CDG)** | Blender 단계. 원본 실측·감축 정책 확정 | 원본 25.4 M 트라이앵글 → 목표 1.2 M |
 | **수원 화성 (HS)** | 반입 완료 → 성능 사유로 `ServerStorage` 대기 | 372 × 384 m, MeshPart 189 — [`hwaseong/`](hwaseong/) |
 | **소쇄원 (SSW)** | 블록아웃 | — |
+| **수원 화성 장안문 아레나 (HWS v25)** | Studio 배치·Lua 연동 완료, 실기 fps 확인 대기 | 140 × 100 m, 인스턴스 ~8,300 — [`hwaseong/v25/`](hwaseong/v25/) |
 
 ---
 
@@ -82,6 +83,17 @@
 
 담양 소쇄원 블록아웃(무텍스처). 여기서 쓴 임포트 헬퍼(`ssw_live.py`)가 이후 산곡 파이프라인의
 바탕이 됐다 — [overdare-map-pipeline](https://github.com/ShootTheMoon/overdare-map-pipeline)에 있다.
+
+## 수원 화성 — 장안문 아레나 (v25)
+
+| | |
+|---|---|
+| ![](previews/hwaseong/gh_front.jpg) | ![](previews/hwaseong/g3_west_field.jpg) |
+
+KCISA 장안문 스캔(CC BY 4.0) + 남한산성 담장 모듈(KOGL)로 지은 근접전 아레나. 문짝 8장이 점령지가 열릴 때
+안쪽으로 열리고, 성 안 마당·성 밖 들판에 점령 구역이 뜬다. 지형 이음선 문제를 다섯 번 다시 구워 가며 잡은 기록이
+[`hwaseong/v25/docs/WORKLOG.md`](hwaseong/v25/docs/WORKLOG.md) 에 있다. 자세한 구성은 [`hwaseong/v25/README.md`](hwaseong/v25/README.md).
+위의 v23(372 × 384 m 권역)과는 별개 빌드다. v23 은 `ServerStorage`, v25 는 `Workspace.HWS_Hwaseong` 에 있다.
 
 ---
 

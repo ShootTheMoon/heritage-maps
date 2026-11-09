@@ -1,0 +1,4373 @@
+[
+ {
+  "className": "Part",
+  "name": "COL_HWS_0400",
+  "props": {
+   "position": [
+    -76400.1,
+    298.0,
+    9700.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.328,
+    0.0,
+    -0.116
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0401",
+  "props": {
+   "position": [
+    -76400.5,
+    284.3,
+    6500.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.074,
+    0.0,
+    -0.52
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0402",
+  "props": {
+   "position": [
+    -76400.0,
+    276.9,
+    3300.2
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.208,
+    0.0,
+    0.056
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0403",
+  "props": {
+   "position": [
+    -76400.2,
+    301.5,
+    99.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.79,
+    0.0,
+    -0.178
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0404",
+  "props": {
+   "position": [
+    -76399.8,
+    324.7,
+    -3100.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.002,
+    0.0,
+    0.274
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0405",
+  "props": {
+   "position": [
+    -76400.0,
+    320.0,
+    -6299.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.226,
+    0.0,
+    -0.03
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0406",
+  "props": {
+   "position": [
+    -76400.4,
+    304.8,
+    -9499.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.311,
+    0.0,
+    -0.421
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0407",
+  "props": {
+   "position": [
+    -76400.1,
+    283.9,
+    -12699.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.177,
+    0.0,
+    -0.109
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0408",
+  "props": {
+   "position": [
+    -73199.8,
+    303.9,
+    12900.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.007,
+    0.0,
+    0.195
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0409",
+  "props": {
+   "position": [
+    -73200.7,
+    279.7,
+    9701.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.177,
+    0.0,
+    -0.79
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0410",
+  "props": {
+   "position": [
+    -73201.5,
+    243.8,
+    6499.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.232,
+    0.0,
+    -1.745
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0411",
+  "props": {
+   "position": [
+    -73201.5,
+    259.9,
+    3300.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.135,
+    0.0,
+    -1.729
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0412",
+  "props": {
+   "position": [
+    -73201.4,
+    268.1,
+    99.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.76,
+    0.0,
+    -1.65
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0413",
+  "props": {
+   "position": [
+    -73201.9,
+    288.6,
+    -3099.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.35,
+    0.0,
+    -2.232
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0414",
+  "props": {
+   "position": [
+    -73202.6,
+    247.8,
+    -6299.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.675,
+    0.0,
+    -2.986
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0415",
+  "props": {
+   "position": [
+    -73201.1,
+    262.2,
+    -9500.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.919,
+    0.0,
+    -1.308
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0416",
+  "props": {
+   "position": [
+    -73200.0,
+    285.2,
+    -12699.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.164,
+    0.0,
+    -0.023
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0417",
+  "props": {
+   "position": [
+    -70000.6,
+    299.6,
+    12900.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.593,
+    0.0,
+    -0.632
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0418",
+  "props": {
+   "position": [
+    -70802.0,
+    254.9,
+    10502.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -2.773,
+    0.0,
+    -2.349
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0419",
+  "props": {
+   "position": [
+    -69201.4,
+    198.5,
+    10503.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.271,
+    0.0,
+    -1.562
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0420",
+  "props": {
+   "position": [
+    -70803.2,
+    160.5,
+    8903.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -3.572,
+    0.0,
+    -3.692
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0421",
+  "props": {
+   "position": [
+    -69202.2,
+    67.9,
+    8903.9
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.532,
+    0.0,
+    -2.565
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0422",
+  "props": {
+   "position": [
+    -70003.4,
+    53.0,
+    6500.2
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.236,
+    0.0,
+    -3.893
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0423",
+  "props": {
+   "position": [
+    -70804.1,
+    118.5,
+    4099.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.612,
+    0.0,
+    -4.707
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0424",
+  "props": {
+   "position": [
+    -69203.6,
+    -2.6,
+    4099.8
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.22,
+    0.0,
+    -4.08
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0425",
+  "props": {
+   "position": [
+    -70804.0,
+    121.5,
+    2500.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.239,
+    0.0,
+    -4.617
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0426",
+  "props": {
+   "position": [
+    -69203.6,
+    -0.3,
+    2500.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.037,
+    0.0,
+    -4.168
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0427",
+  "props": {
+   "position": [
+    -70804.2,
+    117.7,
+    900.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.034,
+    0.0,
+    -4.792
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0428",
+  "props": {
+   "position": [
+    -69203.2,
+    -1.9,
+    900.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.258,
+    0.0,
+    -3.717
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0429",
+  "props": {
+   "position": [
+    -70804.9,
+    129.6,
+    -700.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.733,
+    0.0,
+    -5.647
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0430",
+  "props": {
+   "position": [
+    -69202.7,
+    -1.5,
+    -700.3
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.343,
+    0.0,
+    -3.11
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0431",
+  "props": {
+   "position": [
+    -70804.8,
+    146.2,
+    -2300.3
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.377,
+    0.0,
+    -5.523
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0432",
+  "props": {
+   "position": [
+    -69203.0,
+    9.3,
+    -2300.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.516,
+    0.0,
+    -3.495
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0433",
+  "props": {
+   "position": [
+    -70804.1,
+    128.0,
+    -3898.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -1.613,
+    0.0,
+    -4.733
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0434",
+  "props": {
+   "position": [
+    -69202.9,
+    12.7,
+    -3899.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.435,
+    0.0,
+    -3.373
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0435",
+  "props": {
+   "position": [
+    -70003.0,
+    41.1,
+    -6299.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.351,
+    0.0,
+    -3.448
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0436",
+  "props": {
+   "position": [
+    -70804.0,
+    115.0,
+    -8701.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    1.945,
+    0.0,
+    -4.581
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0437",
+  "props": {
+   "position": [
+    -69202.5,
+    3.1,
+    -8701.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    1.73,
+    0.0,
+    -2.905
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0438",
+  "props": {
+   "position": [
+    -70803.3,
+    184.0,
+    -10302.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    3.057,
+    0.0,
+    -3.828
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0439",
+  "props": {
+   "position": [
+    -69202.0,
+    90.9,
+    -10303.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    4.198,
+    0.0,
+    -2.338
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0440",
+  "props": {
+   "position": [
+    -70001.0,
+    252.4,
+    -12701.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    1.588,
+    0.0,
+    -1.107
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0441",
+  "props": {
+   "position": [
+    -66800.0,
+    270.8,
+    12900.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.953,
+    0.0,
+    0.056
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0442",
+  "props": {
+   "position": [
+    -67601.1,
+    152.8,
+    10504.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.745,
+    0.0,
+    -1.212
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0443",
+  "props": {
+   "position": [
+    -65999.3,
+    152.5,
+    10504.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.162,
+    0.0,
+    0.76
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0444",
+  "props": {
+   "position": [
+    -67600.7,
+    21.4,
+    8903.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.288,
+    0.0,
+    -0.812
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0445",
+  "props": {
+   "position": [
+    -65999.7,
+    18.5,
+    8903.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.151,
+    0.0,
+    0.324
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0446",
+  "props": {
+   "position": [
+    -66800.2,
+    -61.3,
+    6500.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.833,
+    0.0,
+    -0.206
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0447",
+  "props": {
+   "position": [
+    -66800.0,
+    -64.8,
+    3299.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.439,
+    0.0,
+    0.049
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0448",
+  "props": {
+   "position": [
+    -66800.2,
+    -46.9,
+    99.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.279,
+    0.0,
+    -0.173
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0449",
+  "props": {
+   "position": [
+    -66800.5,
+    -41.2,
+    -3099.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.176,
+    0.0,
+    -0.618
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0450",
+  "props": {
+   "position": [
+    -66799.9,
+    -51.3,
+    -6299.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.141,
+    0.0,
+    0.077
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0451",
+  "props": {
+   "position": [
+    -66799.9,
+    23.4,
+    -9503.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.543,
+    0.0,
+    0.117
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0452",
+  "props": {
+   "position": [
+    -66799.4,
+    247.1,
+    -12702.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.374,
+    0.0,
+    0.642
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0453",
+  "props": {
+   "position": [
+    -63600.0,
+    286.4,
+    12900.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.707,
+    0.0,
+    0.047
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0454",
+  "props": {
+   "position": [
+    -64399.5,
+    175.1,
+    10504.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.126,
+    0.0,
+    0.591
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0455",
+  "props": {
+   "position": [
+    -62800.6,
+    175.5,
+    10504.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.34,
+    0.0,
+    -0.633
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0456",
+  "props": {
+   "position": [
+    -64399.6,
+    31.8,
+    8904.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.632,
+    0.0,
+    0.5
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0457",
+  "props": {
+   "position": [
+    -62800.3,
+    30.8,
+    8904.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.683,
+    0.0,
+    -0.297
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0458",
+  "props": {
+   "position": [
+    -63599.6,
+    -46.1,
+    6500.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.46,
+    0.0,
+    0.44
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0459",
+  "props": {
+   "position": [
+    -63600.0,
+    24.5,
+    -9503.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.504,
+    0.0,
+    -0.001
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0460",
+  "props": {
+   "position": [
+    -63600.4,
+    257.8,
+    -12702.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.104,
+    0.0,
+    -0.467
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0461",
+  "props": {
+   "position": [
+    -60400.0,
+    270.2,
+    12900.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.631,
+    0.0,
+    0.034
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0462",
+  "props": {
+   "position": [
+    -61199.6,
+    168.6,
+    10504.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.634,
+    0.0,
+    0.445
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0463",
+  "props": {
+   "position": [
+    -59599.8,
+    183.5,
+    10503.8
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.405,
+    0.0,
+    0.205
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0464",
+  "props": {
+   "position": [
+    -61199.7,
+    31.7,
+    8904.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.617,
+    0.0,
+    0.399
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0465",
+  "props": {
+   "position": [
+    -59599.8,
+    43.2,
+    8904.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.239,
+    0.0,
+    0.206
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0466",
+  "props": {
+   "position": [
+    -60400.4,
+    -41.0,
+    6500.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.576,
+    0.0,
+    -0.443
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0467",
+  "props": {
+   "position": [
+    -60400.3,
+    12.1,
+    -9502.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.168,
+    0.0,
+    -0.287
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0468",
+  "props": {
+   "position": [
+    -60400.4,
+    215.3,
+    -12702.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    2.794,
+    0.0,
+    -0.405
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0469",
+  "props": {
+   "position": [
+    -57199.8,
+    279.5,
+    12901.2
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.322,
+    0.0,
+    0.179
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0470",
+  "props": {
+   "position": [
+    -58001.1,
+    167.4,
+    10504.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.85,
+    0.0,
+    -1.209
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0471",
+  "props": {
+   "position": [
+    -56399.7,
+    153.0,
+    10504.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.404,
+    0.0,
+    0.384
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0472",
+  "props": {
+   "position": [
+    -58000.9,
+    31.9,
+    8903.9
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.498,
+    0.0,
+    -1.028
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0473",
+  "props": {
+   "position": [
+    -56399.7,
+    17.6,
+    8903.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -3.691,
+    0.0,
+    0.299
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0474",
+  "props": {
+   "position": [
+    -57200.2,
+    -53.6,
+    6500.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.458,
+    0.0,
+    -0.178
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0475",
+  "props": {
+   "position": [
+    -57199.6,
+    18.9,
+    -9502.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.037,
+    0.0,
+    0.451
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0476",
+  "props": {
+   "position": [
+    -57199.8,
+    220.6,
+    -12702.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.085,
+    0.0,
+    0.251
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0477",
+  "props": {
+   "position": [
+    -54000.0,
+    282.3,
+    12901.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.269,
+    0.0,
+    0.057
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0478",
+  "props": {
+   "position": [
+    -54800.0,
+    161.2,
+    10504.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.858,
+    0.0,
+    -0.004
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0479",
+  "props": {
+   "position": [
+    -53199.7,
+    169.9,
+    10504.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.756,
+    0.0,
+    0.381
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0480",
+  "props": {
+   "position": [
+    -54799.7,
+    27.8,
+    8903.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.193,
+    0.0,
+    0.299
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0481",
+  "props": {
+   "position": [
+    -53200.0,
+    31.9,
+    8904.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.62,
+    0.0,
+    -0.014
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0482",
+  "props": {
+   "position": [
+    -53999.9,
+    -40.7,
+    6500.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.333,
+    0.0,
+    0.127
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0483",
+  "props": {
+   "position": [
+    -53999.8,
+    35.3,
+    -9502.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    2.809,
+    0.0,
+    0.179
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0484",
+  "props": {
+   "position": [
+    -54000.1,
+    220.7,
+    -12702.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    2.968,
+    0.0,
+    -0.111
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0485",
+  "props": {
+   "position": [
+    -50800.2,
+    284.7,
+    12900.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.025,
+    0.0,
+    -0.178
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0486",
+  "props": {
+   "position": [
+    -51600.6,
+    162.1,
+    10504.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.316,
+    0.0,
+    -0.714
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0487",
+  "props": {
+   "position": [
+    -49999.7,
+    156.5,
+    10504.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.26,
+    0.0,
+    0.298
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0488",
+  "props": {
+   "position": [
+    -51600.1,
+    28.9,
+    8903.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -3.95,
+    0.0,
+    -0.063
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0489",
+  "props": {
+   "position": [
+    -50000.1,
+    28.2,
+    8903.3
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -3.828,
+    0.0,
+    -0.065
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0490",
+  "props": {
+   "position": [
+    -50800.3,
+    -65.7,
+    6500.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.959,
+    0.0,
+    -0.366
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0491",
+  "props": {
+   "position": [
+    -50800.4,
+    31.6,
+    -9502.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.041,
+    0.0,
+    -0.468
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0492",
+  "props": {
+   "position": [
+    -50800.2,
+    222.4,
+    -12702.7
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    3.064,
+    0.0,
+    -0.209
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0493",
+  "props": {
+   "position": [
+    -47599.1,
+    306.3,
+    12900.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.043,
+    0.0,
+    0.982
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0494",
+  "props": {
+   "position": [
+    -48399.7,
+    162.6,
+    10504.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -5.17,
+    0.0,
+    0.326
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0495",
+  "props": {
+   "position": [
+    -46797.6,
+    208.3,
+    10503.9
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.518,
+    0.0,
+    2.741
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0496",
+  "props": {
+   "position": [
+    -48399.7,
+    26.7,
+    8903.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.1,
+    0.0,
+    0.291
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0497",
+  "props": {
+   "position": [
+    -46796.7,
+    84.6,
+    8903.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -4.03,
+    0.0,
+    3.792
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0498",
+  "props": {
+   "position": [
+    -47598.2,
+    -30.1,
+    6500.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.895,
+    0.0,
+    2.081
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0499",
+  "props": {
+   "position": [
+    -47598.4,
+    -31.0,
+    3299.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.531,
+    0.0,
+    1.887
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0500",
+  "props": {
+   "position": [
+    -47598.4,
+    -23.6,
+    100.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.288,
+    0.0,
+    1.873
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0501",
+  "props": {
+   "position": [
+    -47598.7,
+    -36.5,
+    -3100.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.022,
+    0.0,
+    1.454
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0502",
+  "props": {
+   "position": [
+    -47598.0,
+    -33.1,
+    -6300.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.001,
+    0.0,
+    2.272
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0503",
+  "props": {
+   "position": [
+    -48400.1,
+    -40.2,
+    -8703.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    3.495,
+    0.0,
+    -0.11
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0504",
+  "props": {
+   "position": [
+    -46796.6,
+    17.9,
+    -8701.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    1.612,
+    0.0,
+    3.95
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0505",
+  "props": {
+   "position": [
+    -48400.0,
+    62.5,
+    -10303.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    3.915,
+    0.0,
+    -0.0
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0506",
+  "props": {
+   "position": [
+    -46797.8,
+    93.8,
+    -10303.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    3.652,
+    0.0,
+    2.469
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0507",
+  "props": {
+   "position": [
+    -47599.6,
+    223.4,
+    -12702.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    2.893,
+    0.0,
+    0.511
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0508",
+  "props": {
+   "position": [
+    -44400.6,
+    314.6,
+    12900.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.378,
+    0.0,
+    -0.667
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0509",
+  "props": {
+   "position": [
+    -44398.3,
+    256.6,
+    9701.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -1.507,
+    0.0,
+    1.98
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0510",
+  "props": {
+   "position": [
+    -45195.9,
+    126.7,
+    7301.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -1.763,
+    0.0,
+    4.758
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0511",
+  "props": {
+   "position": [
+    -43597.0,
+    249.8,
+    7301.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -1.156,
+    0.0,
+    3.461
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0512",
+  "props": {
+   "position": [
+    -45195.8,
+    94.2,
+    5700.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.567,
+    0.0,
+    4.81
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0513",
+  "props": {
+   "position": [
+    -43596.5,
+    225.8,
+    5700.2
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.252,
+    0.0,
+    4.015
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0514",
+  "props": {
+   "position": [
+    -45195.0,
+    106.3,
+    4099.0
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    1.203,
+    0.0,
+    5.71
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0515",
+  "props": {
+   "position": [
+    -43596.6,
+    249.0,
+    4098.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    1.664,
+    0.0,
+    3.866
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0516",
+  "props": {
+   "position": [
+    -45195.1,
+    133.0,
+    2499.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.723,
+    0.0,
+    5.57
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0517",
+  "props": {
+   "position": [
+    -43596.8,
+    272.6,
+    2500.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.165,
+    0.0,
+    3.641
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0518",
+  "props": {
+   "position": [
+    -45195.6,
+    132.4,
+    900.5
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.545,
+    0.0,
+    5.088
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0519",
+  "props": {
+   "position": [
+    -43597.1,
+    257.4,
+    900.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.655,
+    0.0,
+    3.296
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0520",
+  "props": {
+   "position": [
+    -45195.8,
+    119.7,
+    -699.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.325,
+    0.0,
+    4.829
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0521",
+  "props": {
+   "position": [
+    -43597.2,
+    235.4,
+    -699.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.318,
+    0.0,
+    3.241
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0522",
+  "props": {
+   "position": [
+    -45195.4,
+    98.9,
+    -2299.3
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.779,
+    0.0,
+    5.241
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0523",
+  "props": {
+   "position": [
+    -43596.9,
+    221.3,
+    -2299.4
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.638,
+    0.0,
+    3.51
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0524",
+  "props": {
+   "position": [
+    -45195.8,
+    93.4,
+    -3900.1
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.103,
+    0.0,
+    4.856
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0525",
+  "props": {
+   "position": [
+    -43596.2,
+    229.5,
+    -3900.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.755,
+    0.0,
+    4.362
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0526",
+  "props": {
+   "position": [
+    -45196.2,
+    100.3,
+    -5500.6
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.679,
+    0.0,
+    4.382
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0527",
+  "props": {
+   "position": [
+    -43596.6,
+    230.9,
+    -5499.8
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    -0.196,
+    0.0,
+    3.91
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0528",
+  "props": {
+   "position": [
+    -45196.0,
+    129.5,
+    -7100.8
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.869,
+    0.0,
+    4.631
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0529",
+  "props": {
+   "position": [
+    -43597.2,
+    243.5,
+    -7100.7
+   ],
+   "size": [
+    1600.0,
+    40.0,
+    1600.0
+   ],
+   "orientation": [
+    0.792,
+    0.0,
+    3.194
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0530",
+  "props": {
+   "position": [
+    -44397.0,
+    221.1,
+    -9501.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    1.194,
+    0.0,
+    3.425
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0531",
+  "props": {
+   "position": [
+    -44399.5,
+    275.7,
+    -12700.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.562,
+    0.0,
+    0.601
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0532",
+  "props": {
+   "position": [
+    -41200.0,
+    283.8,
+    12900.3
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.355,
+    0.0,
+    -0.041
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0533",
+  "props": {
+   "position": [
+    -41200.1,
+    291.7,
+    9699.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.55,
+    0.0,
+    -0.088
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0534",
+  "props": {
+   "position": [
+    -41199.6,
+    293.4,
+    6500.1
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.126,
+    0.0,
+    0.456
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0535",
+  "props": {
+   "position": [
+    -41199.6,
+    318.1,
+    3299.6
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.479,
+    0.0,
+    0.453
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0536",
+  "props": {
+   "position": [
+    -41199.9,
+    296.5,
+    100.5
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.588,
+    0.0,
+    0.128
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0537",
+  "props": {
+   "position": [
+    -41199.9,
+    289.9,
+    -3100.4
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.497,
+    0.0,
+    0.077
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0538",
+  "props": {
+   "position": [
+    -41199.8,
+    300.0,
+    -6300.0
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    0.014,
+    0.0,
+    0.207
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0539",
+  "props": {
+   "position": [
+    -41200.0,
+    307.2,
+    -9499.9
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.091,
+    0.0,
+    -0.0
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ },
+ {
+  "className": "Part",
+  "name": "COL_HWS_0540",
+  "props": {
+   "position": [
+    -41199.8,
+    282.4,
+    -12699.8
+   ],
+   "size": [
+    3200.0,
+    40.0,
+    3200.0
+   ],
+   "orientation": [
+    -0.227,
+    0.0,
+    0.275
+   ],
+   "anchored": true,
+   "mobility": "Movable",
+   "raw": {
+    "Transparency": 1.0,
+    "CanCollide": true,
+    "CastShadow": false,
+    "CanTouch": false,
+    "Material": "Unlit"
+   },
+   "shape": "Block"
+  }
+ }
+]

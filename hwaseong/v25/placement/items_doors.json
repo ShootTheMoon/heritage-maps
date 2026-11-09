@@ -1,0 +1,290 @@
+[
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_R_P54",
+  "props": {
+   "meshId": "ovdrassetid://45068200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57841.3,
+    338.4,
+    2692.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    264.0,
+    642.8,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_R_P55",
+  "props": {
+   "meshId": "ovdrassetid://45067300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57861.2,
+    345.4,
+    2673.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    306.9,
+    656.9,
+    55.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_L_P54",
+  "props": {
+   "meshId": "ovdrassetid://45068100",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58103.4,
+    338.4,
+    2692.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    260.3,
+    642.8,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_OS_L_P55",
+  "props": {
+   "meshId": "ovdrassetid://45067200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58103.8,
+    345.4,
+    2673.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    263.0,
+    656.9,
+    55.2
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_R_P54",
+  "props": {
+   "meshId": "ovdrassetid://45066300",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57871.7,
+    304.4,
+    152.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    260.4,
+    614.9,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_R_P55",
+  "props": {
+   "meshId": "ovdrassetid://45066500",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -57856.2,
+    325.0,
+    147.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    293.1,
+    656.0,
+    85.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_L_P54",
+  "props": {
+   "meshId": "ovdrassetid://45066200",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58133.1,
+    304.4,
+    152.2
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    262.3,
+    614.9,
+    13.5
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45028100"
+   }
+  }
+ },
+ {
+  "className": "MeshPart",
+  "name": "HWS_DOOR_MG_L_P55",
+  "props": {
+   "meshId": "ovdrassetid://45066400",
+   "material": "Basic",
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "position": [
+    -58143.8,
+    325.0,
+    147.7
+   ],
+   "orientation": [
+    0.0,
+    -180.0,
+    0.0
+   ],
+   "size": [
+    289.4,
+    656.0,
+    85.3
+   ],
+   "anchored": true,
+   "mobility": "Static",
+   "castShadow": true,
+   "canCollide": true,
+   "canQuery": false,
+   "raw": {
+    "TextureId": "ovdrassetid://45029100"
+   }
+  }
+ }
+]

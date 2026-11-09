@@ -1,0 +1,3731 @@
+{
+ "schema": "overdare-export/2",
+ "blend_file": "C:\\Users\\HSP\\Desktop\\blender\\hwaseong_rebuild\\v25\\hwaseong_v25.blend",
+ "calibration": {
+  "verified": "2026-08-10 CHECKPOINT A (측정값, 추정 아님)",
+  "axis_map": "Blender (x,y,z) -> OVERDARE (X=x*100, Y=z*100+FLOOR_Y, Z=-y*100)",
+  "unit_cm_per_blender_unit": 100.0,
+  "floor_y_cm": 5000.0,
+  "pivot_mode": "bbox_recentred",
+  "orientation": "항상 0 — 회전은 메시에 구워진다",
+  "evidence": "CAL 메시 5개를 같은 CFrame 에 놨더니 한 점에 겹쳤다"
+ },
+ "cap": 30000,
+ "cap_scope": "per_file (2026-08-10 실측: 51,816 삼각형 단일 파일 거부됨)",
+ "triangulated": true,
+ "preflight": {
+  "fixes": [
+   "박공 Solidify 추가: 0",
+   "고아 메시 정리: 85 → 85"
+  ],
+  "asserts": [
+   "렌더 대상 메시 = 87",
+   "음수 determinant(미러) = 0 []",
+   "비단위 스케일 오브젝트 = 4 (유물 서브트리여야 함)",
+   "Solidify 미반영 의심 = 0 []"
+  ],
+  "warnings": [],
+  "scaled_sample": [
+   [
+    "도로_남북",
+    6.0
+   ],
+   [
+    "도로_동서",
+    120.0
+   ],
+   [
+    "도로_북",
+    6.0
+   ],
+   [
+    "지면_아레나",
+    200.0
+   ]
+  ]
+ },
+ "splits": [
+  {
+   "object": "PB_사랑채",
+   "tris": 50630,
+   "polys": 50630,
+   "pieces": 2,
+   "lossless": true
+  },
+  {
+   "object": "P_동아시아집",
+   "tris": 30676,
+   "polys": 30676,
+   "pieces": 2,
+   "lossless": true
+  },
+  {
+   "object": "P_사랑채",
+   "tris": 63630,
+   "polys": 36109,
+   "pieces": 3,
+   "lossless": true
+  },
+  {
+   "object": "민가_초가",
+   "tris": 43592,
+   "polys": 39652,
+   "pieces": 2,
+   "lossless": true
+  },
+  {
+   "object": "장안문_ComplexBracket",
+   "tris": 33795,
+   "polys": 22856,
+   "pieces": 2,
+   "lossless": true
+  },
+  {
+   "object": "장안문_Roof",
+   "tris": 128842,
+   "polys": 68212,
+   "pieces": 5,
+   "lossless": true
+  }
+ ],
+ "skipped_nc": [],
+ "palette": {
+  "MAT_화강암": {
+   "color3": [
+    173,
+    172,
+    166
+   ],
+   "material": "Rock",
+   "transparency": 0.0
+  },
+  "MAT_화강암_어둡": {
+   "color3": [
+    147,
+    144,
+    139
+   ],
+   "material": "Rock",
+   "transparency": 0.0
+  },
+  "MAT_기와": {
+   "color3": [
+    93,
+    97,
+    105
+   ],
+   "material": "Concrete",
+   "transparency": 0.0
+  },
+  "MAT_기둥_주칠": {
+   "color3": [
+    162,
+    85,
+    69
+   ],
+   "material": "Wood",
+   "transparency": 0.0
+  },
+  "MAT_단청_녹": {
+   "color3": [
+    56,
+    126,
+    108
+   ],
+   "material": "Plastic",
+   "transparency": 0.0
+  },
+  "MAT_뇌록": {
+   "color3": [
+    110,
+    121,
+    108
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_모루_적": {
+   "color3": [
+    170,
+    89,
+    75
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_단청_적": {
+   "color3": [
+    177,
+    80,
+    63
+   ],
+   "material": "Plastic",
+   "transparency": 0.0
+  },
+  "MAT_단청_청": {
+   "color3": [
+    69,
+    105,
+    147
+   ],
+   "material": "Plastic",
+   "transparency": 0.0
+  },
+  "MAT_단청_백": {
+   "color3": [
+    212,
+    208,
+    199
+   ],
+   "material": "Plastic",
+   "transparency": 0.0
+  },
+  "MAT_목재_암": {
+   "color3": [
+    115,
+    85,
+    63
+   ],
+   "material": "Wood",
+   "transparency": 0.0
+  },
+  "MAT_창호지": {
+   "color3": [
+    218,
+    208,
+    182
+   ],
+   "material": "Plastic",
+   "transparency": 0.15
+  },
+  "MAT_전돌": {
+   "color3": [
+    115,
+    111,
+    108
+   ],
+   "material": "Concrete",
+   "transparency": 0.0
+  },
+  "MAT_금": {
+   "color3": [
+    206,
+    182,
+    108
+   ],
+   "material": "Metal",
+   "transparency": 0.0
+  },
+  "MAT_백골": {
+   "color3": [
+    149,
+    129,
+    105
+   ],
+   "material": "Wood",
+   "transparency": 0.0
+  },
+  "MAT_백골_고재": {
+   "color3": [
+    129,
+    111,
+    93
+   ],
+   "material": "Wood",
+   "transparency": 0.0
+  },
+  "MAT_회벽": {
+   "color3": [
+    206,
+    203,
+    194
+   ],
+   "material": "Concrete",
+   "transparency": 0.0
+  },
+  "MAT_콘크리트": {
+   "color3": [
+    188,
+    186,
+    181
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_콘크리트_암": {
+   "color3": [
+    158,
+    155,
+    151
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_붉은벽돌": {
+   "color3": [
+    155,
+    129,
+    115
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_외장패널": {
+   "color3": [
+    196,
+    182,
+    166
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_유리": {
+   "color3": [
+    101,
+    121,
+    137
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_아스팔트": {
+   "color3": [
+    77,
+    77,
+    82
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_보도": {
+   "color3": [
+    197,
+    196,
+    191
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_흙길": {
+   "color3": [
+    181,
+    166,
+    147
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_샛길": {
+   "color3": [
+    191,
+    179,
+    162
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_갓길": {
+   "color3": [
+    151,
+    153,
+    124
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_잔디": {
+   "color3": [
+    124,
+    139,
+    101
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_크렘린_벽돌": {
+   "color3": [
+    158,
+    95,
+    82
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_크렘린_벽돌_암": {
+   "color3": [
+    134,
+    79,
+    68
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_금박돔": {
+   "color3": [
+    255,
+    195,
+    86
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_녹청지붕": {
+   "color3": [
+    77,
+    121,
+    110
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_루비별": {
+   "color3": [
+    173,
+    41,
+    48
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_백석": {
+   "color3": [
+    221,
+    216,
+    208
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_돔_적": {
+   "color3": [
+    170,
+    77,
+    66
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_돔_녹": {
+   "color3": [
+    66,
+    139,
+    101
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_돔_청": {
+   "color3": [
+    60,
+    101,
+    162
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_돔_황": {
+   "color3": [
+    191,
+    153,
+    66
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_적화강암": {
+   "color3": [
+    129,
+    82,
+    77
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_프레스코_황": {
+   "color3": [
+    204,
+    179,
+    127
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_프레스코_적": {
+   "color3": [
+    114,
+    51,
+    40
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_하층석조": {
+   "color3": [
+    133,
+    130,
+    123
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_바닥석": {
+   "color3": [
+    106,
+    104,
+    100
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_바닥거친": {
+   "color3": [
+    95,
+    93,
+    90
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  },
+  "MAT_철물": {
+   "color3": [
+    60,
+    56,
+    53
+   ],
+   "material": "Basic",
+   "transparency": 0.0
+  }
+ },
+ "files": [
+  {
+   "file": "CTB_01.fbx",
+   "bytes": 4218460,
+   "sha256": "c676465ae62921167a11e014b480d2398988eab976cbfa492ae70e966b365f0e",
+   "meshes": 2,
+   "tris": 6633,
+   "polys": 3798,
+   "budget": 6633,
+   "mesh_slugs": [
+    "OBJ_a8876b",
+    "OBJ_3e88af"
+   ]
+  },
+  {
+   "file": "CTB_02.fbx",
+   "bytes": 5095052,
+   "sha256": "a8d5279b62a640d5597965bcaee0abb81a8b5cb089db5cd81924554ee3603ef1",
+   "meshes": 1,
+   "tris": 29902,
+   "polys": 29902,
+   "budget": 29902,
+   "mesh_slugs": [
+    "001_22bb89"
+   ]
+  },
+  {
+   "file": "CTB_03.fbx",
+   "bytes": 3985692,
+   "sha256": "25cde0367d148ac4cec5c3f4b782c3447deec82a8373f29167375b7959ce07ec",
+   "meshes": 2,
+   "tris": 22548,
+   "polys": 20578,
+   "budget": 22548,
+   "mesh_slugs": [
+    "002_072ccc",
+    "OBJ_524b00_p00"
+   ]
+  },
+  {
+   "file": "CTB_04.fbx",
+   "bytes": 2337292,
+   "sha256": "538fe61193b71e3cbfe5764295175b028b3da4592ec8b282cf416c7a8833b664",
+   "meshes": 1,
+   "tris": 21796,
+   "polys": 19826,
+   "budget": 21796,
+   "mesh_slugs": [
+    "OBJ_524b00_p01"
+   ]
+  },
+  {
+   "file": "CTB_05.fbx",
+   "bytes": 2197484,
+   "sha256": "48aa65640b67bb5dbc5f1e67e8efe718da20369287f4ce6de4b25e9df3cf930a",
+   "meshes": 1,
+   "tris": 16000,
+   "polys": 16000,
+   "budget": 16000,
+   "mesh_slugs": [
+    "OBJ_486d15"
+   ]
+  },
+  {
+   "file": "CTR_01.fbx",
+   "bytes": 19452,
+   "sha256": "f026cccd89bdc50d710b942af16f9c43dc915e9ffad9c309cb97d9877ca5d9ca",
+   "meshes": 3,
+   "tris": 6,
+   "polys": 3,
+   "budget": 6,
+   "mesh_slugs": [
+    "S_N_147fb4",
+    "E_W_6942cd",
+    "N_fb813c"
+   ]
+  },
+  {
+   "file": "HPR_01.fbx",
+   "bytes": 1837420,
+   "sha256": "d2aab852ff9a24bb551e9b7136c007134a9697a89857d6975c12061e4d40db83",
+   "meshes": 5,
+   "tris": 10208,
+   "polys": 6168,
+   "budget": 10208,
+   "mesh_slugs": [
+    "Cannon_adba0f",
+    "Flag_01_38680f",
+    "GateGuardPost_b79076",
+    "Note_00c3fa",
+    "Signboard_002_c2f4b3"
+   ]
+  },
+  {
+   "file": "JAM_01.fbx",
+   "bytes": 1837900,
+   "sha256": "3e1655ce4649a9ec7ed634b66b9c7f9fcd97029501458a8e306a0809e23d0575",
+   "meshes": 3,
+   "tris": 18755,
+   "polys": 12308,
+   "budget": 18755,
+   "mesh_slugs": [
+    "Ceiling_44aad5",
+    "Column_4d8066",
+    "ComplexBracket_a7344b_p00"
+   ]
+  },
+  {
+   "file": "JAM_02.fbx",
+   "bytes": 4047308,
+   "sha256": "df0b4911a113ff944c6e1d44b5052e3ec0e80c146097abee255ad774fb94416c",
+   "meshes": 7,
+   "tris": 24983,
+   "polys": 15503,
+   "budget": 24983,
+   "mesh_slugs": [
+    "ComplexBracket_a7344b_p01",
+    "Crossbeam_a06336",
+    "Floor_dcc58f",
+    "Heartwood_d625bf",
+    "Lintel_c1ec95",
+    "Purlin_7c3bc7",
+    "PurlinSupport_f9d652"
+   ]
+  },
+  {
+   "file": "JAM_03.fbx",
+   "bytes": 905132,
+   "sha256": "1331df52a9d792900c3366210d1fca3325ebd22e4b119c9a809a41f17a2dc6d0",
+   "meshes": 2,
+   "tris": 7707,
+   "polys": 5568,
+   "budget": 7707,
+   "mesh_slugs": [
+    "Rafter_4f95cb",
+    "Ridge_7297cf"
+   ]
+  },
+  {
+   "file": "JAM_04.fbx",
+   "bytes": 1508284,
+   "sha256": "0df54fb9ebf2db5de67ec109b96bd43c98b04e1bbe80585e75b04e95cfa9f10e",
+   "meshes": 1,
+   "tris": 25771,
+   "polys": 13751,
+   "budget": 25771,
+   "mesh_slugs": [
+    "Roof_31218c_p00"
+   ]
+  },
+  {
+   "file": "JAM_05.fbx",
+   "bytes": 1519420,
+   "sha256": "faed53df22f6bad8fa241f7b35e7999bafca68525ab9e67c9f9aa436efc6837f",
+   "meshes": 1,
+   "tris": 25769,
+   "polys": 13593,
+   "budget": 25769,
+   "mesh_slugs": [
+    "Roof_31218c_p01"
+   ]
+  },
+  {
+   "file": "JAM_06.fbx",
+   "bytes": 1521660,
+   "sha256": "b01c01fa9689f2b77696364a194a3559829eeb5b25163180834b842136bd479c",
+   "meshes": 1,
+   "tris": 25769,
+   "polys": 13411,
+   "budget": 25769,
+   "mesh_slugs": [
+    "Roof_31218c_p02"
+   ]
+  },
+  {
+   "file": "JAM_07.fbx",
+   "bytes": 1498236,
+   "sha256": "7137a1995c21bf69f7dfcfa0dd183d6f68c6e15114101de6b23ea2985fa95a61",
+   "meshes": 1,
+   "tris": 25770,
+   "polys": 13743,
+   "budget": 25770,
+   "mesh_slugs": [
+    "Roof_31218c_p03"
+   ]
+  },
+  {
+   "file": "JAM_08.fbx",
+   "bytes": 1905260,
+   "sha256": "c6df3657bd9297787894f6a0168463d59fd397660d764ecf9f1d3d9cbc6972c5",
+   "meshes": 2,
+   "tris": 28789,
+   "polys": 15583,
+   "budget": 28789,
+   "mesh_slugs": [
+    "Roof_31218c_p04",
+    "RoofBoard_dd4bec"
+   ]
+  },
+  {
+   "file": "JAM_09.fbx",
+   "bytes": 1477660,
+   "sha256": "5fa6a2edf6903b6ad0b7226d7418a90b0ae923cec68ab8be59b05d10c7e56780",
+   "meshes": 3,
+   "tris": 13324,
+   "polys": 7918,
+   "budget": 13324,
+   "mesh_slugs": [
+    "RoofStatue_21645f",
+    "SideDoor_fd9593",
+    "WoodStair_fa7859"
+   ]
+  },
+  {
+   "file": "SBK_01.fbx",
+   "bytes": 2520684,
+   "sha256": "85ee81c9f2304437fd6b9d15a2a503caf5f4659e9a9d0ea1a893fcf302f45745",
+   "meshes": 2,
+   "tris": 18000,
+   "polys": 18000,
+   "budget": 18000,
+   "mesh_slugs": [
+    "WAL_E_89e72c",
+    "WAL_N_c0739d"
+   ]
+  },
+  {
+   "file": "SBK_02.fbx",
+   "bytes": 4029356,
+   "sha256": "58ffc03856b6acf84bdc3071eecf2fa58729d6ef80a91c18b1648057b54e1d19",
+   "meshes": 3,
+   "tris": 20499,
+   "polys": 20499,
+   "budget": 20499,
+   "mesh_slugs": [
+    "WAL_S_256c17",
+    "WAL_W_f9227f",
+    "WAL_7ff19d"
+   ]
+  },
+  {
+   "file": "SBK_03.fbx",
+   "bytes": 5366204,
+   "sha256": "498218a6a70e4bdb63b4365a2e9a9d76e9c13caf448dcff250d51f6f1f2f6a2e",
+   "meshes": 7,
+   "tris": 19843,
+   "polys": 18301,
+   "budget": 19843,
+   "mesh_slugs": [
+    "WAL_4b1d97",
+    "WAL_9fa478",
+    "B_Arch_b89c06",
+    "B_ArchDoor_001_121f6d",
+    "B_CastleWall_001_73f6af",
+    "B_CastleWall_002_3de355",
+    "B_Floor_235663"
+   ]
+  },
+  {
+   "file": "SBK_04.fbx",
+   "bytes": 5765484,
+   "sha256": "be067c43bc9568bcf326fe5a262aef7823cce1c433d192108c266081773b4339",
+   "meshes": 13,
+   "tris": 28756,
+   "polys": 15013,
+   "budget": 28756,
+   "mesh_slugs": [
+    "B_GateHouse_001_813d86",
+    "B_GateHouse_002_fefcc7",
+    "B_GateHouse_003_7b41c8",
+    "B_GateHouse_004_d627da",
+    "B_Parapet_001_3a8c13",
+    "B_Parapet_002_13b2a4",
+    "B_RoofBoard_001_5d18d4",
+    "CW_001_e44ad2",
+    "CW_002_926fe4",
+    "CW_003_f24d40",
+    "CW_004_91aa10",
+    "Fortification_001_af5042",
+    "Fortification_002_e80e23"
+   ]
+  },
+  {
+   "file": "SBK_05.fbx",
+   "bytes": 3570364,
+   "sha256": "14f367798fd75abaf3257a398d54314067a0925ccc5d4db8f8e0e65af7987f2c",
+   "meshes": 10,
+   "tris": 10285,
+   "polys": 5438,
+   "budget": 10285,
+   "mesh_slugs": [
+    "GH_Parapet_001_6d0006",
+    "GH_Wall_bde645",
+    "G_Arch_001_d539c1",
+    "G_MetalDoor_001_df6112",
+    "G_MetalDoor_002_3c2008",
+    "G_RoofBoard_001_156786",
+    "G_Stair_001_24273b",
+    "G_Stair_002_50e7ca",
+    "Pedestal_4f447c",
+    "RammedEarth_b862a7"
+   ]
+  },
+  {
+   "file": "VEG_01.fbx",
+   "bytes": 269852,
+   "sha256": "4f11b11efb2af45a36fd18f0a822e79bf7135270e042f75bb8529a93ef5d90f6",
+   "meshes": 3,
+   "tris": 6864,
+   "polys": 6312,
+   "budget": 6864,
+   "mesh_slugs": [
+    "OBJ_b9c139",
+    "OBJ_b5cea4",
+    "001_1ab418"
+   ]
+  }
+ ],
+ "meshes": [
+  {
+   "slug": "WAL_E_89e72c",
+   "source_object": "담장_E",
+   "group": "SBK",
+   "material_key": "MAT_NH_WALL",
+   "tris": 6000,
+   "polys": 6000,
+   "budget": 6000,
+   "verts": 3044,
+   "bbox_m": {
+    "min": [
+     32.8394,
+     24.0,
+     0.0
+    ],
+    "max": [
+     39.1598,
+     56.001,
+     3.9789
+    ],
+    "centre": [
+     35.9996,
+     40.0005,
+     1.9895
+    ]
+   },
+   "cframe_cm": {
+    "X": 3599.958,
+    "Y": 5198.949,
+    "Z": -4000.047
+   },
+   "size_cm": {
+    "X": 632.045,
+    "Y": 397.889,
+    "Z": 3200.103
+   },
+   "file": "SBK_01.fbx",
+   "expected_asset_name": "SBK_01_WAL_E_89e72c"
+  },
+  {
+   "slug": "WAL_N_c0739d",
+   "source_object": "담장_N",
+   "group": "SBK",
+   "material_key": "MAT_NH_WALL",
+   "tris": 12000,
+   "polys": 12000,
+   "budget": 12000,
+   "verts": 6088,
+   "bbox_m": {
+    "min": [
+     -36.001,
+     20.8394,
+     0.0
+    ],
+    "max": [
+     36.0,
+     27.1598,
+     3.9789
+    ],
+    "centre": [
+     -0.0005,
+     23.9996,
+     1.9895
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.047,
+    "Y": 5198.949,
+    "Z": -2399.958
+   },
+   "size_cm": {
+    "X": 7200.102,
+    "Y": 397.889,
+    "Z": 632.045
+   },
+   "file": "SBK_01.fbx",
+   "expected_asset_name": "SBK_01_WAL_N_c0739d"
+  },
+  {
+   "slug": "WAL_S_256c17",
+   "source_object": "담장_S",
+   "group": "SBK",
+   "material_key": "MAT_NH_WALL",
+   "tris": 12000,
+   "polys": 12000,
+   "budget": 12000,
+   "verts": 6088,
+   "bbox_m": {
+    "min": [
+     -36.0,
+     52.8402,
+     0.0
+    ],
+    "max": [
+     36.001,
+     59.1606,
+     3.9789
+    ],
+    "centre": [
+     0.0005,
+     56.0004,
+     1.9895
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.047,
+    "Y": 5198.949,
+    "Z": -5600.042
+   },
+   "size_cm": {
+    "X": 7200.102,
+    "Y": 397.889,
+    "Z": 632.045
+   },
+   "file": "SBK_02.fbx",
+   "expected_asset_name": "SBK_02_WAL_S_256c17"
+  },
+  {
+   "slug": "WAL_W_f9227f",
+   "source_object": "담장_W",
+   "group": "SBK",
+   "material_key": "MAT_NH_WALL",
+   "tris": 6000,
+   "polys": 6000,
+   "budget": 6000,
+   "verts": 3044,
+   "bbox_m": {
+    "min": [
+     -39.1598,
+     23.999,
+     0.0
+    ],
+    "max": [
+     -32.8394,
+     56.0,
+     3.9789
+    ],
+    "centre": [
+     -35.9996,
+     39.9995,
+     1.9895
+    ]
+   },
+   "cframe_cm": {
+    "X": -3599.958,
+    "Y": 5198.949,
+    "Z": -3999.953
+   },
+   "size_cm": {
+    "X": 632.045,
+    "Y": 397.889,
+    "Z": 3200.103
+   },
+   "file": "SBK_02.fbx",
+   "expected_asset_name": "SBK_02_WAL_W_f9227f"
+  },
+  {
+   "slug": "WAL_7ff19d",
+   "source_object": "담장_암문",
+   "group": "SBK",
+   "material_key": "MAT_NH_SECRETGATE",
+   "tris": 2499,
+   "polys": 2499,
+   "budget": 2499,
+   "verts": 1325,
+   "bbox_m": {
+    "min": [
+     -4.0013,
+     20.8286,
+     -0.005
+    ],
+    "max": [
+     4.0007,
+     27.1637,
+     3.9793
+    ],
+    "centre": [
+     -0.0003,
+     23.9962,
+     1.9871
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.027,
+    "Y": 5198.714,
+    "Z": -2399.617
+   },
+   "size_cm": {
+    "X": 800.2,
+    "Y": 398.432,
+    "Z": 633.514
+   },
+   "file": "SBK_02.fbx",
+   "expected_asset_name": "SBK_02_WAL_7ff19d"
+  },
+  {
+   "slug": "WAL_4b1d97",
+   "source_object": "담장_여장",
+   "group": "SBK",
+   "material_key": "MAT_NH_PARAPET",
+   "tris": 14400,
+   "polys": 14400,
+   "budget": 14400,
+   "verts": 9360,
+   "bbox_m": {
+    "min": [
+     -36.0,
+     20.8356,
+     3.98
+    ],
+    "max": [
+     36.0,
+     59.1644,
+     5.4386
+    ],
+    "centre": [
+     0.0,
+     40.0,
+     4.7093
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 5470.929,
+    "Z": -4000.0
+   },
+   "size_cm": {
+    "X": 7200.0,
+    "Y": 145.858,
+    "Z": 3832.885
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_WAL_4b1d97"
+  },
+  {
+   "slug": "WAL_9fa478",
+   "source_object": "담장_포좌",
+   "group": "SBK",
+   "material_key": "MAT_NH_GUNPOST",
+   "tris": 3000,
+   "polys": 3000,
+   "budget": 3000,
+   "verts": 1418,
+   "bbox_m": {
+    "min": [
+     -42.0027,
+     18.1553,
+     -0.0062
+    ],
+    "max": [
+     42.0002,
+     21.8278,
+     3.9971
+    ],
+    "centre": [
+     -0.0012,
+     19.9916,
+     1.9954
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.124,
+    "Y": 5199.54,
+    "Z": -1999.157
+   },
+   "size_cm": {
+    "X": 8400.285,
+    "Y": 400.33,
+    "Z": 367.249
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_WAL_9fa478"
+  },
+  {
+   "slug": "S_N_147fb4",
+   "source_object": "도로_남북",
+   "group": "CTR",
+   "material_key": "흙길",
+   "tris": 2,
+   "polys": 1,
+   "budget": 2,
+   "verts": 4,
+   "bbox_m": {
+    "min": [
+     -3.0,
+     4.0,
+     0.03
+    ],
+    "max": [
+     3.0,
+     24.0,
+     0.03
+    ],
+    "centre": [
+     0.0,
+     14.0,
+     0.03
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 5003.0,
+    "Z": -1400.0
+   },
+   "size_cm": {
+    "X": 600.0,
+    "Y": 0.0,
+    "Z": 2000.0
+   },
+   "file": "CTR_01.fbx",
+   "expected_asset_name": "CTR_01_S_N_147fb4"
+  },
+  {
+   "slug": "E_W_6942cd",
+   "source_object": "도로_동서",
+   "group": "CTR",
+   "material_key": "흙길",
+   "tris": 2,
+   "polys": 1,
+   "budget": 2,
+   "verts": 4,
+   "bbox_m": {
+    "min": [
+     -60.0,
+     11.5,
+     0.03
+    ],
+    "max": [
+     60.0,
+     16.5,
+     0.03
+    ],
+    "centre": [
+     0.0,
+     14.0,
+     0.03
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 5003.0,
+    "Z": -1400.0
+   },
+   "size_cm": {
+    "X": 12000.0,
+    "Y": 0.0,
+    "Z": 500.0
+   },
+   "file": "CTR_01.fbx",
+   "expected_asset_name": "CTR_01_E_W_6942cd"
+  },
+  {
+   "slug": "N_fb813c",
+   "source_object": "도로_북",
+   "group": "CTR",
+   "material_key": "흙길",
+   "tris": 2,
+   "polys": 1,
+   "budget": 2,
+   "verts": 4,
+   "bbox_m": {
+    "min": [
+     -3.0,
+     -30.0,
+     0.03
+    ],
+    "max": [
+     3.0,
+     -6.0,
+     0.03
+    ],
+    "centre": [
+     0.0,
+     -18.0,
+     0.03
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 5003.0,
+    "Z": 1800.0
+   },
+   "size_cm": {
+    "X": 600.0,
+    "Y": 0.0,
+    "Z": 2400.0
+   },
+   "file": "CTR_01.fbx",
+   "expected_asset_name": "CTR_01_N_fb813c"
+  },
+  {
+   "slug": "OBJ_a8876b",
+   "source_object": "민가_대문",
+   "group": "CTB",
+   "material_key": "MAT_PB_대문",
+   "tris": 6611,
+   "polys": 3776,
+   "budget": 6611,
+   "verts": 4090,
+   "bbox_m": {
+    "min": [
+     -1.42,
+     53.4006,
+     0.0
+    ],
+    "max": [
+     1.42,
+     58.5994,
+     6.0092
+    ],
+    "centre": [
+     0.0,
+     56.0,
+     3.0046
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 5300.462,
+    "Z": -5600.0
+   },
+   "size_cm": {
+    "X": 284.0,
+    "Y": 600.924,
+    "Z": 519.884
+   },
+   "file": "CTB_01.fbx",
+   "expected_asset_name": "CTB_01_OBJ_a8876b"
+  },
+  {
+   "slug": "OBJ_3e88af",
+   "source_object": "민가_본채",
+   "group": "CTB",
+   "material_key": "Plants_base",
+   "tris": 22,
+   "polys": 22,
+   "budget": 22,
+   "verts": 44,
+   "bbox_m": {
+    "min": [
+     -3.3468,
+     39.0533,
+     2.3811
+    ],
+    "max": [
+     1.693,
+     44.9578,
+     4.7306
+    ],
+    "centre": [
+     -0.8269,
+     42.0056,
+     3.5558
+    ]
+   },
+   "cframe_cm": {
+    "X": -82.69,
+    "Y": 5355.584,
+    "Z": -4200.558
+   },
+   "size_cm": {
+    "X": 503.98,
+    "Y": 234.955,
+    "Z": 590.448
+   },
+   "file": "CTB_01.fbx",
+   "expected_asset_name": "CTB_01_OBJ_3e88af"
+  },
+  {
+   "slug": "001_22bb89",
+   "source_object": "민가_본채.001",
+   "group": "CTB",
+   "material_key": "Atlas",
+   "tris": 29902,
+   "polys": 29902,
+   "budget": 29902,
+   "verts": 36240,
+   "bbox_m": {
+    "min": [
+     -5.7641,
+     36.8539,
+     0.0
+    ],
+    "max": [
+     5.7641,
+     47.1461,
+     9.277
+    ],
+    "centre": [
+     -0.0,
+     42.0,
+     4.6385
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.0,
+    "Y": 5463.848,
+    "Z": -4200.0
+   },
+   "size_cm": {
+    "X": 1152.821,
+    "Y": 927.696,
+    "Z": 1029.229
+   },
+   "file": "CTB_02.fbx",
+   "expected_asset_name": "CTB_02"
+  },
+  {
+   "slug": "002_072ccc",
+   "source_object": "민가_본채.002",
+   "group": "CTB",
+   "material_key": "Windows",
+   "tris": 752,
+   "polys": 752,
+   "budget": 752,
+   "verts": 1436,
+   "bbox_m": {
+    "min": [
+     -5.6853,
+     38.3227,
+     0.6695
+    ],
+    "max": [
+     4.7082,
+     44.8049,
+     4.3741
+    ],
+    "centre": [
+     -0.4885,
+     41.5638,
+     2.5218
+    ]
+   },
+   "cframe_cm": {
+    "X": -48.853,
+    "Y": 5252.181,
+    "Z": -4156.379
+   },
+   "size_cm": {
+    "X": 1039.345,
+    "Y": 370.466,
+    "Z": 648.225
+   },
+   "file": "CTB_03.fbx",
+   "expected_asset_name": "CTB_03_002_072ccc"
+  },
+  {
+   "slug": "OBJ_524b00_p00",
+   "source_object": "민가_초가",
+   "group": "CTB",
+   "material_key": "MAT_PB_초가집",
+   "tris": 21796,
+   "polys": 19826,
+   "budget": 21796,
+   "verts": 9972,
+   "bbox_m": {
+    "min": [
+     -60.1326,
+     11.685,
+     0.0
+    ],
+    "max": [
+     -45.685,
+     56.1326,
+     3.4207
+    ],
+    "centre": [
+     -52.9088,
+     33.9088,
+     1.7103
+    ]
+   },
+   "cframe_cm": {
+    "X": -5290.879,
+    "Y": 5171.033,
+    "Z": -3390.879
+   },
+   "size_cm": {
+    "X": 1444.759,
+    "Y": 342.067,
+    "Z": 4444.759
+   },
+   "file": "CTB_03.fbx",
+   "expected_asset_name": "CTB_03_OBJ_524b00_p00"
+  },
+  {
+   "slug": "OBJ_524b00_p01",
+   "source_object": "민가_초가",
+   "group": "CTB",
+   "material_key": "MAT_PB_초가집",
+   "tris": 21796,
+   "polys": 19826,
+   "budget": 21796,
+   "verts": 9972,
+   "bbox_m": {
+    "min": [
+     47.685,
+     15.685,
+     0.0
+    ],
+    "max": [
+     56.315,
+     54.1326,
+     3.4207
+    ],
+    "centre": [
+     52.0,
+     34.9088,
+     1.7103
+    ]
+   },
+   "cframe_cm": {
+    "X": 5200.0,
+    "Y": 5171.033,
+    "Z": -3490.879
+   },
+   "size_cm": {
+    "X": 863.0,
+    "Y": 342.067,
+    "Z": 3844.759
+   },
+   "file": "CTB_04.fbx",
+   "expected_asset_name": "CTB_04"
+  },
+  {
+   "slug": "OBJ_486d15",
+   "source_object": "소품_연자방아",
+   "group": "CTB",
+   "material_key": "M_Ox_Mill01a",
+   "tris": 16000,
+   "polys": 16000,
+   "budget": 16000,
+   "verts": 9620,
+   "bbox_m": {
+    "min": [
+     -43.3372,
+     28.5545,
+     -0.0013
+    ],
+    "max": [
+     45.1764,
+     49.2298,
+     1.7324
+    ],
+    "centre": [
+     0.9196,
+     38.8921,
+     0.8655
+    ]
+   },
+   "cframe_cm": {
+    "X": 91.956,
+    "Y": 5086.553,
+    "Z": -3889.212
+   },
+   "size_cm": {
+    "X": 8851.36,
+    "Y": 173.368,
+    "Z": 2067.531
+   },
+   "file": "CTB_05.fbx",
+   "expected_asset_name": "CTB_05"
+  },
+  {
+   "slug": "OBJ_b9c139",
+   "source_object": "수목_바위",
+   "group": "VEG",
+   "material_key": "coast_land_rocks_04",
+   "tris": 6000,
+   "polys": 6000,
+   "budget": 6000,
+   "verts": 4329,
+   "bbox_m": {
+    "min": [
+     -73.8676,
+     -60.7248,
+     0.0
+    ],
+    "max": [
+     50.5228,
+     50.3862,
+     0.7909
+    ],
+    "centre": [
+     -11.6724,
+     -5.1693,
+     0.3955
+    ]
+   },
+   "cframe_cm": {
+    "X": -1167.243,
+    "Y": 5039.547,
+    "Z": 516.926
+   },
+   "size_cm": {
+    "X": 12439.04,
+    "Y": 79.094,
+    "Z": 11111.098
+   },
+   "file": "VEG_01.fbx",
+   "expected_asset_name": "VEG_01_OBJ_b9c139"
+  },
+  {
+   "slug": "OBJ_b5cea4",
+   "source_object": "수목_소나무",
+   "group": "VEG",
+   "material_key": "소나무_수피",
+   "tris": 248,
+   "polys": 80,
+   "budget": 248,
+   "verts": 240,
+   "bbox_m": {
+    "min": [
+     -66.6,
+     -68.4432,
+     0.0
+    ],
+    "max": [
+     66.99,
+     66.99,
+     5.85
+    ],
+    "centre": [
+     0.195,
+     -0.7266,
+     2.925
+    ]
+   },
+   "cframe_cm": {
+    "X": 19.5,
+    "Y": 5292.5,
+    "Z": 72.66
+   },
+   "size_cm": {
+    "X": 13359.0,
+    "Y": 585.0,
+    "Z": 13543.32
+   },
+   "file": "VEG_01.fbx",
+   "expected_asset_name": "VEG_01_OBJ_b5cea4"
+  },
+  {
+   "slug": "001_1ab418",
+   "source_object": "수목_소나무.001",
+   "group": "VEG",
+   "material_key": "소나무_잎",
+   "tris": 616,
+   "polys": 232,
+   "budget": 616,
+   "verts": 440,
+   "bbox_m": {
+    "min": [
+     -66.6,
+     -68.4432,
+     2.17
+    ],
+    "max": [
+     66.99,
+     66.99,
+     9.685
+    ],
+    "centre": [
+     0.195,
+     -0.7266,
+     5.9275
+    ]
+   },
+   "cframe_cm": {
+    "X": 19.5,
+    "Y": 5592.75,
+    "Z": 72.66
+   },
+   "size_cm": {
+    "X": 13359.0,
+    "Y": 751.5,
+    "Z": 13543.32
+   },
+   "file": "VEG_01.fbx",
+   "expected_asset_name": "VEG_01_001_1ab418"
+  },
+  {
+   "slug": "B_Arch_b89c06",
+   "source_object": "장안문_B_Arch",
+   "group": "SBK",
+   "material_key": "MI_T_B_Arch.001",
+   "tris": 187,
+   "polys": 63,
+   "budget": 187,
+   "verts": 110,
+   "bbox_m": {
+    "min": [
+     -4.0373,
+     -30.928,
+     0.0046
+    ],
+    "max": [
+     4.6361,
+     -25.7538,
+     6.7559
+    ],
+    "centre": [
+     0.2994,
+     -28.3409,
+     3.3803
+    ]
+   },
+   "cframe_cm": {
+    "X": 29.94,
+    "Y": 5338.025,
+    "Z": 2834.093
+   },
+   "size_cm": {
+    "X": 867.331,
+    "Y": 675.121,
+    "Z": 517.418
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_B_Arch_b89c06"
+  },
+  {
+   "slug": "B_ArchDoor_001_121f6d",
+   "source_object": "장안문_B_ArchDoor_001",
+   "group": "SBK",
+   "material_key": "MI_T_B_ArchDoor_001.001",
+   "tris": 282,
+   "polys": 176,
+   "budget": 282,
+   "verts": 148,
+   "bbox_m": {
+    "min": [
+     -19.8441,
+     -6.9949,
+     5.0645
+    ],
+    "max": [
+     19.4048,
+     -5.0194,
+     8.097
+    ],
+    "centre": [
+     -0.2197,
+     -6.0072,
+     6.5808
+    ]
+   },
+   "cframe_cm": {
+    "X": -21.965,
+    "Y": 5658.075,
+    "Z": 600.716
+   },
+   "size_cm": {
+    "X": 3924.899,
+    "Y": 303.241,
+    "Z": 197.547
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_B_ArchDoor_001_121f6d"
+  },
+  {
+   "slug": "B_CastleWall_001_73f6af",
+   "source_object": "장안문_B_CastleWall_001",
+   "group": "SBK",
+   "material_key": "MI_T_B_CastleWall_001.001",
+   "tris": 300,
+   "polys": 107,
+   "budget": 300,
+   "verts": 227,
+   "bbox_m": {
+    "min": [
+     -20.6352,
+     -30.9943,
+     0.0055
+    ],
+    "max": [
+     20.5385,
+     -5.8532,
+     7.081
+    ],
+    "centre": [
+     -0.0484,
+     -18.4238,
+     3.5433
+    ]
+   },
+   "cframe_cm": {
+    "X": -4.837,
+    "Y": 5354.325,
+    "Z": 1842.378
+   },
+   "size_cm": {
+    "X": 4117.365,
+    "Y": 707.542,
+    "Z": 2514.109
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_B_CastleWall_001_73f6af"
+  },
+  {
+   "slug": "B_CastleWall_002_3de355",
+   "source_object": "장안문_B_CastleWall_002",
+   "group": "SBK",
+   "material_key": "MI_T_B_CastleWall_002.001",
+   "tris": 1570,
+   "polys": 507,
+   "budget": 1570,
+   "verts": 887,
+   "bbox_m": {
+    "min": [
+     -73.5016,
+     -30.9807,
+     4.7245
+    ],
+    "max": [
+     73.2624,
+     -5.8707,
+     8.1151
+    ],
+    "centre": [
+     -0.1196,
+     -18.4257,
+     6.4198
+    ]
+   },
+   "cframe_cm": {
+    "X": -11.958,
+    "Y": 5641.981,
+    "Z": 1842.574
+   },
+   "size_cm": {
+    "X": 14676.398,
+    "Y": 339.063,
+    "Z": 2510.998
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_B_CastleWall_002_3de355"
+  },
+  {
+   "slug": "B_Floor_235663",
+   "source_object": "장안문_B_Floor",
+   "group": "SBK",
+   "material_key": "MI_T_B_Floor.001",
+   "tris": 104,
+   "polys": 48,
+   "budget": 104,
+   "verts": 82,
+   "bbox_m": {
+    "min": [
+     -18.9134,
+     -29.9338,
+     3.1879
+    ],
+    "max": [
+     18.2334,
+     -5.9712,
+     6.6232
+    ],
+    "centre": [
+     -0.34,
+     -17.9525,
+     4.9055
+    ]
+   },
+   "cframe_cm": {
+    "X": -33.997,
+    "Y": 5490.553,
+    "Z": 1795.25
+   },
+   "size_cm": {
+    "X": 3714.677,
+    "Y": 343.526,
+    "Z": 2396.256
+   },
+   "file": "SBK_03.fbx",
+   "expected_asset_name": "SBK_03_B_Floor_235663"
+  },
+  {
+   "slug": "B_GateHouse_001_813d86",
+   "source_object": "장안문_B_GateHouse_001",
+   "group": "SBK",
+   "material_key": "MI_T_B_GateHouse_001.001",
+   "tris": 15692,
+   "polys": 8522,
+   "budget": 15692,
+   "verts": 6017,
+   "bbox_m": {
+    "min": [
+     -4.9548,
+     -31.3356,
+     9.4196
+    ],
+    "max": [
+     5.4286,
+     -25.3184,
+     11.9058
+    ],
+    "centre": [
+     0.2369,
+     -28.327,
+     10.6627
+    ]
+   },
+   "cframe_cm": {
+    "X": 23.691,
+    "Y": 6066.27,
+    "Z": 2832.699
+   },
+   "size_cm": {
+    "X": 1038.348,
+    "Y": 248.629,
+    "Z": 601.715
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_GateHouse_001_813d86"
+  },
+  {
+   "slug": "B_GateHouse_002_fefcc7",
+   "source_object": "장안문_B_GateHouse_002",
+   "group": "SBK",
+   "material_key": "MI_T_B_GateHouse_002.001",
+   "tris": 1471,
+   "polys": 813,
+   "budget": 1471,
+   "verts": 756,
+   "bbox_m": {
+    "min": [
+     -4.8497,
+     -31.2433,
+     9.174
+    ],
+    "max": [
+     5.3252,
+     -25.4209,
+     10.7007
+    ],
+    "centre": [
+     0.2378,
+     -28.3321,
+     9.9374
+    ]
+   },
+   "cframe_cm": {
+    "X": 23.776,
+    "Y": 5993.736,
+    "Z": 2833.211
+   },
+   "size_cm": {
+    "X": 1017.487,
+    "Y": 152.664,
+    "Z": 582.246
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_GateHouse_002_fefcc7"
+  },
+  {
+   "slug": "B_GateHouse_003_7b41c8",
+   "source_object": "장안문_B_GateHouse_003",
+   "group": "SBK",
+   "material_key": "MI_T_B_GateHouse_003.001",
+   "tris": 447,
+   "polys": 194,
+   "budget": 447,
+   "verts": 192,
+   "bbox_m": {
+    "min": [
+     -3.6982,
+     -30.1507,
+     9.0492
+    ],
+    "max": [
+     4.1737,
+     -26.5136,
+     10.7123
+    ],
+    "centre": [
+     0.2377,
+     -28.3321,
+     9.8808
+    ]
+   },
+   "cframe_cm": {
+    "X": 23.774,
+    "Y": 5988.077,
+    "Z": 2833.214
+   },
+   "size_cm": {
+    "X": 787.19,
+    "Y": 166.304,
+    "Z": 363.71
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_GateHouse_003_7b41c8"
+  },
+  {
+   "slug": "B_GateHouse_004_d627da",
+   "source_object": "장안문_B_GateHouse_004",
+   "group": "SBK",
+   "material_key": "MI_T_B_GateHouse_004.001",
+   "tris": 296,
+   "polys": 102,
+   "budget": 296,
+   "verts": 164,
+   "bbox_m": {
+    "min": [
+     -3.5975,
+     -30.0079,
+     6.6016
+    ],
+    "max": [
+     4.1056,
+     -26.6957,
+     9.2847
+    ],
+    "centre": [
+     0.2541,
+     -28.3518,
+     7.9432
+    ]
+   },
+   "cframe_cm": {
+    "X": 25.405,
+    "Y": 5794.319,
+    "Z": 2835.18
+   },
+   "size_cm": {
+    "X": 770.31,
+    "Y": 268.312,
+    "Z": 331.212
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_GateHouse_004_d627da"
+  },
+  {
+   "slug": "B_Parapet_001_3a8c13",
+   "source_object": "장안문_B_Parapet_001",
+   "group": "SBK",
+   "material_key": "MI_T_B_Parapet_001.001",
+   "tris": 2129,
+   "polys": 954,
+   "budget": 2129,
+   "verts": 1121,
+   "bbox_m": {
+    "min": [
+     -20.7196,
+     -31.0775,
+     5.0741
+    ],
+    "max": [
+     20.6249,
+     6.5129,
+     9.4563
+    ],
+    "centre": [
+     -0.0474,
+     -12.2823,
+     7.2652
+    ]
+   },
+   "cframe_cm": {
+    "X": -4.736,
+    "Y": 5726.516,
+    "Z": 1228.23
+   },
+   "size_cm": {
+    "X": 4134.457,
+    "Y": 438.218,
+    "Z": 3759.032
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_Parapet_001_3a8c13"
+  },
+  {
+   "slug": "B_Parapet_002_13b2a4",
+   "source_object": "장안문_B_Parapet_002",
+   "group": "SBK",
+   "material_key": "MI_T_B_Parapet_002.001",
+   "tris": 368,
+   "polys": 158,
+   "budget": 368,
+   "verts": 481,
+   "bbox_m": {
+    "min": [
+     -20.631,
+     -31.0342,
+     2.8257
+    ],
+    "max": [
+     20.5425,
+     6.4936,
+     8.9676
+    ],
+    "centre": [
+     -0.0443,
+     -12.2703,
+     5.8966
+    ]
+   },
+   "cframe_cm": {
+    "X": -4.427,
+    "Y": 5589.664,
+    "Z": 1227.028
+   },
+   "size_cm": {
+    "X": 4117.349,
+    "Y": 614.187,
+    "Z": 3752.782
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_Parapet_002_13b2a4"
+  },
+  {
+   "slug": "B_RoofBoard_001_5d18d4",
+   "source_object": "장안문_B_RoofBoard_001",
+   "group": "SBK",
+   "material_key": "MI_T_B_RoofBoard_001.001",
+   "tris": 46,
+   "polys": 27,
+   "budget": 46,
+   "verts": 43,
+   "bbox_m": {
+    "min": [
+     -3.1557,
+     -31.5525,
+     2.9382
+    ],
+    "max": [
+     3.4885,
+     -25.8923,
+     6.7836
+    ],
+    "centre": [
+     0.1664,
+     -28.7224,
+     4.8609
+    ]
+   },
+   "cframe_cm": {
+    "X": 16.638,
+    "Y": 5486.093,
+    "Z": 2872.241
+   },
+   "size_cm": {
+    "X": 664.415,
+    "Y": 384.542,
+    "Z": 566.026
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_B_RoofBoard_001_5d18d4"
+  },
+  {
+   "slug": "CW_001_e44ad2",
+   "source_object": "장안문_CW_001",
+   "group": "SBK",
+   "material_key": "MI_T_CW_001",
+   "tris": 401,
+   "polys": 193,
+   "budget": 401,
+   "verts": 296,
+   "bbox_m": {
+    "min": [
+     -82.7573,
+     -23.356,
+     -0.4016
+    ],
+    "max": [
+     80.0771,
+     28.5563,
+     6.8025
+    ],
+    "centre": [
+     -1.3401,
+     2.6002,
+     3.2005
+    ]
+   },
+   "cframe_cm": {
+    "X": -134.008,
+    "Y": 5320.045,
+    "Z": -260.018
+   },
+   "size_cm": {
+    "X": 16283.444,
+    "Y": 720.413,
+    "Z": 5191.233
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_CW_001_e44ad2"
+  },
+  {
+   "slug": "CW_002_926fe4",
+   "source_object": "장안문_CW_002",
+   "group": "SBK",
+   "material_key": "MI_T_CW_002",
+   "tris": 1254,
+   "polys": 531,
+   "budget": 1254,
+   "verts": 648,
+   "bbox_m": {
+    "min": [
+     -82.2178,
+     -12.4291,
+     5.6555
+    ],
+    "max": [
+     79.9119,
+     28.4198,
+     7.0052
+    ],
+    "centre": [
+     -1.153,
+     7.9953,
+     6.3303
+    ]
+   },
+   "cframe_cm": {
+    "X": -115.295,
+    "Y": 5633.032,
+    "Z": -799.533
+   },
+   "size_cm": {
+    "X": 16212.964,
+    "Y": 134.97,
+    "Z": 4084.889
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_CW_002_926fe4"
+  },
+  {
+   "slug": "CW_003_f24d40",
+   "source_object": "장안문_CW_003",
+   "group": "SBK",
+   "material_key": "MI_T_CW_003",
+   "tris": 5955,
+   "polys": 3187,
+   "budget": 5955,
+   "verts": 3208,
+   "bbox_m": {
+    "min": [
+     -83.8105,
+     -31.9138,
+     -0.5128
+    ],
+    "max": [
+     79.9824,
+     28.5564,
+     7.2992
+    ],
+    "centre": [
+     -1.914,
+     -1.6787,
+     3.3932
+    ]
+   },
+   "cframe_cm": {
+    "X": -191.405,
+    "Y": 5339.32,
+    "Z": 167.871
+   },
+   "size_cm": {
+    "X": 16379.289,
+    "Y": 781.2,
+    "Z": 6047.017
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_CW_003_f24d40"
+  },
+  {
+   "slug": "CW_004_91aa10",
+   "source_object": "장안문_CW_004",
+   "group": "SBK",
+   "material_key": "MI_T_CW_004",
+   "tris": 69,
+   "polys": 36,
+   "budget": 69,
+   "verts": 181,
+   "bbox_m": {
+    "min": [
+     -73.4898,
+     -22.7499,
+     7.4705
+    ],
+    "max": [
+     73.2553,
+     -10.2524,
+     7.8064
+    ],
+    "centre": [
+     -0.1173,
+     -16.5012,
+     7.6384
+    ]
+   },
+   "cframe_cm": {
+    "X": -11.727,
+    "Y": 5763.842,
+    "Z": 1650.115
+   },
+   "size_cm": {
+    "X": 14674.506,
+    "Y": 33.586,
+    "Z": 1249.758
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_CW_004_91aa10"
+  },
+  {
+   "slug": "Cannon_adba0f",
+   "source_object": "장안문_Cannon",
+   "group": "HPR",
+   "material_key": "MI_T_Cannon.001",
+   "tris": 2019,
+   "polys": 1298,
+   "budget": 2019,
+   "verts": 850,
+   "bbox_m": {
+    "min": [
+     -70.9851,
+     -19.7958,
+     6.3816
+    ],
+    "max": [
+     70.4622,
+     -15.0838,
+     8.3803
+    ],
+    "centre": [
+     -0.2615,
+     -17.4398,
+     7.3809
+    ]
+   },
+   "cframe_cm": {
+    "X": -26.149,
+    "Y": 5738.093,
+    "Z": 1743.98
+   },
+   "size_cm": {
+    "X": 14144.73,
+    "Y": 199.874,
+    "Z": 471.205
+   },
+   "file": "HPR_01.fbx",
+   "expected_asset_name": "HPR_01_Cannon_adba0f"
+  },
+  {
+   "slug": "Ceiling_44aad5",
+   "source_object": "장안문_Ceiling",
+   "group": "JAM",
+   "material_key": "MI_T_Ceiling",
+   "tris": 24,
+   "polys": 12,
+   "budget": 24,
+   "verts": 16,
+   "bbox_m": {
+    "min": [
+     -8.3767,
+     -1.0276,
+     17.8196
+    ],
+    "max": [
+     8.3767,
+     1.0271,
+     17.906
+    ],
+    "centre": [
+     0.0,
+     -0.0003,
+     17.8628
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6786.282,
+    "Z": 0.026
+   },
+   "size_cm": {
+    "X": 1675.349,
+    "Y": 8.635,
+    "Z": 205.463
+   },
+   "file": "JAM_01.fbx",
+   "expected_asset_name": "JAM_01_Ceiling_44aad5"
+  },
+  {
+   "slug": "Column_4d8066",
+   "source_object": "장안문_Column",
+   "group": "JAM",
+   "material_key": "MI_T_Column",
+   "tris": 1830,
+   "polys": 914,
+   "budget": 1830,
+   "verts": 1059,
+   "bbox_m": {
+    "min": [
+     -11.4136,
+     -4.039,
+     6.6894
+    ],
+    "max": [
+     11.4137,
+     4.0386,
+     17.6955
+    ],
+    "centre": [
+     0.0001,
+     -0.0002,
+     12.1924
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.009,
+    "Y": 6219.243,
+    "Z": 0.019
+   },
+   "size_cm": {
+    "X": 2282.732,
+    "Y": 1100.615,
+    "Z": 807.76
+   },
+   "file": "JAM_01.fbx",
+   "expected_asset_name": "JAM_01_Column_4d8066"
+  },
+  {
+   "slug": "ComplexBracket_a7344b_p00",
+   "source_object": "장안문_ComplexBracket",
+   "group": "JAM",
+   "material_key": "MI_T_ComplexBracket",
+   "tris": 16901,
+   "polys": 11382,
+   "budget": 16901,
+   "verts": 10172,
+   "bbox_m": {
+    "min": [
+     -12.783,
+     -5.3043,
+     9.4976
+    ],
+    "max": [
+     -0.1753,
+     5.2879,
+     19.2376
+    ],
+    "centre": [
+     -6.4791,
+     -0.0082,
+     14.3676
+    ]
+   },
+   "cframe_cm": {
+    "X": -647.915,
+    "Y": 6436.762,
+    "Z": 0.819
+   },
+   "size_cm": {
+    "X": 1260.766,
+    "Y": 973.999,
+    "Z": 1059.217
+   },
+   "file": "JAM_01.fbx",
+   "expected_asset_name": "JAM_01_ComplexBracket_a7344b_p00"
+  },
+  {
+   "slug": "ComplexBracket_a7344b_p01",
+   "source_object": "장안문_ComplexBracket",
+   "group": "JAM",
+   "material_key": "MI_T_ComplexBracket",
+   "tris": 16894,
+   "polys": 11474,
+   "budget": 16894,
+   "verts": 10631,
+   "bbox_m": {
+    "min": [
+     -1.2899,
+     -5.2936,
+     9.4845
+    ],
+    "max": [
+     12.7063,
+     5.2913,
+     19.2405
+    ],
+    "centre": [
+     5.7082,
+     -0.0012,
+     14.3625
+    ]
+   },
+   "cframe_cm": {
+    "X": 570.818,
+    "Y": 6436.246,
+    "Z": 0.115
+   },
+   "size_cm": {
+    "X": 1399.623,
+    "Y": 975.599,
+    "Z": 1058.499
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_ComplexBracket_a7344b_p01"
+  },
+  {
+   "slug": "Crossbeam_a06336",
+   "source_object": "장안문_Crossbeam",
+   "group": "JAM",
+   "material_key": "MI_T_Crossbeam",
+   "tris": 1256,
+   "polys": 573,
+   "budget": 1256,
+   "verts": 664,
+   "bbox_m": {
+    "min": [
+     -12.0979,
+     -4.7184,
+     9.9109
+    ],
+    "max": [
+     12.1046,
+     4.7173,
+     18.1155
+    ],
+    "centre": [
+     0.0034,
+     -0.0006,
+     14.0132
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.337,
+    "Y": 6401.322,
+    "Z": 0.056
+   },
+   "size_cm": {
+    "X": 2420.245,
+    "Y": 820.462,
+    "Z": 943.566
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_Crossbeam_a06336"
+  },
+  {
+   "slug": "Flag_01_38680f",
+   "source_object": "장안문_Flag_01",
+   "group": "HPR",
+   "material_key": "MI_Flag_01",
+   "tris": 7689,
+   "polys": 4571,
+   "budget": 7689,
+   "verts": 3056,
+   "bbox_m": {
+    "min": [
+     -79.6129,
+     -26.0788,
+     5.0381
+    ],
+    "max": [
+     73.009,
+     21.0644,
+     11.5676
+    ],
+    "centre": [
+     -3.302,
+     -2.5072,
+     8.3029
+    ]
+   },
+   "cframe_cm": {
+    "X": -330.195,
+    "Y": 5830.287,
+    "Z": 250.722
+   },
+   "size_cm": {
+    "X": 15262.195,
+    "Y": 652.951,
+    "Z": 4714.322
+   },
+   "file": "HPR_01.fbx",
+   "expected_asset_name": "HPR_01_Flag_01_38680f"
+  },
+  {
+   "slug": "Floor_dcc58f",
+   "source_object": "장안문_Floor",
+   "group": "JAM",
+   "material_key": "MI_T_Floor",
+   "tris": 1319,
+   "polys": 777,
+   "budget": 1319,
+   "verts": 761,
+   "bbox_m": {
+    "min": [
+     -10.7572,
+     -3.8823,
+     7.6885
+    ],
+    "max": [
+     10.7568,
+     3.9311,
+     17.3086
+    ],
+    "centre": [
+     -0.0002,
+     0.0244,
+     12.4985
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.021,
+    "Y": 6249.855,
+    "Z": -2.438
+   },
+   "size_cm": {
+    "X": 2151.392,
+    "Y": 962.016,
+    "Z": 781.339
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_Floor_dcc58f"
+  },
+  {
+   "slug": "Fortification_001_af5042",
+   "source_object": "장안문_Fortification_001",
+   "group": "SBK",
+   "material_key": "MI_T_Fortification_001",
+   "tris": 298,
+   "polys": 131,
+   "budget": 298,
+   "verts": 178,
+   "bbox_m": {
+    "min": [
+     -24.2598,
+     -30.7987,
+     0.0038
+    ],
+    "max": [
+     24.2866,
+     6.4745,
+     7.3621
+    ],
+    "centre": [
+     0.0134,
+     -12.1621,
+     3.6829
+    ]
+   },
+   "cframe_cm": {
+    "X": 1.341,
+    "Y": 5368.293,
+    "Z": 1216.212
+   },
+   "size_cm": {
+    "X": 4854.635,
+    "Y": 735.835,
+    "Z": 3727.32
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_Fortification_001_af5042"
+  },
+  {
+   "slug": "Fortification_002_e80e23",
+   "source_object": "장안문_Fortification_002",
+   "group": "SBK",
+   "material_key": "MI_T_Fortification_002",
+   "tris": 330,
+   "polys": 165,
+   "budget": 330,
+   "verts": 216,
+   "bbox_m": {
+    "min": [
+     -81.8052,
+     -22.6902,
+     5.0692
+    ],
+    "max": [
+     80.0167,
+     28.4148,
+     7.4591
+    ],
+    "centre": [
+     -0.8943,
+     2.8623,
+     6.2642
+    ]
+   },
+   "cframe_cm": {
+    "X": -89.428,
+    "Y": 5626.416,
+    "Z": -286.227
+   },
+   "size_cm": {
+    "X": 16182.193,
+    "Y": 238.986,
+    "Z": 5110.497
+   },
+   "file": "SBK_04.fbx",
+   "expected_asset_name": "SBK_04_Fortification_002_e80e23"
+  },
+  {
+   "slug": "GH_Parapet_001_6d0006",
+   "source_object": "장안문_GH_Parapet_001",
+   "group": "SBK",
+   "material_key": "MI_T_GH_Parapet_001",
+   "tris": 748,
+   "polys": 279,
+   "budget": 748,
+   "verts": 418,
+   "bbox_m": {
+    "min": [
+     -20.7718,
+     -7.0041,
+     4.705
+    ],
+    "max": [
+     20.5658,
+     6.5028,
+     9.4655
+    ],
+    "centre": [
+     -0.103,
+     -0.2506,
+     7.0853
+    ]
+   },
+   "cframe_cm": {
+    "X": -10.299,
+    "Y": 5708.526,
+    "Z": 25.063
+   },
+   "size_cm": {
+    "X": 4133.761,
+    "Y": 476.056,
+    "Z": 1350.69
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_GH_Parapet_001_6d0006"
+  },
+  {
+   "slug": "GH_Wall_bde645",
+   "source_object": "장안문_GH_Wall",
+   "group": "SBK",
+   "material_key": "MI_T_GH_Wall",
+   "tris": 2974,
+   "polys": 1671,
+   "budget": 2974,
+   "verts": 1809,
+   "bbox_m": {
+    "min": [
+     -10.2073,
+     -2.8113,
+     12.7185
+    ],
+    "max": [
+     10.2073,
+     2.8113,
+     14.6081
+    ],
+    "centre": [
+     0.0,
+     -0.0,
+     13.6633
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6366.332,
+    "Z": 0.0
+   },
+   "size_cm": {
+    "X": 2041.46,
+    "Y": 188.959,
+    "Z": 562.268
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_GH_Wall_bde645"
+  },
+  {
+   "slug": "G_Arch_001_d539c1",
+   "source_object": "장안문_G_Arch_001",
+   "group": "SBK",
+   "material_key": "MI_T_G_Arch_001",
+   "tris": 160,
+   "polys": 56,
+   "budget": 160,
+   "verts": 80,
+   "bbox_m": {
+    "min": [
+     -3.853,
+     -6.4199,
+     0.0047
+    ],
+    "max": [
+     3.8152,
+     6.5996,
+     6.6237
+    ],
+    "centre": [
+     -0.0189,
+     0.0898,
+     3.3142
+    ]
+   },
+   "cframe_cm": {
+    "X": -1.894,
+    "Y": 5331.425,
+    "Z": -8.984
+   },
+   "size_cm": {
+    "X": 766.82,
+    "Y": 661.9,
+    "Z": 1301.947
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_Arch_001_d539c1"
+  },
+  {
+   "slug": "G_MetalDoor_001_df6112",
+   "source_object": "장안문_G_MetalDoor_001",
+   "group": "SBK",
+   "material_key": "MI_T_G_MetalDoor_001",
+   "tris": 44,
+   "polys": 22,
+   "budget": 44,
+   "verts": 24,
+   "bbox_m": {
+    "min": [
+     -2.6289,
+     -29.8743,
+     0.2767
+    ],
+    "max": [
+     2.9111,
+     -4.3563,
+     6.6294
+    ],
+    "centre": [
+     0.1411,
+     -17.1153,
+     3.453
+    ]
+   },
+   "cframe_cm": {
+    "X": 14.109,
+    "Y": 5345.304,
+    "Z": 1711.53
+   },
+   "size_cm": {
+    "X": 553.992,
+    "Y": 635.277,
+    "Z": 2551.809
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_MetalDoor_001_df6112"
+  },
+  {
+   "slug": "G_MetalDoor_002_3c2008",
+   "source_object": "장안문_G_MetalDoor_002",
+   "group": "SBK",
+   "material_key": "MI_T_G_MetalDoor_002",
+   "tris": 454,
+   "polys": 287,
+   "budget": 454,
+   "verts": 295,
+   "bbox_m": {
+    "min": [
+     -2.8746,
+     -29.9068,
+     0.0047
+    ],
+    "max": [
+     2.9301,
+     -3.8791,
+     6.7734
+    ],
+    "centre": [
+     0.0278,
+     -16.893,
+     3.3891
+    ]
+   },
+   "cframe_cm": {
+    "X": 2.777,
+    "Y": 5338.908,
+    "Z": 1689.297
+   },
+   "size_cm": {
+    "X": 580.467,
+    "Y": 676.866,
+    "Z": 2602.767
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_MetalDoor_002_3c2008"
+  },
+  {
+   "slug": "G_RoofBoard_001_156786",
+   "source_object": "장안문_G_RoofBoard_001",
+   "group": "SBK",
+   "material_key": "MI_T_G_RoofBoard_001",
+   "tris": 12,
+   "polys": 6,
+   "budget": 12,
+   "verts": 8,
+   "bbox_m": {
+    "min": [
+     -2.7662,
+     -4.3449,
+     6.557
+    ],
+    "max": [
+     2.6283,
+     5.0465,
+     6.6819
+    ],
+    "centre": [
+     -0.069,
+     0.3508,
+     6.6195
+    ]
+   },
+   "cframe_cm": {
+    "X": -6.897,
+    "Y": 5661.945,
+    "Z": -35.081
+   },
+   "size_cm": {
+    "X": 539.453,
+    "Y": 12.493,
+    "Z": 939.14
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_RoofBoard_001_156786"
+  },
+  {
+   "slug": "G_Stair_001_24273b",
+   "source_object": "장안문_G_Stair_001",
+   "group": "SBK",
+   "material_key": "MI_T_G_Stair_001",
+   "tris": 4910,
+   "polys": 2708,
+   "budget": 4910,
+   "verts": 2029,
+   "bbox_m": {
+    "min": [
+     -24.3754,
+     -6.4123,
+     0.0047
+    ],
+    "max": [
+     24.3405,
+     6.592,
+     7.82
+    ],
+    "centre": [
+     -0.0175,
+     0.0898,
+     3.9124
+    ]
+   },
+   "cframe_cm": {
+    "X": -1.746,
+    "Y": 5391.237,
+    "Z": -8.984
+   },
+   "size_cm": {
+    "X": 4871.587,
+    "Y": 781.525,
+    "Z": 1300.438
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_Stair_001_24273b"
+  },
+  {
+   "slug": "G_Stair_002_50e7ca",
+   "source_object": "장안문_G_Stair_002",
+   "group": "SBK",
+   "material_key": "MI_T_G_Stair_002",
+   "tris": 449,
+   "polys": 188,
+   "budget": 449,
+   "verts": 252,
+   "bbox_m": {
+    "min": [
+     -24.9432,
+     -6.8885,
+     0.0047
+    ],
+    "max": [
+     24.891,
+     7.068,
+     7.2797
+    ],
+    "centre": [
+     -0.0261,
+     0.0898,
+     3.6422
+    ]
+   },
+   "cframe_cm": {
+    "X": -2.612,
+    "Y": 5364.221,
+    "Z": -8.977
+   },
+   "size_cm": {
+    "X": 4983.422,
+    "Y": 727.492,
+    "Z": 1395.653
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_G_Stair_002_50e7ca"
+  },
+  {
+   "slug": "GateGuardPost_b79076",
+   "source_object": "장안문_GateGuardPost",
+   "group": "HPR",
+   "material_key": "MI_T_GateGuardPost",
+   "tris": 400,
+   "polys": 244,
+   "budget": 400,
+   "verts": 252,
+   "bbox_m": {
+    "min": [
+     -73.5978,
+     -22.8234,
+     8.0605
+    ],
+    "max": [
+     73.3284,
+     -8.4177,
+     8.416
+    ],
+    "centre": [
+     -0.1347,
+     -15.6205,
+     8.2383
+    ]
+   },
+   "cframe_cm": {
+    "X": -13.474,
+    "Y": 5823.826,
+    "Z": 1562.052
+   },
+   "size_cm": {
+    "X": 14692.621,
+    "Y": 35.549,
+    "Z": 1440.569
+   },
+   "file": "HPR_01.fbx",
+   "expected_asset_name": "HPR_01_GateGuardPost_b79076"
+  },
+  {
+   "slug": "Heartwood_d625bf",
+   "source_object": "장안문_Heartwood",
+   "group": "JAM",
+   "material_key": "MI_T_Heartwood",
+   "tris": 16,
+   "polys": 6,
+   "budget": 16,
+   "verts": 20,
+   "bbox_m": {
+    "min": [
+     -14.4756,
+     -7.019,
+     12.182
+    ],
+    "max": [
+     14.4756,
+     7.019,
+     19.7143
+    ],
+    "centre": [
+     0.0,
+     -0.0,
+     15.9481
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6594.813,
+    "Z": 0.0
+   },
+   "size_cm": {
+    "X": 2895.126,
+    "Y": 753.227,
+    "Z": 1403.8
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_Heartwood_d625bf"
+  },
+  {
+   "slug": "Lintel_c1ec95",
+   "source_object": "장안문_Lintel",
+   "group": "JAM",
+   "material_key": "MI_T_Lintel",
+   "tris": 1104,
+   "polys": 526,
+   "budget": 1104,
+   "verts": 577,
+   "bbox_m": {
+    "min": [
+     -11.3143,
+     -3.9465,
+     9.4682
+    ],
+    "max": [
+     11.3142,
+     3.9465,
+     18.4119
+    ],
+    "centre": [
+     -0.0001,
+     0.0,
+     13.9401
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.006,
+    "Y": 6394.005,
+    "Z": -0.0
+   },
+   "size_cm": {
+    "X": 2262.845,
+    "Y": 894.365,
+    "Z": 789.294
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_Lintel_c1ec95"
+  },
+  {
+   "slug": "Note_00c3fa",
+   "source_object": "장안문_Note",
+   "group": "HPR",
+   "material_key": "MI_T_Note",
+   "tris": 30,
+   "polys": 17,
+   "budget": 30,
+   "verts": 12,
+   "bbox_m": {
+    "min": [
+     -0.7021,
+     2.4809,
+     14.6591
+    ],
+    "max": [
+     0.7723,
+     2.5387,
+     15.2573
+    ],
+    "centre": [
+     0.0351,
+     2.5098,
+     14.9582
+    ]
+   },
+   "cframe_cm": {
+    "X": 3.512,
+    "Y": 6495.822,
+    "Z": -250.978
+   },
+   "size_cm": {
+    "X": 147.441,
+    "Y": 59.818,
+    "Z": 5.785
+   },
+   "file": "HPR_01.fbx",
+   "expected_asset_name": "HPR_01_Note_00c3fa"
+  },
+  {
+   "slug": "Pedestal_4f447c",
+   "source_object": "장안문_Pedestal",
+   "group": "SBK",
+   "material_key": "MI_T_Pedestal",
+   "tris": 520,
+   "polys": 215,
+   "budget": 520,
+   "verts": 296,
+   "bbox_m": {
+    "min": [
+     -11.7514,
+     -4.411,
+     6.7161
+    ],
+    "max": [
+     11.7542,
+     4.4312,
+     7.6537
+    ],
+    "centre": [
+     0.0014,
+     0.0101,
+     7.1849
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.139,
+    "Y": 5718.488,
+    "Z": -1.008
+   },
+   "size_cm": {
+    "X": 2350.565,
+    "Y": 93.758,
+    "Z": 884.222
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_Pedestal_4f447c"
+  },
+  {
+   "slug": "Purlin_7c3bc7",
+   "source_object": "장안문_Purlin",
+   "group": "JAM",
+   "material_key": "MI_T_Purlin",
+   "tris": 1891,
+   "polys": 685,
+   "budget": 1891,
+   "verts": 699,
+   "bbox_m": {
+    "min": [
+     -12.2173,
+     -4.8874,
+     11.3227
+    ],
+    "max": [
+     12.2255,
+     4.8921,
+     19.4219
+    ],
+    "centre": [
+     0.0041,
+     0.0023,
+     15.3723
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.412,
+    "Y": 6537.23,
+    "Z": -0.231
+   },
+   "size_cm": {
+    "X": 2444.276,
+    "Y": 809.922,
+    "Z": 977.95
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_Purlin_7c3bc7"
+  },
+  {
+   "slug": "PurlinSupport_f9d652",
+   "source_object": "장안문_PurlinSupport",
+   "group": "JAM",
+   "material_key": "MI_T_PurlinSupport",
+   "tris": 2503,
+   "polys": 1462,
+   "budget": 2503,
+   "verts": 1077,
+   "bbox_m": {
+    "min": [
+     -12.2135,
+     -4.8815,
+     10.8537
+    ],
+    "max": [
+     12.2134,
+     4.8808,
+     19.067
+    ],
+    "centre": [
+     -0.0001,
+     -0.0003,
+     14.9604
+    ]
+   },
+   "cframe_cm": {
+    "X": -0.006,
+    "Y": 6496.036,
+    "Z": 0.034
+   },
+   "size_cm": {
+    "X": 2442.682,
+    "Y": 821.324,
+    "Z": 976.23
+   },
+   "file": "JAM_02.fbx",
+   "expected_asset_name": "JAM_02_PurlinSupport_f9d652"
+  },
+  {
+   "slug": "Rafter_4f95cb",
+   "source_object": "장안문_Rafter",
+   "group": "JAM",
+   "material_key": "MI_T_Rafter",
+   "tris": 7394,
+   "polys": 5410,
+   "budget": 7394,
+   "verts": 4040,
+   "bbox_m": {
+    "min": [
+     -14.6995,
+     -7.3054,
+     10.9022
+    ],
+    "max": [
+     14.6995,
+     7.3054,
+     20.1887
+    ],
+    "centre": [
+     0.0,
+     -0.0,
+     15.5454
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6554.543,
+    "Z": 0.0
+   },
+   "size_cm": {
+    "X": 2939.897,
+    "Y": 928.645,
+    "Z": 1461.086
+   },
+   "file": "JAM_03.fbx",
+   "expected_asset_name": "JAM_03_Rafter_4f95cb"
+  },
+  {
+   "slug": "RammedEarth_b862a7",
+   "source_object": "장안문_RammedEarth",
+   "group": "SBK",
+   "material_key": "MI_T_RammedEarth",
+   "tris": 14,
+   "polys": 6,
+   "budget": 14,
+   "verts": 14,
+   "bbox_m": {
+    "min": [
+     -14.4256,
+     -6.9717,
+     12.2005
+    ],
+    "max": [
+     14.4256,
+     6.9717,
+     20.1892
+    ],
+    "centre": [
+     0.0,
+     -0.0,
+     16.1948
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6619.484,
+    "Z": 0.0
+   },
+   "size_cm": {
+    "X": 2885.117,
+    "Y": 798.872,
+    "Z": 1394.341
+   },
+   "file": "SBK_05.fbx",
+   "expected_asset_name": "SBK_05_RammedEarth_b862a7"
+  },
+  {
+   "slug": "Ridge_7297cf",
+   "source_object": "장안문_Ridge",
+   "group": "JAM",
+   "material_key": "MI_T_Ridge",
+   "tris": 313,
+   "polys": 158,
+   "budget": 313,
+   "verts": 242,
+   "bbox_m": {
+    "min": [
+     -14.4342,
+     -7.0038,
+     11.5572
+    ],
+    "max": [
+     14.4421,
+     7.0208,
+     21.2408
+    ],
+    "centre": [
+     0.0039,
+     0.0085,
+     16.399
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.393,
+    "Y": 6639.902,
+    "Z": -0.854
+   },
+   "size_cm": {
+    "X": 2887.628,
+    "Y": 968.357,
+    "Z": 1402.461
+   },
+   "file": "JAM_03.fbx",
+   "expected_asset_name": "JAM_03_Ridge_7297cf"
+  },
+  {
+   "slug": "Roof_31218c_p00",
+   "source_object": "장안문_Roof",
+   "group": "JAM",
+   "material_key": "MI_T_Roof",
+   "tris": 25771,
+   "polys": 13751,
+   "budget": 25771,
+   "verts": 13867,
+   "bbox_m": {
+    "min": [
+     -14.8805,
+     -7.4352,
+     11.3497
+    ],
+    "max": [
+     -8.0277,
+     7.3801,
+     19.862
+    ],
+    "centre": [
+     -11.4541,
+     -0.0276,
+     15.6058
+    ]
+   },
+   "cframe_cm": {
+    "X": -1145.412,
+    "Y": 6560.58,
+    "Z": 2.756
+   },
+   "size_cm": {
+    "X": 685.278,
+    "Y": 851.23,
+    "Z": 1481.523
+   },
+   "file": "JAM_04.fbx",
+   "expected_asset_name": "JAM_04"
+  },
+  {
+   "slug": "Roof_31218c_p01",
+   "source_object": "장안문_Roof",
+   "group": "JAM",
+   "material_key": "MI_T_Roof",
+   "tris": 25769,
+   "polys": 13593,
+   "budget": 25769,
+   "verts": 15080,
+   "bbox_m": {
+    "min": [
+     -12.8389,
+     -7.1413,
+     11.2142
+    ],
+    "max": [
+     -0.3473,
+     7.0671,
+     20.9145
+    ],
+    "centre": [
+     -6.5931,
+     -0.0371,
+     16.0643
+    ]
+   },
+   "cframe_cm": {
+    "X": -659.311,
+    "Y": 6606.433,
+    "Z": 3.709
+   },
+   "size_cm": {
+    "X": 1249.161,
+    "Y": 970.035,
+    "Z": 1420.844
+   },
+   "file": "JAM_05.fbx",
+   "expected_asset_name": "JAM_05"
+  },
+  {
+   "slug": "Roof_31218c_p02",
+   "source_object": "장안문_Roof",
+   "group": "JAM",
+   "material_key": "MI_T_Roof",
+   "tris": 25769,
+   "polys": 13411,
+   "budget": 25769,
+   "verts": 15045,
+   "bbox_m": {
+    "min": [
+     -8.175,
+     -6.9304,
+     11.2
+    ],
+    "max": [
+     7.0916,
+     6.9328,
+     21.3028
+    ],
+    "centre": [
+     -0.5417,
+     0.0012,
+     16.2514
+    ]
+   },
+   "cframe_cm": {
+    "X": -54.172,
+    "Y": 6625.144,
+    "Z": -0.12
+   },
+   "size_cm": {
+    "X": 1526.657,
+    "Y": 1010.281,
+    "Z": 1386.311
+   },
+   "file": "JAM_06.fbx",
+   "expected_asset_name": "JAM_06"
+  },
+  {
+   "slug": "Roof_31218c_p03",
+   "source_object": "장안문_Roof",
+   "group": "JAM",
+   "material_key": "MI_T_Roof",
+   "tris": 25770,
+   "polys": 13743,
+   "budget": 25770,
+   "verts": 14285,
+   "bbox_m": {
+    "min": [
+     2.9082,
+     -7.0216,
+     11.1194
+    ],
+    "max": [
+     10.0729,
+     7.0226,
+     21.2914
+    ],
+    "centre": [
+     6.4905,
+     0.0005,
+     16.2054
+    ]
+   },
+   "cframe_cm": {
+    "X": 649.055,
+    "Y": 6620.542,
+    "Z": -0.048
+   },
+   "size_cm": {
+    "X": 716.467,
+    "Y": 1017.206,
+    "Z": 1404.419
+   },
+   "file": "JAM_07.fbx",
+   "expected_asset_name": "JAM_07"
+  },
+  {
+   "slug": "Roof_31218c_p04",
+   "source_object": "장안문_Roof",
+   "group": "JAM",
+   "material_key": "MI_T_Roof",
+   "tris": 25763,
+   "polys": 13714,
+   "budget": 25763,
+   "verts": 12449,
+   "bbox_m": {
+    "min": [
+     7.71,
+     -7.4017,
+     11.3986
+    ],
+    "max": [
+     15.1048,
+     7.3455,
+     20.849
+    ],
+    "centre": [
+     11.4074,
+     -0.0281,
+     16.1238
+    ]
+   },
+   "cframe_cm": {
+    "X": 1140.743,
+    "Y": 6612.376,
+    "Z": 2.811
+   },
+   "size_cm": {
+    "X": 739.483,
+    "Y": 945.041,
+    "Z": 1474.713
+   },
+   "file": "JAM_08.fbx",
+   "expected_asset_name": "JAM_08_Roof_31218c_p04"
+  },
+  {
+   "slug": "RoofBoard_dd4bec",
+   "source_object": "장안문_RoofBoard",
+   "group": "JAM",
+   "material_key": "MI_T_RoofBoard",
+   "tris": 3026,
+   "polys": 1869,
+   "budget": 3026,
+   "verts": 1737,
+   "bbox_m": {
+    "min": [
+     -14.6072,
+     -7.1638,
+     11.0846
+    ],
+    "max": [
+     14.6072,
+     7.1638,
+     19.7809
+    ],
+    "centre": [
+     0.0,
+     -0.0,
+     15.4328
+    ]
+   },
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 6543.275,
+    "Z": 0.0
+   },
+   "size_cm": {
+    "X": 2921.432,
+    "Y": 869.63,
+    "Z": 1432.754
+   },
+   "file": "JAM_08.fbx",
+   "expected_asset_name": "JAM_08_RoofBoard_dd4bec"
+  },
+  {
+   "slug": "RoofStatue_21645f",
+   "source_object": "장안문_RoofStatue",
+   "group": "JAM",
+   "material_key": "MI_T_RoofStatue",
+   "tris": 3681,
+   "polys": 2188,
+   "budget": 3681,
+   "verts": 1771,
+   "bbox_m": {
+    "min": [
+     -15.1325,
+     -7.7548,
+     11.6919
+    ],
+    "max": [
+     15.1681,
+     7.7702,
+     22.1001
+    ],
+    "centre": [
+     0.0178,
+     0.0077,
+     16.896
+    ]
+   },
+   "cframe_cm": {
+    "X": 1.778,
+    "Y": 6689.599,
+    "Z": -0.768
+   },
+   "size_cm": {
+    "X": 3030.066,
+    "Y": 1040.824,
+    "Z": 1552.506
+   },
+   "file": "JAM_09.fbx",
+   "expected_asset_name": "JAM_09_RoofStatue_21645f"
+  },
+  {
+   "slug": "SideDoor_fd9593",
+   "source_object": "장안문_SideDoor",
+   "group": "JAM",
+   "material_key": "MI_T_SideDoor",
+   "tris": 5897,
+   "polys": 3310,
+   "budget": 5897,
+   "verts": 2506,
+   "bbox_m": {
+    "min": [
+     -14.3204,
+     1.8409,
+     7.4514
+    ],
+    "max": [
+     14.227,
+     4.4265,
+     11.0564
+    ],
+    "centre": [
+     -0.0467,
+     3.1337,
+     9.2539
+    ]
+   },
+   "cframe_cm": {
+    "X": -4.673,
+    "Y": 5925.39,
+    "Z": -313.372
+   },
+   "size_cm": {
+    "X": 2854.737,
+    "Y": 360.491,
+    "Z": 258.565
+   },
+   "file": "JAM_09.fbx",
+   "expected_asset_name": "JAM_09_SideDoor_fd9593"
+  },
+  {
+   "slug": "Signboard_002_c2f4b3",
+   "source_object": "장안문_Signboard_002",
+   "group": "HPR",
+   "material_key": "MI_T_Signboard_002",
+   "tris": 70,
+   "polys": 38,
+   "budget": 70,
+   "verts": 60,
+   "bbox_m": {
+    "min": [
+     -2.2681,
+     -4.8148,
+     15.1671
+    ],
+    "max": [
+     1.9537,
+     -3.6547,
+     16.5681
+    ],
+    "centre": [
+     -0.1572,
+     -4.2348,
+     15.8676
+    ]
+   },
+   "cframe_cm": {
+    "X": -15.719,
+    "Y": 6586.759,
+    "Z": 423.476
+   },
+   "size_cm": {
+    "X": 422.183,
+    "Y": 140.101,
+    "Z": 116.008
+   },
+   "file": "HPR_01.fbx",
+   "expected_asset_name": "HPR_01_Signboard_002_c2f4b3"
+  },
+  {
+   "slug": "WoodStair_fa7859",
+   "source_object": "장안문_WoodStair",
+   "group": "JAM",
+   "material_key": "MI_T_WoodStair",
+   "tris": 3746,
+   "polys": 2420,
+   "budget": 3746,
+   "verts": 2632,
+   "bbox_m": {
+    "min": [
+     -10.3742,
+     -2.9709,
+     7.4781
+    ],
+    "max": [
+     7.542,
+     2.6867,
+     13.8176
+    ],
+    "centre": [
+     -1.4161,
+     -0.1421,
+     10.6479
+    ]
+   },
+   "cframe_cm": {
+    "X": -141.608,
+    "Y": 6064.785,
+    "Z": 14.211
+   },
+   "size_cm": {
+    "X": 1791.616,
+    "Y": 633.954,
+    "Z": 565.761
+   },
+   "file": "JAM_09.fbx",
+   "expected_asset_name": "JAM_09_WoodStair_fa7859"
+  }
+ ],
+ "parts": [
+  {
+   "name": "GROUND_1de9b2_00",
+   "source_object": "지면_아레나",
+   "group": "HGD",
+   "material_key": "흙바닥",
+   "cframe_cm": {
+    "X": 0.0,
+    "Y": 4950.0,
+    "Z": -500.0
+   },
+   "size_cm": {
+    "X": 20000.0,
+    "Y": 100.0,
+    "Z": 15000.0
+   }
+  }
+ ],
+ "totals": {
+  "meshes": 74,
+  "parts": 1,
+  "tris": 407977,
+  "polys": 291216,
+  "files": 22,
+  "bytes": 57433656
+ }
+}

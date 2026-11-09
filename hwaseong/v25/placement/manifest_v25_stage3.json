@@ -1,0 +1,101 @@
+{
+ "schema": "hwaseong-v25/sgk-rules",
+ "files": [
+  {
+   "file": "10_MASTERS/HWS_NH_WALL.fbx",
+   "tris": 14767,
+   "material": "EXP_NH_WALL_0.002",
+   "bbox_min_m": [
+    -400.0,
+    -201.17,
+    -0.009
+   ],
+   "bbox_max_m": [
+    -392.0,
+    -194.835,
+    3.975
+   ],
+   "world": false
+  },
+  {
+   "file": "10_MASTERS/HWS_NH_PARAPET.fbx",
+   "tris": 1766,
+   "material": "EXP_NH_PARAPET_0.002",
+   "bbox_min_m": [
+    -2.0,
+    -0.504,
+    0.0
+   ],
+   "bbox_max_m": [
+    2.0,
+    0.504,
+    1.459
+   ],
+   "world": false
+  },
+  {
+   "file": "10_MASTERS/HWS_NH_SECRETGATE.fbx",
+   "tris": 13753,
+   "material": "EXP_NH_SECRETGATE_0.002",
+   "bbox_min_m": [
+    -400.0,
+    -201.805,
+    -0.009
+   ],
+   "bbox_max_m": [
+    -392.0,
+    -195.457,
+    3.976
+   ],
+   "world": false
+  },
+  {
+   "file": "10_MASTERS/HWS_BK_HayBale.fbx",
+   "tris": 736,
+   "material": "EXP_BK_HayBale_0.002",
+   "bbox_min_m": [
+    -0.753,
+    -0.412,
+    -0.0
+   ],
+   "bbox_max_m": [
+    0.753,
+    0.412,
+    0.621
+   ],
+   "world": false
+  },
+  {
+   "file": "10_MASTERS/HWS_BK_MudPots11.fbx",
+   "tris": 2880,
+   "material": "MAT_BK_MudPots11.003",
+   "bbox_min_m": [
+    56.837,
+    -23.163,
+    0.0
+   ],
+   "bbox_max_m": [
+    57.163,
+    -22.837,
+    0.313
+   ],
+   "world": false
+  },
+  {
+   "file": "10_MASTERS/HWS_BK_OldWoodenBarrel.fbx",
+   "tris": 6904,
+   "material": "MAT_BK_OldWoodenBarrel.003",
+   "bbox_min_m": [
+    19.502,
+    -14.505,
+    -0.0
+   ],
+   "bbox_max_m": [
+    20.498,
+    -13.495,
+    1.054
+   ],
+   "world": false
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "files": [
+  {
+   "file": "03_TERRAIN/HWS_TER_00.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_00.001",
+   "bbox_min_m": [
+    -100.0,
+    -70.0,
+    -0.503
+   ],
+   "bbox_max_m": [
+    -60.0,
+    -30.0,
+    0.047
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_01.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_01.001",
+   "bbox_min_m": [
+    -100.0,
+    -30.0,
+    -0.399
+   ],
+   "bbox_max_m": [
+    -60.0,
+    10.0,
+    0.308
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_02.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_02.001",
+   "bbox_min_m": [
+    -100.0,
+    10.0,
+    -0.167
+   ],
+   "bbox_max_m": [
+    -60.0,
+    50.0,
+    0.58
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_03.fbx",
+   "tris": 2400,
+   "material": "M_HWS_TER_03.001",
+   "bbox_min_m": [
+    -100.0,
+    50.0,
+    -0.273
+   ],
+   "bbox_max_m": [
+    -60.0,
+    80.0,
+    0.21
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_10.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_10.001",
+   "bbox_min_m": [
+    -60.0,
+    -70.0,
+    -0.282
+   ],
+   "bbox_max_m": [
+    -20.0,
+    -30.0,
+    0.43
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_11.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_11.001",
+   "bbox_min_m": [
+    -60.0,
+    -30.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    -20.0,
+    10.0,
+    0.0
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_12.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_12.001",
+   "bbox_min_m": [
+    -60.0,
+    10.0,
+    -0.008
+   ],
+   "bbox_max_m": [
+    -20.0,
+    50.0,
+    0.136
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_13.fbx",
+   "tris": 2400,
+   "material": "M_HWS_TER_13.001",
+   "bbox_min_m": [
+    -60.0,
+    50.0,
+    -0.21
+   ],
+   "bbox_max_m": [
+    -20.0,
+    80.0,
+    0.121
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_20.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_20.001",
+   "bbox_min_m": [
+    -20.0,
+    -70.0,
+    -0.309
+   ],
+   "bbox_max_m": [
+    20.0,
+    -30.0,
+    0.198
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_21.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_21.001",
+   "bbox_min_m": [
+    -20.0,
+    -30.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    20.0,
+    10.0,
+    0.0
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_22.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_22.001",
+   "bbox_min_m": [
+    -20.0,
+    10.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    20.0,
+    50.0,
+    0.0
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_23.fbx",
+   "tris": 2400,
+   "material": "M_HWS_TER_23.001",
+   "bbox_min_m": [
+    -20.0,
+    50.0,
+    -0.2
+   ],
+   "bbox_max_m": [
+    20.0,
+    80.0,
+    0.216
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_30.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_30.001",
+   "bbox_min_m": [
+    20.0,
+    -70.0,
+    -0.314
+   ],
+   "bbox_max_m": [
+    60.0,
+    -30.0,
+    0.356
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_31.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_31.001",
+   "bbox_min_m": [
+    20.0,
+    -30.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    60.0,
+    10.0,
+    0.0
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_32.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_32.001",
+   "bbox_min_m": [
+    20.0,
+    10.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    60.0,
+    50.0,
+    0.248
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_33.fbx",
+   "tris": 2400,
+   "material": "M_HWS_TER_33.001",
+   "bbox_min_m": [
+    20.0,
+    50.0,
+    0.0
+   ],
+   "bbox_max_m": [
+    60.0,
+    80.0,
+    0.55
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_40.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_40.001",
+   "bbox_min_m": [
+    60.0,
+    -70.0,
+    -0.517
+   ],
+   "bbox_max_m": [
+    100.0,
+    -30.0,
+    0.0
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_41.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_41.001",
+   "bbox_min_m": [
+    60.0,
+    -30.0,
+    -0.259
+   ],
+   "bbox_max_m": [
+    100.0,
+    10.0,
+    0.089
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_42.fbx",
+   "tris": 3200,
+   "material": "M_HWS_TER_42.001",
+   "bbox_min_m": [
+    60.0,
+    10.0,
+    -0.392
+   ],
+   "bbox_max_m": [
+    100.0,
+    50.0,
+    0.231
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_TER_43.fbx",
+   "tris": 2400,
+   "material": "M_HWS_TER_43.001",
+   "bbox_min_m": [
+    60.0,
+    50.0,
+    -0.592
+   ],
+   "bbox_max_m": [
+    100.0,
+    80.0,
+    0.537
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_00.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_00.001",
+   "bbox_min_m": [
+    -200.0,
+    -145.0,
+    -0.235
+   ],
+   "bbox_max_m": [
+    -100.0,
+    -45.0,
+    3.923
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_01.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_01.001",
+   "bbox_min_m": [
+    -200.0,
+    -45.0,
+    -0.386
+   ],
+   "bbox_max_m": [
+    -100.0,
+    55.0,
+    3.951
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_02.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_02.001",
+   "bbox_min_m": [
+    -200.0,
+    55.0,
+    -0.253
+   ],
+   "bbox_max_m": [
+    -100.0,
+    155.0,
+    3.954
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_10.fbx",
+   "tris": 950,
+   "material": "M_HWS_OUT_10.001",
+   "bbox_min_m": [
+    -100.0,
+    -145.0,
+    -0.247
+   ],
+   "bbox_max_m": [
+    0.0,
+    -69.0,
+    3.671
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_12.fbx",
+   "tris": 950,
+   "material": "M_HWS_OUT_12.001",
+   "bbox_min_m": [
+    -100.0,
+    79.0,
+    -0.251
+   ],
+   "bbox_max_m": [
+    0.0,
+    155.0,
+    3.983
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_20.fbx",
+   "tris": 950,
+   "material": "M_HWS_OUT_20.001",
+   "bbox_min_m": [
+    0.0,
+    -145.0,
+    -0.449
+   ],
+   "bbox_max_m": [
+    100.0,
+    -69.0,
+    3.789
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_22.fbx",
+   "tris": 950,
+   "material": "M_HWS_OUT_22.001",
+   "bbox_min_m": [
+    0.0,
+    79.0,
+    -0.586
+   ],
+   "bbox_max_m": [
+    100.0,
+    155.0,
+    3.751
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_30.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_30.001",
+   "bbox_min_m": [
+    100.0,
+    -145.0,
+    -0.371
+   ],
+   "bbox_max_m": [
+    200.0,
+    -45.0,
+    4.059
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_31.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_31.001",
+   "bbox_min_m": [
+    100.0,
+    -45.0,
+    -0.392
+   ],
+   "bbox_max_m": [
+    200.0,
+    55.0,
+    4.046
+   ],
+   "world": true
+  },
+  {
+   "file": "03_TERRAIN/HWS_OUT_32.fbx",
+   "tris": 1250,
+   "material": "M_HWS_OUT_32.001",
+   "bbox_min_m": [
+    100.0,
+    55.0,
+    -0.586
+   ],
+   "bbox_max_m": [
+    200.0,
+    155.0,
+    3.817
+   ],
+   "world": true
+  }
+ ]
+}

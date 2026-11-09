@@ -1,0 +1,1045 @@
+{
+ "schema": "hwaseong-v25/sgk-rules",
+ "files": [
+  {
+   "file": "01_JAM/HWS_JAM_00_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.707,
+    -4.452,
+    11.168
+   ],
+   "bbox_max_m": [
+    14.813,
+    10.029,
+    13.566
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_01_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.697,
+    -4.481,
+    11.185
+   ],
+   "bbox_max_m": [
+    14.872,
+    10.286,
+    21.031
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_02_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.698,
+    5.746,
+    11.185
+   ],
+   "bbox_max_m": [
+    14.698,
+    10.257,
+    13.489
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_03_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.707,
+    -3.681,
+    11.185
+   ],
+   "bbox_max_m": [
+    14.707,
+    10.242,
+    20.713
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_04_MI_T_CW_002_001.fbx",
+   "tris": 14113,
+   "material": "MI_T_CW_002.001",
+   "bbox_min_m": [
+    -82.281,
+    -9.526,
+    5.621
+   ],
+   "bbox_max_m": [
+    79.956,
+    31.341,
+    6.971
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_05_MI_T_CW_003_001.fbx",
+   "tris": 18306,
+   "material": "MI_T_CW_003.001",
+   "bbox_min_m": [
+    -83.875,
+    -29.048,
+    -0.552
+   ],
+   "bbox_max_m": [
+    80.027,
+    31.478,
+    7.266
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_06_MI_T_Ridge.fbx",
+   "tris": 15054,
+   "material": "MI_T_Ridge",
+   "bbox_min_m": [
+    -14.595,
+    -4.248,
+    11.52
+   ],
+   "bbox_max_m": [
+    14.587,
+    10.072,
+    21.258
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_07_MI_T_Cannon.fbx",
+   "tris": 25920,
+   "material": "MI_T_Cannon",
+   "bbox_min_m": [
+    -71.041,
+    -16.915,
+    6.788
+   ],
+   "bbox_max_m": [
+    70.496,
+    -12.191,
+    8.354
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_08_MI_T_CW_001_001.fbx",
+   "tris": 2940,
+   "material": "MI_T_CW_001.001",
+   "bbox_min_m": [
+    -82.829,
+    -20.48,
+    -0.44
+   ],
+   "bbox_max_m": [
+    80.125,
+    31.478,
+    6.768
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_09_MI_T_GH_Wall.fbx",
+   "tris": 25920,
+   "material": "MI_T_GH_Wall",
+   "bbox_min_m": [
+    -10.223,
+    0.089,
+    12.688
+   ],
+   "bbox_max_m": [
+    10.206,
+    5.716,
+    14.573
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_10_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.726,
+    -2.361,
+    9.432
+   ],
+   "bbox_max_m": [
+    11.823,
+    8.16,
+    19.273
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_11_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.656,
+    -2.355,
+    9.523
+   ],
+   "bbox_max_m": [
+    11.782,
+    8.176,
+    18.813
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_12_MI_T_ComplexBracket.fbx",
+   "tris": 25919,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.656,
+    -2.355,
+    9.523
+   ],
+   "bbox_max_m": [
+    11.836,
+    8.229,
+    17.728
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_13_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -11.085,
+    -2.355,
+    9.432
+   ],
+   "bbox_max_m": [
+    12.709,
+    8.229,
+    19.273
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_14_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -11.873,
+    -2.355,
+    9.523
+   ],
+   "bbox_max_m": [
+    12.709,
+    8.16,
+    17.715
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_15_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.726,
+    -2.424,
+    9.523
+   ],
+   "bbox_max_m": [
+    11.852,
+    8.176,
+    19.273
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_16_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.671,
+    -2.365,
+    9.432
+   ],
+   "bbox_max_m": [
+    12.645,
+    8.162,
+    17.728
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_17_MI_T_ComplexBracket.fbx",
+   "tris": 25920,
+   "material": "MI_T_ComplexBracket",
+   "bbox_min_m": [
+    -12.463,
+    -2.355,
+    9.523
+   ],
+   "bbox_max_m": [
+    11.852,
+    8.16,
+    19.273
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_18_MI_T_Floor.fbx",
+   "tris": 3902,
+   "material": "MI_T_Floor",
+   "bbox_min_m": [
+    -10.773,
+    -0.982,
+    7.655
+   ],
+   "bbox_max_m": [
+    10.755,
+    6.836,
+    17.282
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_19_MI_T_Fortification_002_001.fbx",
+   "tris": 468,
+   "material": "MI_T_Fortification_002.001",
+   "bbox_min_m": [
+    -81.868,
+    -19.803,
+    -0.035
+   ],
+   "bbox_max_m": [
+    80.061,
+    31.336,
+    7.425
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_20_MI_T_Pedestal.fbx",
+   "tris": 3936,
+   "material": "MI_T_Pedestal",
+   "bbox_min_m": [
+    -11.768,
+    -1.511,
+    6.682
+   ],
+   "bbox_max_m": [
+    11.754,
+    7.337,
+    7.62
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_21_MI_T_GH_Parapet_001_001.fbx",
+   "tris": 15936,
+   "material": "MI_T_GH_Parapet_001.001",
+   "bbox_min_m": [
+    -20.82,
+    -4.151,
+    4.67
+   ],
+   "bbox_max_m": [
+    20.594,
+    9.46,
+    9.445
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_22_MI_T_B_Parapet_001_001.fbx",
+   "tris": 23595,
+   "material": "MI_T_B_Parapet_001.001",
+   "bbox_min_m": [
+    -20.772,
+    -28.196,
+    5.041
+   ],
+   "bbox_max_m": [
+    20.639,
+    9.428,
+    9.448
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_23_MI_T_WoodStair.fbx",
+   "tris": 25919,
+   "material": "MI_T_WoodStair",
+   "bbox_min_m": [
+    -10.39,
+    -0.07,
+    7.343
+   ],
+   "bbox_max_m": [
+    7.458,
+    5.591,
+    13.793
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_24_MI_T_Column.fbx",
+   "tris": 21864,
+   "material": "MI_T_Column",
+   "bbox_min_m": [
+    -11.421,
+    -1.133,
+    6.655
+   ],
+   "bbox_max_m": [
+    11.404,
+    6.938,
+    17.669
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_25_MI_T_Rafter.fbx",
+   "tris": 25920,
+   "material": "MI_T_Rafter",
+   "bbox_min_m": [
+    -14.814,
+    -4.504,
+    10.883
+   ],
+   "bbox_max_m": [
+    14.797,
+    10.309,
+    20.173
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_26_MI_T_SideDoor.fbx",
+   "tris": 26248,
+   "material": "MI_T_SideDoor",
+   "bbox_min_m": [
+    -14.371,
+    4.737,
+    7.417
+   ],
+   "bbox_max_m": [
+    14.228,
+    7.336,
+    11.017
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_27_MI_T_PurlinSupport.fbx",
+   "tris": 11748,
+   "material": "MI_T_PurlinSupport",
+   "bbox_min_m": [
+    -12.23,
+    -1.983,
+    10.822
+   ],
+   "bbox_max_m": [
+    12.213,
+    7.787,
+    19.041
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_28_MI_T_RoofStatue.fbx",
+   "tris": 25920,
+   "material": "MI_T_RoofStatue",
+   "bbox_min_m": [
+    -15.179,
+    -4.87,
+    11.657
+   ],
+   "bbox_max_m": [
+    15.162,
+    10.675,
+    22.083
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_29_MI_T_Heartwood.fbx",
+   "tris": 580,
+   "material": "MI_T_Heartwood",
+   "bbox_min_m": [
+    -14.494,
+    -4.121,
+    11.262
+   ],
+   "bbox_max_m": [
+    14.477,
+    9.928,
+    19.689
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_30_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -13.793,
+    -3.707,
+    16.735
+   ],
+   "bbox_max_m": [
+    14.041,
+    9.512,
+    20.816
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_31_MI_T_Crossbeam.fbx",
+   "tris": 15688,
+   "material": "MI_T_Crossbeam",
+   "bbox_min_m": [
+    -12.114,
+    -1.819,
+    9.874
+   ],
+   "bbox_max_m": [
+    12.104,
+    7.623,
+    18.089
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_32_MI_T_Lintel.fbx",
+   "tris": 17022,
+   "material": "MI_T_Lintel",
+   "bbox_min_m": [
+    -11.343,
+    -1.059,
+    9.443
+   ],
+   "bbox_max_m": [
+    11.326,
+    6.864,
+    18.407
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_33_MI_T_RoofBoard.fbx",
+   "tris": 25920,
+   "material": "MI_T_RoofBoard",
+   "bbox_min_m": [
+    -14.631,
+    -4.272,
+    11.037
+   ],
+   "bbox_max_m": [
+    14.614,
+    10.077,
+    19.755
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_34_MI_Flag_01_001.fbx",
+   "tris": 25920,
+   "material": "MI_Flag_01.001",
+   "bbox_min_m": [
+    -79.689,
+    -23.218,
+    5.003
+   ],
+   "bbox_max_m": [
+    73.061,
+    23.993,
+    11.538
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_35_MI_Flag_01_001.fbx",
+   "tris": 13988,
+   "material": "MI_Flag_01.001",
+   "bbox_min_m": [
+    -72.306,
+    -18.305,
+    5.003
+   ],
+   "bbox_max_m": [
+    -15.974,
+    8.541,
+    10.371
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_36_MI_T_B_Parapet_002_001.fbx",
+   "tris": 19872,
+   "material": "MI_T_B_Parapet_002.001",
+   "bbox_min_m": [
+    -20.657,
+    -28.155,
+    2.796
+   ],
+   "bbox_max_m": [
+    20.555,
+    9.329,
+    9.057
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_37_MI_T_B_GateHouse_004_001.fbx",
+   "tris": 1024,
+   "material": "MI_T_B_GateHouse_004.001",
+   "bbox_min_m": [
+    -3.608,
+    -27.125,
+    6.567
+   ],
+   "bbox_max_m": [
+    4.1,
+    -23.811,
+    9.252
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_38_MI_T_RammedEarth.fbx",
+   "tris": 584,
+   "material": "MI_T_RammedEarth",
+   "bbox_min_m": [
+    -14.481,
+    -4.113,
+    11.311
+   ],
+   "bbox_max_m": [
+    14.464,
+    9.918,
+    20.176
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_39_MI_T_G_Stair_001_001.fbx",
+   "tris": 7108,
+   "material": "MI_T_G_Stair_001.001",
+   "bbox_min_m": [
+    -24.4,
+    -3.514,
+    -0.034
+   ],
+   "bbox_max_m": [
+    24.348,
+    9.499,
+    7.787
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_40_MI_T_Purlin.fbx",
+   "tris": 16840,
+   "material": "MI_T_Purlin",
+   "bbox_min_m": [
+    -12.234,
+    -1.988,
+    11.292
+   ],
+   "bbox_max_m": [
+    12.225,
+    7.797,
+    19.405
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_41_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -13.79,
+    2.914,
+    16.727
+   ],
+   "bbox_max_m": [
+    13.779,
+    9.485,
+    20.73
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_42_MI_T_Ceiling.fbx",
+   "tris": 1356,
+   "material": "MI_T_Ceiling",
+   "bbox_min_m": [
+    -8.391,
+    1.874,
+    17.793
+   ],
+   "bbox_max_m": [
+    8.374,
+    3.93,
+    17.879
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_43_MI_T_B_CastleWall_002_001.fbx",
+   "tris": 25919,
+   "material": "MI_T_B_CastleWall_002.001",
+   "bbox_min_m": [
+    -73.559,
+    -28.11,
+    4.689
+   ],
+   "bbox_max_m": [
+    73.299,
+    -2.972,
+    8.082
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_44_MI_T_GateGuardPost_001.fbx",
+   "tris": 1816,
+   "material": "MI_T_GateGuardPost.001",
+   "bbox_min_m": [
+    -73.655,
+    -19.936,
+    8.027
+   ],
+   "bbox_max_m": [
+    73.368,
+    -5.516,
+    8.383
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_45_MI_T_Fortification_001_001.fbx",
+   "tris": 6826,
+   "material": "MI_T_Fortification_001.001",
+   "bbox_min_m": [
+    -24.226,
+    -28.001,
+    -0.034
+   ],
+   "bbox_max_m": [
+    24.234,
+    9.381,
+    7.328
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_48_MI_T_B_GateHouse_003_001.fbx",
+   "tris": 2549,
+   "material": "MI_T_B_GateHouse_003.001",
+   "bbox_min_m": [
+    -3.709,
+    -27.268,
+    9.023
+   ],
+   "bbox_max_m": [
+    4.168,
+    -23.629,
+    10.681
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_49_MI_T_G_Stair_002_001.fbx",
+   "tris": 5296,
+   "material": "MI_T_G_Stair_002.001",
+   "bbox_min_m": [
+    -24.968,
+    -3.992,
+    -0.034
+   ],
+   "bbox_max_m": [
+    24.904,
+    9.977,
+    7.251
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_50_MI_T_B_ArchDoor_001_001.fbx",
+   "tris": 5556,
+   "material": "MI_T_B_ArchDoor_001.001",
+   "bbox_min_m": [
+    -19.814,
+    -4.086,
+    4.966
+   ],
+   "bbox_max_m": [
+    19.408,
+    -2.11,
+    8.056
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_51_MI_T_CW_004_001.fbx",
+   "tris": 7556,
+   "material": "MI_T_CW_004.001",
+   "bbox_min_m": [
+    -73.55,
+    -19.866,
+    7.445
+   ],
+   "bbox_max_m": [
+    73.299,
+    -7.275,
+    7.785
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_52_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -13.892,
+    -3.681,
+    13.085
+   ],
+   "bbox_max_m": [
+    13.779,
+    9.486,
+    20.713
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_53_MI_T_B_GateHouse_002_001.fbx",
+   "tris": 6644,
+   "material": "MI_T_B_GateHouse_002.001",
+   "bbox_min_m": [
+    -4.861,
+    -28.362,
+    9.151
+   ],
+   "bbox_max_m": [
+    5.32,
+    -22.535,
+    10.832
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_54_MI_T_Note.fbx",
+   "tris": 108,
+   "material": "MI_T_Note",
+   "bbox_min_m": [
+    -0.711,
+    5.385,
+    14.606
+   ],
+   "bbox_max_m": [
+    0.764,
+    5.443,
+    15.254
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_55_MI_T_B_CastleWall_001_001.fbx",
+   "tris": 26321,
+   "material": "MI_T_B_CastleWall_001.001",
+   "bbox_min_m": [
+    -20.667,
+    -28.11,
+    -0.033
+   ],
+   "bbox_max_m": [
+    20.549,
+    -2.955,
+    7.047
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_56_MI_T_B_Floor_001.fbx",
+   "tris": 2303,
+   "material": "MI_T_B_Floor.001",
+   "bbox_min_m": [
+    -19.789,
+    -27.067,
+    4.822
+   ],
+   "bbox_max_m": [
+    19.692,
+    -2.953,
+    6.586
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_57_MI_T_G_RoofBoard_001_001.fbx",
+   "tris": 12,
+   "material": "MI_T_G_RoofBoard_001.001",
+   "bbox_min_m": [
+    -2.777,
+    -1.445,
+    6.523
+   ],
+   "bbox_max_m": [
+    2.621,
+    7.952,
+    6.648
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_58_MI_T_B_GateHouse_001_001.fbx",
+   "tris": 25920,
+   "material": "MI_T_B_GateHouse_001.001",
+   "bbox_min_m": [
+    -4.965,
+    -28.456,
+    9.398
+   ],
+   "bbox_max_m": [
+    5.424,
+    -22.438,
+    11.897
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_59_MI_T_G_Arch_001_001.fbx",
+   "tris": 432,
+   "material": "MI_T_G_Arch_001.001",
+   "bbox_min_m": [
+    -3.864,
+    -3.522,
+    -0.034
+   ],
+   "bbox_max_m": [
+    3.809,
+    9.506,
+    6.59
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_60_MI_T_B_RoofBoard_001_001.fbx",
+   "tris": 2562,
+   "material": "MI_T_B_RoofBoard_001.001",
+   "bbox_min_m": [
+    -3.05,
+    -28.122,
+    2.796
+   ],
+   "bbox_max_m": [
+    3.632,
+    -23.01,
+    6.75
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_61_MI_T_B_Arch_001.fbx",
+   "tris": 1122,
+   "material": "MI_T_B_Arch.001",
+   "bbox_min_m": [
+    -4.049,
+    -28.046,
+    -0.034
+   ],
+   "bbox_max_m": [
+    4.631,
+    -22.868,
+    6.75
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_62_MI_T_Signboard_002.fbx",
+   "tris": 1500,
+   "material": "MI_T_Signboard_002",
+   "bbox_min_m": [
+    -2.279,
+    -1.918,
+    15.134
+   ],
+   "bbox_max_m": [
+    1.948,
+    -0.742,
+    16.546
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_63_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -13.892,
+    -3.68,
+    16.727
+   ],
+   "bbox_max_m": [
+    13.677,
+    2.891,
+    20.73
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_64_WorldGridMaterial.fbx",
+   "tris": 4,
+   "material": "WorldGridMaterial",
+   "bbox_min_m": [
+    -80.246,
+    -9.492,
+    6.157
+   ],
+   "bbox_max_m": [
+    -80.246,
+    -9.032,
+    6.512
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_65_MI_T_Roof.fbx",
+   "tris": 25919,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.881,
+    -4.482,
+    11.299
+   ],
+   "bbox_max_m": [
+    14.872,
+    10.287,
+    20.665
+   ],
+   "world": true
+  },
+  {
+   "file": "01_JAM/HWS_JAM_66_MI_T_Roof.fbx",
+   "tris": 25920,
+   "material": "MI_T_Roof",
+   "bbox_min_m": [
+    -14.878,
+    -4.463,
+    11.168
+   ],
+   "bbox_max_m": [
+    14.709,
+    10.268,
+    21.276
+   ],
+   "world": true
+  }
+ ]
+}

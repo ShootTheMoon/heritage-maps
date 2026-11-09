@@ -1,0 +1,32 @@
+{
+ "delta_cm": [
+  -58000.0,
+  -5000.0,
+  0.0
+ ],
+ "parts": [
+  {
+   "name": "GROUND_1de9b2_00",
+   "group": "HGD",
+   "className": "Part",
+   "cframe": {
+    "X": -58000.0,
+    "Y": -50.0,
+    "Z": -500.0
+   },
+   "size_cm": {
+    "X": 20000.0,
+    "Y": 100.0,
+    "Z": 15000.0
+   },
+   "material": "Ground",
+   "color3": [
+    107,
+    92,
+    71
+   ],
+   "anchored": true,
+   "canCollide": true
+  }
+ ]
+}
